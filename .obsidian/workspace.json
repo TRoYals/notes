@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a38588aa093fced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/日语/test3333.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/日语/test.md",
+                "file": "Area/日语/test3333.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/日语/test.md",
+                "file": "Area/日语/test3333.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/日语/test.md"
+                "file": "Area/日语/test3333.md"
               }
             }
           },
@@ -199,10 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6170b6844abf91e5",
+  "active": "4a38588aa093fced",
   "lastOpenFiles": [
-    "Area/日语/日语学习笔记.md",
     "Area/日语/test.md",
+    "Area/日语/test3333.md",
+    "Area/日语/日语学习笔记.md",
     "Area/前端/javascript/javascript.md",
     "所有文章.md",
     "database.md",
@@ -236,7 +250,6 @@
     "Others/Templates/day_template.md",
     "React/React_udemy_John/ReactUdemyCourse/React 基础笔记by John.md",
     "React/ReactBasic/React_Optimization.md",
-    "更生/工作/BOVEM.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
