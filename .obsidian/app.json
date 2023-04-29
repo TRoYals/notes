@@ -16,5 +16,6 @@
   "defaultViewMode": "preview",
   "smartIndentList": false,
   "spellcheck": false,
-  "attachmentFolderPath": "Others/scripts"
+  "attachmentFolderPath": "Others/scripts",
+  "newLinkFormat": "relative"
 }
