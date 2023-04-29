@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57abf6945aba61f6",
+        "id": "54ca9f03ec908992",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa222ef1502f65b",
+            "id": "c0ab1f523a629ae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5b8c878164a27e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/日语/日语学习笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6170b6844abf91e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/日语/test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a38588aa093fced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/日语/test3333.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/日语/test3333.md",
+                "file": "Area/前端/javascript/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/日语/test3333.md",
+                "file": "Area/前端/javascript/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/日语/test3333.md"
+                "file": "Area/前端/javascript/javascript.md"
               }
             }
           },
@@ -212,21 +172,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a38588aa093fced",
+  "active": "c0ab1f523a629ae4",
   "lastOpenFiles": [
-    "Area/日语/test.md",
-    "Area/日语/test3333.md",
+    "Area/前端/前端.md",
     "Area/日语/日语学习笔记.md",
     "Area/前端/javascript/javascript.md",
-    "所有文章.md",
-    "database.md",
-    "Area/工具/我的blog工作流.md",
-    "Area/工具/必备应用.md",
     "Area/工具/工具笔记.md",
+    "database.md",
+    "Area/工具/必备应用.md",
+    "Area/工具/我的blog工作流.md",
+    "Area/日语/test3333.md",
+    "Area/日语/test.md",
+    "所有文章.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Others/blog模板.md",
     "Others/().md",
-    "Area/前端/02 前端.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台",
     "Untitled 1",
     "Untitled",
