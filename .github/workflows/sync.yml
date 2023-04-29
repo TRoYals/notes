@@ -46,10 +46,10 @@ jobs:
                 content = f.read()
 
             # 合并两个正则表达式
-            link_pattern = re.compile(r"\[\[((.+?)#(.+?))(.+?)(\|(.+?))?\]\]")
+            link_pattern = re.compile(r"\[\[((.+?)#(.+?))?(.+?)(\|(.+?))?\]\]")
 
             def replace_link(match):
-                full_link = match.group(1)
+                full_link = match.group(1) or match.group(4)
                 anchor = match.group(3)
                 title = match.group(6)
                 if anchor:
@@ -61,6 +61,7 @@ jobs:
 
             with open(file_path, "w") as f:
                 f.write(content)
+
 
         def remove_tags(file_path):
             with open(file_path, "r") as f:
