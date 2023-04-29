@@ -45,7 +45,7 @@ jobs:
             with open(file_path, "r") as f:
                 content = f.read()
             link_pattern = re.compile(r"\[\[(.+?)(\|(.+?))?\]\]")
-            content = link_pattern.sub(lambda m: f"[{m.group(3) or m.group(1)}]({m.group(1).replace(' ', '%20')}.md)", content)
+            content = link_pattern.sub(lambda m: f"[{m.group(3) or m.group(1)}]({m.group(1).replace(\" \", \"%20\")}.md)", content)
             with open(file_path, "w") as f:
                 f.write(content)
         def remove_tags(file_path):
@@ -65,6 +65,7 @@ jobs:
                     process_links(file_path)
                     remove_tags(file_path)
         '
+
 
 
 
