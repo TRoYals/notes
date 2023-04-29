@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a48404b1008e6b0",
+        "id": "7b83640f95d0dfe1",
         "type": "tabs",
         "children": [
           {
-            "id": "c8abd89c56c654fb",
+            "id": "b6d3323df4701846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/01 工具/我的blog工作流.md",
+                "file": "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/01 工具/我的blog工作流.md",
+                "file": "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/01 工具/我的blog工作流.md",
+                "file": "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/01 工具/我的blog工作流.md"
+                "file": "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
               }
             }
           },
@@ -172,10 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8abd89c56c654fb",
+  "active": "b6d3323df4701846",
   "lastOpenFiles": [
-    "Area/01 工具/工具笔记.md",
+    "Others/().md",
+    "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Area/01 工具/我的blog工作流.md",
+    "Area/05 视觉小说/kira🌟kira 煌煌舞台",
+    "Area/01 工具/工具笔记.md",
     "Area/01 工具/必备应用.md",
     "Area/02 前端/02 前端.md",
     "database.md",
@@ -195,7 +198,6 @@
     "Untitled 1.md",
     "Others",
     "Area/01 工具",
-    "Area/06 麻雀",
     "WEB3 仓库/Hack Analysis 0xbaDc0dE MEV Bot, September 2022  by Immunefi  Immunefi  Medium.md",
     "00日常/日/2023-04-29.md",
     "front-end 仓库/面试刷题/日本派遣.md",
@@ -208,7 +210,6 @@
     "更生/工作/BOVEM.md",
     "React/React_udemy_John/WEB/web笔记/handling error in Express.md",
     "Reading/Books/atomic habit.md",
-    "日麻 仓库/日麻博客/杠.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

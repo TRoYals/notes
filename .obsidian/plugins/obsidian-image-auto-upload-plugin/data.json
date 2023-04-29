@@ -6,5 +6,6 @@
   "workOnNetWork": true,
   "fixPath": false,
   "applyImage": true,
-  "newWorkBlackDomains": ""
+  "newWorkBlackDomains": "",
+  "deleteSource": true
 }
