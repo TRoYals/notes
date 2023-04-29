@@ -68,7 +68,6 @@ jobs:
 
 
 
-
     - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
         rsync -av --exclude='.git' static_resources/ website/docs/
