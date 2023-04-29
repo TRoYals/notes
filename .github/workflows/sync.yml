@@ -1,0 +1,34 @@
+name: Sync Static Resources
+
+on:
+  push:
+    branches:
+      - main  # 修改为您的默认分支名称，如果不是 main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout static resources repository
+      uses: actions/checkout@v2
+      with:
+        repository: TRoYals/notes
+        path: static_resources
+
+    - name: Checkout website repository
+      uses: actions/checkout@v2
+      with:
+        repository: TRoYals/Naglfar28
+        path: website
+        token: ${{ secrets.GH_PAT}}
+
+    - name: Copy static resources to website repository
+      run: |
+        cp -R static_resources/ website/docs/
+        cd website
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add docs/
+        git commit -m "Auto sync static resources" || true
+        git push
