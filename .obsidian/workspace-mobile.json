@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "e8337106d363ce50",
+    "type": "split",
+    "children": [
+      {
+        "id": "7194cada28894351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91431d2528e3652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语 仓库/presentation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d685aaa090d88d68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17d1ae65215b7fe1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "85454ddda34dde54",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e0c9f2762aabbb5c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1874b8bb6587ba08",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5a88dfb9fe209bc",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "374e1e9d77938c44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e4885cce6560f0d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "英语 仓库/presentation.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c918ba348aacee8a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "英语 仓库/presentation.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "674d13f90ecd9fc0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "英语 仓库/presentation.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f91431d2528e3652",
+  "lastOpenFiles": [
+    "英语 仓库/critque essay.md",
+    "日麻/Naga记录/Naga记录.md",
+    "front-end 仓库/计算机知识/💗前端需要了解的计算机网络知识， 这一篇就够了！(图文并茂，万字长文，点赞收藏哦！) - 掘金.md",
+    "找工记录 仓库/2023-03-29.md",
+    "待整理/🔥我说MySQL每张表最好不超过2000万数据，面试官让我回去等通知？ - 掘金.md",
+    "00日常/Untitled.md",
+    "00日常/日/2023-03-22.md",
+    "00日常/日/2023-03-11.md",
+    "NUS/MA4207homework.md",
+    "找工记录 仓库/2023-03-23.md",
+    "00日常/日/日.md",
+    "NUS/NUS_MA4207/Untitled.md",
+    "00日常/日/2023-03-23.md",
+    "front-end 仓库/front-end 仓库.md",
+    "Others/Templates/day_template.md",
+    "Others/kanban.md",
+    "00日常/日/2023-03-13.md",
+    "NUS/NUS_MA4207/Untitled database.md",
+    "leetcode 仓库/Leetcode-双指针/Leetcode-双指针.md",
+    "找工记录 仓库/2023-03-24.md",
+    "日麻/日麻博客/愚形先制立直.md",
+    "日麻/Naga记录/naga230309-2.md",
+    "00日常/日/2023-03-20.md",
+    "日麻/Naga记录/naga230309-1.md",
+    "日麻/Naga记录/naga230308-4.md",
+    "00日常/日/2023-03-21.md"
+  ]
+}

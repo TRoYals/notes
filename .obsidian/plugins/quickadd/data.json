@@ -1,0 +1,53 @@
+{
+  "choices": [
+    {
+      "id": "f3b48a33-0266-4b64-8fa6-c6b40a4a1d30",
+      "name": "新建博客",
+      "type": "Macro",
+      "command": false,
+      "macroId": "76bc18f8-a362-407a-8b65-46ef43539a7d"
+    }
+  ],
+  "macros": [
+    {
+      "name": "新建博客",
+      "id": "76bc18f8-a362-407a-8b65-46ef43539a7d",
+      "commands": [
+        {
+          "name": "newBlog",
+          "type": "UserScript",
+          "id": "de890425-eedc-491e-a125-639b022c103f",
+          "path": "Others/scripts/newBlog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Blog Article",
+      "id": "49eb59cf-eecd-4b05-8376-c1b5b358bb72",
+      "commands": [
+        {
+          "name": "getBlogArticleName",
+          "type": "UserScript",
+          "id": "b1effafe-239b-4e26-aacf-b561869351c5",
+          "path": "Others/scripts/getBlogArticleName.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.16.0",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

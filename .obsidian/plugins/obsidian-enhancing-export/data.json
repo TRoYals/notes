@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
+  "lastExportDirectory": {
+    "darwin": "/Users/fuqixuan/Documents/vscode/Naglfar/docs/NihonGo/日语面试"
+  },
+  "lastEditName": "Markdown",
+  "lastExportType": "Markdown"
+}
