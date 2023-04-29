@@ -31,21 +31,22 @@ jobs:
 
     - name: Process static resource files
       run: |
-        python3 -c "
+        python3 -c '
         import os
         import re
         def process_file(file_path):
-            with open(file_path, 'r') as f:
+            with open(file_path, "r") as f:
                 content = f.read()
-            ad_pattern = re.compile(r'```ad-(\w+)\n([\s\S]*?)\n```')
-            content = ad_pattern.sub(r'::: \1\n\2\n:::', content)
-            with open(file_path, 'w') as f:
+            ad_pattern = re.compile(r"```ad-(\w+)\n([\s\S]*?)\n```")
+            content = ad_pattern.sub(r"::: \\1\n\\2\n:::", content)
+            with open(file_path, "w") as f:
                 f.write(content)
-        for root, dirs, files in os.walk('static_resources'):
+        for root, dirs, files in os.walk("static_resources"):
             for file in files:
-                if file.endswith('.md'):
+                if file.endswith(".md"):
                     process_file(os.path.join(root, file))
-        "
+        '
+
 
     - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
