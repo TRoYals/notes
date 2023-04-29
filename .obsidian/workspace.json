@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Area/01 工具/我的blog工作流.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "445ff7a2ab7c1fd0",
+  "active": "c8abd89c56c654fb",
   "lastOpenFiles": [
     "Area/01 工具/工具笔记.md",
     "Area/01 工具/我的blog工作流.md",
