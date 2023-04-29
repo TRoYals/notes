@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
+  "alwaysUpdateLinks": false,
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "In",
