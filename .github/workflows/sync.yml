@@ -41,6 +41,7 @@ jobs:
             content = ad_pattern.sub(lambda m: f"::: {m.group(1)}\n{m.group(2)}\n:::", content)
             with open(file_path, "w") as f:
                 f.write(content)
+                
         def process_links(file_path):
             with open(file_path, "r") as f:
                 content = f.read()
@@ -61,6 +62,8 @@ jobs:
 
             with open(file_path, "w") as f:
                 f.write(content)
+
+
 
 
         def remove_tags(file_path):
