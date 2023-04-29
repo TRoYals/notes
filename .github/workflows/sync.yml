@@ -28,11 +28,10 @@ jobs:
     
     - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
-        mkdir -p website/public/static_resources
-        rsync -av --exclude='.git' static_resources/ website/doc/
+        rsync -av --exclude='.git' static_resources/ website/docs/
         cd website
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
-        git add public/static_resources/
+        git add docs/
         git commit -m "Auto sync all static resources (excluding .git folder)" || true
         git push
