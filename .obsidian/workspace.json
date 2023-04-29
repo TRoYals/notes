@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/前端/javascript/javascript.md",
-                "mode": "preview",
+                "file": "Area/前端/前端.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/前端/javascript/javascript.md",
+                "file": "Area/前端/前端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/前端/javascript/javascript.md",
+                "file": "Area/前端/前端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/前端/javascript/javascript.md"
+                "file": "Area/前端/前端.md"
               }
             }
           },
@@ -174,9 +174,12 @@
   },
   "active": "c0ab1f523a629ae4",
   "lastOpenFiles": [
-    "Area/前端/前端.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md",
     "Area/日语/日语学习笔记.md",
+    "Area/日语/日语面试01.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Area/前端/javascript/javascript.md",
+    "Area/前端/前端.md",
     "Area/工具/工具笔记.md",
     "database.md",
     "Area/工具/必备应用.md",
@@ -184,7 +187,6 @@
     "Area/日语/test3333.md",
     "Area/日语/test.md",
     "所有文章.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Others/blog模板.md",
     "Others/().md",
     "Area/视觉小说/kira🌟kira 煌煌舞台",
@@ -208,8 +210,6 @@
     "日麻 仓库/日麻博客/愚形先制立直.md",
     "00000/日语/Untitled.md",
     "Others/Templates/day_template.md",
-    "React/React_udemy_John/ReactUdemyCourse/React 基础笔记by John.md",
-    "React/ReactBasic/React_Optimization.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
-    },
-    {
       "basename": "前端",
       "path": "Area/前端/前端.md"
     },
     {
+      "basename": "kirakiraMusic",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
+    },
+    {
       "basename": "日语学习笔记",
       "path": "Area/日语/日语学习笔记.md"
+    },
+    {
+      "basename": "日语面试01",
+      "path": "Area/日语/日语面试01.md"
+    },
+    {
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
     },
     {
       "basename": "工具笔记",
@@ -31,10 +43,6 @@
     {
       "basename": "所有文章",
       "path": "所有文章.md"
-    },
-    {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
     },
     {
       "basename": "blog模板",
