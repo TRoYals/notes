@@ -32,9 +32,6 @@ jobs:
       run: |
         rsync -av --exclude='.git' static_resources/ website/docs/
         cd website
-        
-    - name: Replace ad-XXX  
-      run: |
         sed -i "/^\\\`ad-\(.*\)\`$/,/^\`\`\`$/ { s/^\\\`ad-\(.*\)\`$/::: \1/; }" *.md
         sed -i "/^\\\`\`\`$/,/^\`\`\`$/ { /^\`\`\`$/ !{ p; d; }; s/^/::: /; s/\n/\\n/g; }" *.md
         git config user.name "GitHub Actions Bot"
