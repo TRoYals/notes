@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "我的blog工作流",
+      "path": "Area/工具/我的blog工作流.md"
+    },
+    {
+      "basename": "万石集",
+      "path": "Area/麻雀/万石集/万石集.md"
+    },
+    {
+      "basename": "01",
+      "path": "Area/麻雀/万石集/01.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
+    },
+    {
+      "basename": "日语面试",
+      "path": "Area/日语/日语面试/日语面试.md"
+    },
+    {
       "basename": "工具笔记",
       "path": "Area/工具/工具笔记.md"
     },
@@ -17,20 +45,8 @@
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
     },
     {
-      "basename": "我的blog工作流",
-      "path": "Area/工具/我的blog工作流.md"
-    },
-    {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
-    },
-    {
       "basename": "后端",
       "path": "Area/后端/后端.md"
-    },
-    {
-      "basename": "日语面试",
-      "path": "Area/日语/日语面试/日语面试.md"
     },
     {
       "basename": "日语",
@@ -53,14 +69,6 @@
       "path": "database.md"
     },
     {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
-    },
-    {
       "basename": "必备应用",
       "path": "Area/工具/必备应用.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "kirakiraMusic",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
-    },
-    {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
     }
   ],
   "omittedPaths": [],

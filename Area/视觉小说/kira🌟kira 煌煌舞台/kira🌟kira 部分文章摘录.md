@@ -5,7 +5,7 @@ article: true
 star: false
 ---
 
-这里是[[kira🌟kira 煌煌舞台]]的部分文章摘录，主要是出于语言学习的目的。
+这里是[[kira🌟kira 煌煌舞台]]的部分文章摘录，主要是出于语言学习的目的而记录的。
 
 ##   第一章
 ![](http://oss.naglfar28.com/naglfar28/202304291312482.png)
@@ -154,3 +154,25 @@ star: false
 
 なんだか胸がスキズキとするが、 これはパンクロッカーになる
 ための成長痛だろうか？
+
+
+## 千绘
+<img src="http://oss.naglfar28.com/naglfar28/202304300109728.png"/>
+<img src="http://oss.naglfar28.com/naglfar28/202304300113406.png"/>
+<img src="http://oss.naglfar28.com/naglfar28/202304300115859.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300117632.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300119678.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300123440.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300128299.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300129396.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300131149.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202304300134011.png"/>
+这就是濑户口的实力啊，刻画的入木三分。
+
