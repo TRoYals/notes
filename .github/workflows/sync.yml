@@ -25,11 +25,18 @@ jobs:
     
     - name: Install rsync
       run: sudo apt-get install rsync
+      
+  
     
     - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
         rsync -av --exclude='.git' static_resources/ website/docs/
         cd website
+        
+    - name: Replace ad-XXX  
+      run: |
+        sed -i "/^\\\`ad-\(.*\)\`$/,/^\`\`\`$/ { s/^\\\`ad-\(.*\)\`$/::: \1/; }" *.md
+        sed -i "/^\\\`\`\`$/,/^\`\`\`$/ { /^\`\`\`$/ !{ p; d; }; s/^/::: /; s/\n/\\n/g; }" *.md
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
         git add docs/
