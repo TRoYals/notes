@@ -28,7 +28,7 @@ jobs:
 
     - name: Install rsync
       run: sudo apt-get install rsync
-
+      
     - name: Process static resource files
       run: |
         python3 -c '
@@ -48,16 +48,11 @@ jobs:
             content = link_pattern.sub(lambda m: f"[{m.group(3) or m.group(1)}]({m.group(1)}.md)", content)
             with open(file_path, "w") as f:
                 f.write(content)
-        def remove_card_tags(file_path):
+        def remove_tags(file_path):
             with open(file_path, "r") as f:
                 content = f.read()
             card_pattern = re.compile(r"#card")
             content = card_pattern.sub("", content)
-            with open(file_path, "w") as f:
-                f.write(content)
-        def remove_caret_tags(file_path):
-            with open(file_path, "r") as f:
-                content = f.read()
             caret_pattern = re.compile(r"\^[\w]+")
             content = caret_pattern.sub("", content)
             with open(file_path, "w") as f:
@@ -68,9 +63,9 @@ jobs:
                     file_path = os.path.join(root, file)
                     process_ad_blocks(file_path)
                     process_links(file_path)
-                    remove_card_tags(file_path)
-                    remove_caret_tags(file_path)
+                    remove_tags(file_path)
         '
+
 
 
 
