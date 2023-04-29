@@ -1,6 +1,7 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light",
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
-  "blue-topaz-theme@@background-code-2@@dark": "#B62525"
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
 }

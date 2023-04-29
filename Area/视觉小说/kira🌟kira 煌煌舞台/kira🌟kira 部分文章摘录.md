@@ -3,7 +3,9 @@ title: kira🌟kira 部分文章摘录
 date: 2023-04-29 13:12
 article: true
 star: false
+parents: %kira🌟kira 煌煌舞台%
 ---
+
 
 ##   第一章
 ![](http://oss.naglfar28.com/naglfar28/202304291312482.png)

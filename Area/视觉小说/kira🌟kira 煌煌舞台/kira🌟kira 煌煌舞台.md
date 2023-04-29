@@ -5,4 +5,16 @@ article: true
 star: false
 ---
 
+
+
+
+
+> [!info]- info
+> parents::
+> children:: [[kira🌟kira 部分文章摘录]]　
+
+
+
+
+
 濑户口廉也
