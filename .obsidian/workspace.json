@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6170b6844abf91e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/日语/test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/日语/日语学习笔记.md",
+                "file": "Area/日语/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/日语/日语学习笔记.md",
+                "file": "Area/日语/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/日语/日语学习笔记.md"
+                "file": "Area/日语/test.md"
               }
             }
           },
@@ -186,10 +199,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5b8c878164a27e9",
+  "active": "6170b6844abf91e5",
   "lastOpenFiles": [
-    "Area/前端/javascript/javascript.md",
     "Area/日语/日语学习笔记.md",
+    "Area/日语/test.md",
+    "Area/前端/javascript/javascript.md",
     "所有文章.md",
     "database.md",
     "Area/工具/我的blog工作流.md",
@@ -223,7 +237,6 @@
     "React/React_udemy_John/ReactUdemyCourse/React 基础笔记by John.md",
     "React/ReactBasic/React_Optimization.md",
     "更生/工作/BOVEM.md",
-    "React/React_udemy_John/WEB/web笔记/handling error in Express.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
