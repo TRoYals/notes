@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
+    },
+    {
+      "basename": "blog模板",
+      "path": "Others/blog模板.md"
+    },
+    {
+      "basename": "所有文章",
+      "path": "所有文章.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "我的blog工作流",
+      "path": "Area/工具/我的blog工作流.md"
+    },
+    {
+      "basename": "万石集",
+      "path": "Area/麻雀/万石集/万石集.md"
+    },
+    {
       "basename": "后端",
       "path": "Area/后端/后端.md"
     },
@@ -25,20 +49,8 @@
       "path": "Area/视觉小说/视觉小说.md"
     },
     {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
-      "basename": "所有文章",
-      "path": "所有文章.md"
-    },
-    {
       "basename": "database",
       "path": "database.md"
-    },
-    {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
     },
     {
       "basename": "麻雀",
@@ -49,16 +61,8 @@
       "path": "Area/前端/前端.md"
     },
     {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
-    },
-    {
       "basename": "必备应用",
       "path": "Area/工具/必备应用.md"
-    },
-    {
-      "basename": "我的blog工作流",
-      "path": "Area/工具/我的blog工作流.md"
     },
     {
       "basename": "收藏网站",
@@ -79,10 +83,6 @@
     {
       "basename": "kira🌟kira 部分文章摘录",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
-    },
-    {
-      "basename": "blog模板",
-      "path": "Others/blog模板.md"
     }
   ],
   "omittedPaths": [],
