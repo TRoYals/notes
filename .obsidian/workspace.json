@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7b83640f95d0dfe1",
+        "id": "57abf6945aba61f6",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d3323df4701846",
+            "id": "6aa222ef1502f65b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "所有文章.md",
+                "file": "Area/前端/javascript/javascript.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b8c878164a27e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/日语/日语学习笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "所有文章.md",
+                "file": "Area/日语/日语学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "所有文章.md",
+                "file": "Area/日语/日语学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "所有文章.md"
+                "file": "Area/日语/日语学习笔记.md"
               }
             }
           },
@@ -172,26 +186,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6d3323df4701846",
+  "active": "b5b8c878164a27e9",
   "lastOpenFiles": [
+    "Area/前端/javascript/javascript.md",
+    "Area/日语/日语学习笔记.md",
+    "所有文章.md",
     "database.md",
+    "Area/工具/我的blog工作流.md",
+    "Area/工具/必备应用.md",
+    "Area/工具/工具笔记.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
+    "Others/blog模板.md",
     "Others/().md",
     "Area/前端/02 前端.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
-    "Area/工具/我的blog工作流.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台",
-    "Area/工具/工具笔记.md",
-    "Area/工具/必备应用.md",
     "Untitled 1",
     "Untitled",
     "Dairy",
     "Projects",
     "Area",
-    "所有文章.md",
-    "Area/前端/javascript/javascript.md",
     "Inbox",
     "Area/前端/javascript",
-    "Others/blog模板.md",
     "所有数据库.md",
     "Untitled.md",
     "01 工具/obsidian.md",
@@ -209,7 +224,6 @@
     "React/ReactBasic/React_Optimization.md",
     "更生/工作/BOVEM.md",
     "React/React_udemy_John/WEB/web笔记/handling error in Express.md",
-    "Reading/Books/atomic habit.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
