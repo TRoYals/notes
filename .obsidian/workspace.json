@@ -26,8 +26,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
+                "file": "Area/前端/前端.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6552d501a58418f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/日语/日语.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a59eac7b5efd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/日语/日语.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -39,15 +65,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/日语/roadmap.md",
+                "file": "Area/工具/工具笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c37a2a64cc722c15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/日语/roadmap.md",
+                "file": "Area/日语/日语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/日语/roadmap.md",
+                "file": "Area/日语/日语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/日语/roadmap.md"
+                "file": "Area/日语/日语.md"
               }
             }
           },
@@ -199,23 +233,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "805e38201661fc95",
+  "active": "23a59eac7b5efd07",
   "lastOpenFiles": [
+    "Area/视觉小说/视觉小说.md",
+    "database.md",
+    "所有文章.md",
+    "Area/日语/日语.md",
+    "Area/前端/前端.md",
+    "Area/前端/javascript/javascript.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
+    "Area/工具/工具笔记.md",
     "Area/日语/roadmap.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira.md",
-    "Area/前端/javascript/javascript.md",
-    "Area/前端/前端.md",
     "Area/日语/日语面试01.md",
     "Area/日语/日语学习笔记.md",
-    "Area/工具/工具笔记.md",
-    "database.md",
     "Area/工具/必备应用.md",
     "Area/工具/我的blog工作流.md",
     "Area/日语/test3333.md",
     "Area/日语/test.md",
-    "所有文章.md",
     "Others/blog模板.md",
     "Others/().md",
     "Area/视觉小说/kira🌟kira 煌煌舞台",
@@ -235,8 +271,6 @@
     "WEB3 仓库/Hack Analysis 0xbaDc0dE MEV Bot, September 2022  by Immunefi  Immunefi  Medium.md",
     "00日常/日/2023-04-29.md",
     "front-end 仓库/面试刷题/日本派遣.md",
-    "React/ReactProjects/11Navbar.md",
-    "日麻 仓库/日麻博客/愚形先制立直.md",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
