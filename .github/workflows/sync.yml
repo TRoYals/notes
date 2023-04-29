@@ -22,13 +22,17 @@ jobs:
         repository: TRoYals/Naglfar28
         path: website
         token: ${{ secrets.GH_PAT}}
-
-    - name: Copy static resources to website repository
+    
+    - name: Install rsync
+      run: sudo apt-get install rsync
+    
+    - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
-        cp -R static_resources/ website/docs/
+        mkdir -p website/public/static_resources
+        rsync -av --exclude='.git' static_resources/ website/public/static_resources/
         cd website
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
-        git add docs/
-        git commit -m "Auto sync static resources" || true
+        git add public/static_resources/
+        git commit -m "Auto sync all static resources (excluding .git folder)" || true
         git push
