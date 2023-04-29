@@ -9,52 +9,52 @@
       "path": "Area/工具/我的blog工作流.md"
     },
     {
-      "basename": "必备应用",
-      "path": "Area/工具/必备应用.md"
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
     },
     {
       "basename": "前端",
       "path": "Area/前端/前端.md"
     },
     {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
-    },
-    {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
+      "basename": "日语面试01",
+      "path": "Area/日语/日语面试01.md"
     },
     {
       "basename": "roadmap",
       "path": "Area/日语/roadmap.md"
     },
     {
-      "basename": "日语面试01",
-      "path": "Area/日语/日语面试01.md"
+      "basename": "kirakiraMusic",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
     },
     {
       "basename": "kira🌟kira 部分文章摘录",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
     },
     {
-      "basename": "kirakiraMusic",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
-    },
-    {
       "basename": "kira🌟kira 煌煌舞台",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
     },
     {
       "basename": "test",
       "path": "Area/工具/test.md"
     },
     {
-      "basename": "database",
-      "path": "database.md"
+      "basename": "必备应用",
+      "path": "Area/工具/必备应用.md"
     },
     {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
+      "basename": "database",
+      "path": "database.md"
     },
     {
       "basename": "所有文章",

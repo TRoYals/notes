@@ -5,4 +5,4 @@ article: true
 star: false
 ---
 
-简单分享一下自己的日语学习roadmap
+简单分享一下自己的[[日语]]学习roadmap
