@@ -1,40 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/05 视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
-    },
-    {
-      "basename": "()",
-      "path": "Others/().md"
-    },
-    {
-      "basename": "我的blog工作流",
-      "path": "Area/01 工具/我的blog工作流.md"
-    },
-    {
-      "basename": "工具笔记",
-      "path": "Area/01 工具/工具笔记.md"
-    },
-    {
-      "basename": "必备应用",
-      "path": "Area/01 工具/必备应用.md"
-    },
-    {
-      "basename": "02 前端",
-      "path": "Area/02 前端/02 前端.md"
+      "basename": "所有文章",
+      "path": "所有文章.md"
     },
     {
       "basename": "database",
       "path": "database.md"
     },
     {
-      "basename": "所有文章",
-      "path": "所有文章.md"
+      "basename": "02 前端",
+      "path": "Area/前端/02 前端.md"
+    },
+    {
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
+    },
+    {
+      "basename": "我的blog工作流",
+      "path": "Area/工具/我的blog工作流.md"
+    },
+    {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
+    },
+    {
+      "basename": "必备应用",
+      "path": "Area/工具/必备应用.md"
     },
     {
       "basename": "javascript",
-      "path": "Area/02 前端/javascript/javascript.md"
+      "path": "Area/前端/javascript/javascript.md"
     },
     {
       "basename": "blog模板",

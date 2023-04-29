@@ -1,7 +1,7 @@
 ---
 
 database-plugin: basic
-
+article: false
 ---
 
 ```yaml:dbfolder
