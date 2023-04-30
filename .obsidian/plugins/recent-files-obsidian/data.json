@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01",
+      "path": "Area/专业知识/偏微分/01.md"
+    },
+    {
+      "basename": "Duhamel's principle",
+      "path": "Area/专业知识/偏微分/compoents/Duhamel's principle.md"
+    },
+    {
+      "basename": "偏微分",
+      "path": "Area/专业知识/偏微分/偏微分.md"
+    },
+    {
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
+    },
+    {
       "basename": "日语变形",
       "path": "Area/日语/日语学习/日语变形.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "数据科学",
       "path": "Area/数据科学/数据科学.md"
-    },
-    {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
     },
     {
       "basename": "麻雀",
