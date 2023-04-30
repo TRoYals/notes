@@ -5,6 +5,14 @@
       "path": "Area/麻雀/万石集/01.md"
     },
     {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
       "basename": "万石集",
       "path": "Area/麻雀/万石集/万石集.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "日语面试01",
       "path": "Area/日语/日语面试/日语面试01.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
     },
     {
       "basename": "必备应用",
@@ -67,10 +71,6 @@
     {
       "basename": "我的blog工作流",
       "path": "Area/工具/我的blog工作流.md"
-    },
-    {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
     },
     {
       "basename": "blog模板",
