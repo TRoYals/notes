@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
-    },
-    {
-      "basename": "ASMR",
-      "path": "Area/ASMR/ASMR.md"
-    },
-    {
-      "basename": "博弈论",
-      "path": "Area/专业知识/博弈论.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
+      "basename": "日语变形",
+      "path": "Area/日语/日语学习/日语变形.md"
     },
     {
       "basename": "日语",
@@ -29,20 +17,16 @@
       "path": "Area/数据科学/数据科学.md"
     },
     {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
     },
     {
       "basename": "麻雀",
       "path": "Area/麻雀/麻雀.md"
     },
     {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
     },
     {
       "basename": "日语面试",
@@ -51,6 +35,38 @@
     {
       "basename": "日语面试01",
       "path": "Area/日语/日语面试/日语面试01.md"
+    },
+    {
+      "basename": "收藏网站",
+      "path": "Area/工具/收藏网站.md"
+    },
+    {
+      "basename": "database",
+      "path": "database.md"
+    },
+    {
+      "basename": "所有文章",
+      "path": "所有文章.md"
+    },
+    {
+      "basename": "ASMR",
+      "path": "Area/ASMR/ASMR.md"
+    },
+    {
+      "basename": "博弈论",
+      "path": "Area/专业知识/博弈论.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "万石集",
+      "path": "Area/麻雀/万石集/万石集.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
     },
     {
       "basename": "kira🌟kira 煌煌舞台",
@@ -77,24 +93,12 @@
       "path": "Area/工具/工具笔记.md"
     },
     {
-      "basename": "收藏网站",
-      "path": "Area/工具/收藏网站.md"
-    },
-    {
       "basename": "我的blog工作流",
       "path": "Area/工具/我的blog工作流.md"
     },
     {
       "basename": "blog模板",
       "path": "Others/blog模板.md"
-    },
-    {
-      "basename": "所有文章",
-      "path": "所有文章.md"
-    },
-    {
-      "basename": "database",
-      "path": "database.md"
     }
   ],
   "omittedPaths": [],
