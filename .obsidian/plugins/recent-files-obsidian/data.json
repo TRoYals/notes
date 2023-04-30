@@ -2,6 +2,30 @@
   "recentFiles": [
     {
       "basename": "01",
+      "path": "Area/麻雀/万石集/01.md"
+    },
+    {
+      "basename": "万石集",
+      "path": "Area/麻雀/万石集/万石集.md"
+    },
+    {
+      "basename": "日语变形",
+      "path": "Area/日语/日语学习/日语变形.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
+    },
+    {
+      "basename": "偏微分",
+      "path": "Area/专业知识/偏微分/偏微分.md"
+    },
+    {
+      "basename": "01",
       "path": "Area/专业知识/偏微分/01.md"
     },
     {
@@ -9,16 +33,16 @@
       "path": "Area/专业知识/偏微分/compoents/Duhamel's principle.md"
     },
     {
-      "basename": "偏微分",
-      "path": "Area/专业知识/偏微分/偏微分.md"
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
     },
     {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
+      "basename": "kirakiraMusic",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
     },
     {
-      "basename": "日语变形",
-      "path": "Area/日语/日语学习/日语变形.md"
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
     },
     {
       "basename": "日语",
@@ -27,10 +51,6 @@
     {
       "basename": "视觉小说",
       "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "数据科学",
-      "path": "Area/数据科学/数据科学.md"
     },
     {
       "basename": "麻雀",
@@ -73,28 +93,8 @@
       "path": "Area/后端/后端.md"
     },
     {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
-    },
-    {
       "basename": "javascript",
       "path": "Area/前端/javascript/javascript.md"
-    },
-    {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
-      "basename": "kirakiraMusic",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
-    },
-    {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
-    },
-    {
-      "basename": "01",
-      "path": "Area/麻雀/万石集/01.md"
     },
     {
       "basename": "必备应用",
