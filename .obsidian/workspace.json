@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/麻雀/万石集/01.md",
+                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/麻雀/万石集/01.md",
+                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/麻雀/万石集/01.md",
+                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/麻雀/万石集/01.md"
+                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "95b18d8ad248df7e",
   "lastOpenFiles": [
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Area/麻雀/万石集/01.md",
     "Area/麻雀/万石集/万石集.md",
     "Area/日语/日语学习/日语变形.md",
     "Area/数据科学/数据科学.md",
@@ -197,7 +199,6 @@
     "Area/专业知识/偏微分/compoents/Duhamel's principle.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
     "Area/专业知识/偏微分/compoents",
     "Area/专业知识/偏微分",
     "Area/日语/日语.md",
@@ -218,7 +219,6 @@
     "Area/后端/后端.md",
     "Area/前端/javascript/javascript.md",
     "Area/日语/roadmap.md",
-    "Area/麻雀/万石集/01.md",
     "Area/工具/必备应用.md",
     "script.py",
     "Area/日语/日语面试",
