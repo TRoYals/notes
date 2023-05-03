@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Dynamic Games of Complete Information",
-      "path": "Area/专业知识/Dynamic Games of Complete Information.md"
+      "basename": "04 Dynamic Games of Incomplete Information",
+      "path": "Area/专业知识/04 Dynamic Games of Incomplete Information.md"
     },
     {
-      "basename": "Static Games of Complete Information",
-      "path": "Area/专业知识/Static Games of Complete Information.md"
+      "basename": "02 Dynamic Games of Complete Information",
+      "path": "Area/专业知识/02 Dynamic Games of Complete Information.md"
     },
     {
       "basename": "博弈论",
       "path": "Area/专业知识/博弈论.md"
     },
     {
-      "basename": "日语变形",
-      "path": "Area/日语/日语学习/日语变形.md"
+      "basename": "blog模板",
+      "path": "Others/blog模板.md"
+    },
+    {
+      "basename": "03 Static Game of Incomplete Information",
+      "path": "Area/专业知识/03 Static Game of Incomplete Information.md"
     },
     {
       "basename": "专业知识",
       "path": "Area/专业知识/专业知识.md"
+    },
+    {
+      "basename": "01 Static Games of Complete Information",
+      "path": "Area/专业知识/01 Static Games of Complete Information.md"
+    },
+    {
+      "basename": "日语变形",
+      "path": "Area/日语/日语学习/日语变形.md"
     },
     {
       "basename": "麻雀",
@@ -115,10 +127,6 @@
     {
       "basename": "我的blog工作流",
       "path": "Area/工具/我的blog工作流.md"
-    },
-    {
-      "basename": "blog模板",
-      "path": "Others/blog模板.md"
     }
   ],
   "omittedPaths": [],

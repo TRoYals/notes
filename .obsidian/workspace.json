@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/专业知识/Dynamic Games of Complete Information.md",
+                "file": "Area/专业知识/02 Dynamic Games of Complete Information.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/专业知识/Dynamic Games of Complete Information.md",
+                "file": "Area/专业知识/02 Dynamic Games of Complete Information.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c674d03939b15be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/专业知识/专业知识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6cc6e90560e9b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/专业知识/Dynamic Games of Complete Information.md",
+                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/专业知识/Dynamic Games of Complete Information.md",
+                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/专业知识/Dynamic Games of Complete Information.md"
+                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md"
               }
             }
           },
@@ -200,14 +225,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bae42e1d264925b9",
+  "active": "a6cc6e90560e9b95",
   "lastOpenFiles": [
-    "Area/专业知识/Static Games of Complete Information.md",
-    "Area/专业知识/Dynamic Games of Complete Information.md",
+    "Area/专业知识/02 Dynamic Games of Complete Information.md",
     "Area/专业知识/博弈论.md",
+    "Others/blog模板.md",
+    "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
+    "Area/专业知识/03 Static Game of Incomplete Information.md",
+    "Area/专业知识/专业知识.md",
+    "Area/专业知识/01 Static Games of Complete Information.md",
     "Area/日语/日语学习/日语变形.md",
     "Area/专业知识/偏微分/偏微分.md",
-    "Area/专业知识/专业知识.md",
     "Area/麻雀/麻雀.md",
     "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
     "Area/麻雀/万石集/01.md",
@@ -230,9 +258,6 @@
     "Area/日语/日语面试/日语面试.md",
     "Area/日语/日语面试/日语面试01.md",
     "Area/日语/日语学习",
-    "Area/工具/收藏网站.md",
-    "database.md",
-    "所有文章.md",
     "Area/ASMR",
     "Area/专业知识",
     "script.py",
