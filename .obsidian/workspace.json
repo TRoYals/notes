@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/专业知识/博弈论.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01db440e07e9afaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/专业知识/02 Dynamic Games of Complete Information.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae42e1d264925b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/专业知识/02 Dynamic Games of Complete Information.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c674d03939b15be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/专业知识/专业知识.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cc6e90560e9b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
+                "file": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
+                "file": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
+                "file": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/专业知识/04 Dynamic Games of Incomplete Information.md"
+                "file": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
               }
             }
           },
@@ -225,38 +172,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6cc6e90560e9b95",
+  "active": "9fbf2539b1158171",
   "lastOpenFiles": [
-    "Area/专业知识/02 Dynamic Games of Complete Information.md",
-    "Area/专业知识/博弈论.md",
+    "database.md",
+    "所有文章.md",
     "Others/blog模板.md",
-    "Area/专业知识/04 Dynamic Games of Incomplete Information.md",
-    "Area/专业知识/03 Static Game of Incomplete Information.md",
+    "Area/专业知识/博弈论.md",
     "Area/专业知识/专业知识.md",
-    "Area/专业知识/01 Static Games of Complete Information.md",
+    "Area/ASMR/ASMR.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/数据科学/数据科学.md",
     "Area/日语/日语学习/日语变形.md",
-    "Area/专业知识/偏微分/偏微分.md",
-    "Area/麻雀/麻雀.md",
-    "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
+    "Area/日语/日语面试/日语面试01.md",
+    "Area/日语/日语面试/日语面试.md",
+    "Area/前端/javascript/javascript.md",
+    "Area/日语/日语.md",
+    "Area/前端/前端.md",
+    "Area/工具/收藏网站.md",
+    "Area/工具/工具笔记.md",
+    "Area/工具/我的blog工作流.md",
+    "Area/工具/必备应用.md",
     "Area/麻雀/万石集/01.md",
-    "Area/麻雀/麻雀绝艺总纲/牌效理论.md",
     "Area/麻雀/万石集/万石集.md",
     "Area/麻雀/麻雀绝艺总纲/麻雀心态.md",
+    "Area/麻雀/麻雀绝艺总纲/牌效理论.md",
+    "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
+    "Area/麻雀/麻雀.md",
+    "Area/后端/后端.md",
     "Area/麻雀/麻雀绝艺总纲",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
-    "Area/数据科学/数据科学.md",
-    "Area/专业知识/偏微分/01.md",
-    "Area/专业知识/偏微分/compoents/Duhamel's principle.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md",
     "Area/专业知识/偏微分/compoents",
     "Area/专业知识/偏微分",
-    "Area/日语/日语.md",
-    "Area/视觉小说/视觉小说.md",
     "Area/麻雀/统计学麻将",
-    "Area/前端/前端.md",
-    "Area/日语/日语面试/日语面试.md",
-    "Area/日语/日语面试/日语面试01.md",
     "Area/日语/日语学习",
     "Area/ASMR",
     "Area/专业知识",

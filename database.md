@@ -1,5 +1,5 @@
 ---
-
+title: database
 database-plugin: basic
 article: false
 ---
