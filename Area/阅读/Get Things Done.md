@@ -43,7 +43,7 @@ You must use your mind to get things off your mind.
 #### why things are On Your Mind
 为什么一些事情会一直占据我们的思维，因为我们希望它们变得与目前不同，而我们又没有清晰地定义目标，没有确定下一步的具体行动，也没有将行动和目标放入一个我们信任的系统中。在我们的头脑中，这些事情就像“开着的循环”，不停地在背景中占用我们的注意力和精力，这是最浪费时间和精力的事情之一。作者还强调，我们可以欺骗别人，但无法欺骗自己的大脑，大脑知道我们是否已经得出必要的结论，以及是否将结果和行动提醒存储在可以信任的系统中，如果我们没有做到这些，大脑就会一直加班工作，加重我们的压力。
 
-
+## five steps
 #### “Stuff”
 这一节的目标是 引导出 **“stuff”** 的定义。
 ```ad-info 定义
@@ -87,7 +87,15 @@ Getting things done requires two basic components: defining
 
 #### Core Process for GTD
  
+```ad-info five/ssteps
+1. **capture** what has our attention;
+2. **clarify** what each item means and what to do about it;
+3. **organize** the results, which presents the options we have
+4.  **Reflect on** the option
+5.  Choose to **engage** with the selected option.
+```
 
+### Capture
 
 
 ## Practicing Stress-Free Productivity
