@@ -38,7 +38,7 @@ jobs:
             with open(file_path, 'r') as f:
                 content = f.read()
             ad_pattern = re.compile(r'```ad-(\w+)(\s+([\w\s]*))?\n([\s\S]*?)\n```')
-            content = ad_pattern.sub(lambda m: f'::: {m.group(1)}{(f' {m.group(3)}' if m.group(3) else '')}\n{m.group(4)}\n:::', content)
+            content = ad_pattern.sub(lambda m: f'::: {m.group(1)}{f' {m.group(3)}' if m.group(3) else ''}\n{m.group(4)}\n:::', content)
             with open(file_path, 'w') as f:
                 f.write(content)
         def process_links(file_path):
@@ -65,7 +65,6 @@ jobs:
                     process_links(file_path)
                     remove_tags(file_path)
         "
-
 
     - name: Copy all contents from static resources to website repository (excluding .git folder)
       run: |
