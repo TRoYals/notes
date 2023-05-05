@@ -38,9 +38,10 @@ jobs:
             with open(file_path, "r") as f:
                 content = f.read()
             ad_pattern = re.compile(r"```ad-(\w+)(\s+([\w\s]*))?\n([\s\S]*?)\n```")
-            content = ad_pattern.sub(lambda m: f"::: {m.group(1)} {m.group(3) or ""}\n{m.group(4)}\n:::", content)
+            content = ad_pattern.sub(lambda m: f"::: {m.group(1)} {m.group(3) or ''}\n{m.group(4)}\n:::", content)
             with open(file_path, "w") as f:
                 f.write(content)
+
         def process_links(file_path):
             with open(file_path, "r") as f:
                 content = f.read()
