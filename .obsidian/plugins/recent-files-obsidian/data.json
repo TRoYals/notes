@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Get Things Done",
+      "path": "Area/阅读/Get Things Done.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "Area/阅读/阅读.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
+    },
+    {
       "basename": "工具笔记",
       "path": "Area/工具/工具笔记.md"
     },
     {
-      "basename": "Get Things Done",
-      "path": "Area/阅读/Get Things Done.md"
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
     },
     {
       "basename": "牌效理论",
@@ -25,20 +53,8 @@
       "path": "Area/前端/javascript/javascript.md"
     },
     {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
-    },
-    {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
       "basename": "PostgreSQL",
       "path": "Area/后端/PostgreSQL.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
     },
     {
       "basename": "前端",
@@ -73,20 +89,8 @@
       "path": "Area/专业知识/博弈论.md"
     },
     {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
-    },
-    {
       "basename": "ASMR",
       "path": "Area/ASMR/ASMR.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "数据科学",
-      "path": "Area/数据科学/数据科学.md"
     },
     {
       "basename": "日语变形",

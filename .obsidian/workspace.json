@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fbf2539b1158171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/后端/后端.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d91bcec61d39b902",
             "type": "leaf",
             "state": {
@@ -39,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/工具/工具笔记.md",
+                "file": "Area/阅读/Get Things Done.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07655b5b5584666c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/阅读/Get Things Done.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ad-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/工具/工具笔记.md",
+                "file": "Area/阅读/Get Things Done.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/工具/工具笔记.md",
+                "file": "Area/阅读/Get Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/工具/工具笔记.md"
+                "file": "Area/阅读/Get Things Done.md"
               }
             }
           },
@@ -200,20 +199,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33e313b28d92d5b8",
+  "active": "07655b5b5584666c",
   "lastOpenFiles": [
+    "Area/阅读/阅读.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Area/视觉小说/视觉小说.md",
     "Area/阅读/Get Things Done.md",
+    "Area/数据科学/数据科学.md",
+    "Area/专业知识/专业知识.md",
     "Area/工具/工具笔记.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
+    "Area/后端/后端.md",
     "Area/麻雀/麻雀绝艺总纲/牌效理论.md",
     "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
     "Area/麻雀/麻雀绝艺总纲/麻雀心态.md",
     "Area/前端/javascript/javascript.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
     "Area/阅读",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
     "Area/后端/PostgreSQL.md",
     "Area/工具/必备应用.md",
-    "Area/后端/后端.md",
     "Area/前端/前端.md",
     "Area/工具/收藏网站.md",
     "Area/工具/我的blog工作流.md",
@@ -221,14 +224,10 @@
     "所有文章.md",
     "Others/blog模板.md",
     "Area/专业知识/博弈论.md",
-    "Area/专业知识/专业知识.md",
     "Area/ASMR/ASMR.md",
-    "Area/视觉小说/视觉小说.md",
-    "Area/数据科学/数据科学.md",
     "Area/日语/日语学习/日语变形.md",
     "Area/日语/日语面试/日语面试01.md",
     "Area/日语/日语面试/日语面试.md",
-    "Area/日语/日语.md",
     "Area/麻雀/麻雀绝艺总纲",
     "Area/专业知识/偏微分/compoents",
     "Area/专业知识/偏微分",
