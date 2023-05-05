@@ -156,7 +156,7 @@ star: false
 ための成長痛だろうか？
 
 
-## 千绘
+
 <img src="http://oss.naglfar28.com/naglfar28/202304300109728.png"/>
 <img src="http://oss.naglfar28.com/naglfar28/202304300113406.png"/>
 <img src="http://oss.naglfar28.com/naglfar28/202304300115859.png"/>
@@ -206,4 +206,12 @@ star: false
 太真实了
 
 <img src="http://oss.naglfar28.com/naglfar28/202305010111098.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202305042137921.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202305051458788.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202305051500253.png"/>
+
+<img src="http://oss.naglfar28.com/naglfar28/202305051501372.png"/>
 

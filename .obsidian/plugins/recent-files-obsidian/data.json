@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL",
-      "path": "Area/后端/PostgreSQL.md"
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
     },
     {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
-    },
-    {
-      "basename": "麻雀心态",
-      "path": "Area/麻雀/麻雀绝艺总纲/麻雀心态.md"
+      "basename": "Get Things Done",
+      "path": "Area/阅读/Get Things Done.md"
     },
     {
       "basename": "牌效理论",
@@ -29,8 +17,32 @@
       "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
     },
     {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
+      "basename": "麻雀心态",
+      "path": "Area/麻雀/麻雀绝艺总纲/麻雀心态.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
+    },
+    {
+      "basename": "kira🌟kira 部分文章摘录",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "Area/后端/PostgreSQL.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
     },
     {
       "basename": "收藏网站",
@@ -69,10 +81,6 @@
       "path": "Area/ASMR/ASMR.md"
     },
     {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
       "basename": "视觉小说",
       "path": "Area/视觉小说/视觉小说.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "麻雀",
       "path": "Area/麻雀/麻雀.md"
-    },
-    {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
     },
     {
       "basename": "kirakiraMusic",
