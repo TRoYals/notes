@@ -37,7 +37,7 @@ jobs:
         def process_ad_blocks(file_path):
             with open(file_path, 'r') as f:
                 content = f.read()
-            ad_pattern = re.compile(r'```ad-(\w+)(\s+([\w\s]*))?\n([\s\S]*?)\n```')
+            ad_pattern = re.compile(r'```ad-(\w+)(\s+([\w\s]+))?\n([\s\S]*?)\n```')
             content = ad_pattern.sub(lambda m: f"::: {m.group(1)}{' ' + m.group(3) if m.group(3) else ''}\n{m.group(4)}\n:::", content)
             with open(file_path, 'w') as f:
                 f.write(content)
