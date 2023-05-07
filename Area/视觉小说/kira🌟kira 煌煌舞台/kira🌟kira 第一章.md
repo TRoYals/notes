@@ -1,5 +1,5 @@
 ---
-title: kira🌟kira 部分文章摘录
+title: kira🌟kira 第一章摘录
 date: 2023-04-29 13:12
 article: true
 star: false

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d91bcec61d39b902",
+            "id": "82dfd39c1a441837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
+                "file": "Projects/毕业设计/毕业设计.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "33e313b28d92d5b8",
+            "id": "677442f0856d4d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/阅读/Get Things Done.md",
+                "file": "Area/日语/日语单词/基本常识.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,20 @@
             }
           },
           {
-            "id": "07655b5b5584666c",
+            "id": "31e9716125398ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/阅读/Get Things Done.md",
-                "mode": "source",
+                "file": "Projects/毕业设计/论文正文.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,12 +79,20 @@
             }
           },
           {
+            "id": "18a9034150fdbc65",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "5463cc8fc73a39d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,10 +102,10 @@
             }
           },
           {
-            "id": "18a9034150fdbc65",
+            "id": "e0beafda3cb673cd",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -105,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -122,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/阅读/Get Things Done.md",
+                "file": "Area/日语/日语单词/基本常识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/阅读/Get Things Done.md",
+                "file": "Area/日语/日语单词/基本常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/阅读/Get Things Done.md"
+                "file": "Area/日语/日语单词/基本常识.md"
               }
             }
           },
@@ -200,44 +207,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07655b5b5584666c",
+  "active": "677442f0856d4d56",
   "lastOpenFiles": [
-    "Area/阅读/阅读.md",
-    "Area/麻雀/麻雀.md",
-    "Area/后端/后端.md",
-    "Area/ASMR/ASMR.md",
-    "Area/数据科学/数据科学.md",
-    "Area/视觉小说/视觉小说.md",
-    "Area/日语/日语.md",
-    "Area/前端/前端.md",
-    "Inbox/Untitled.md",
-    "Area/阅读/Get Things Done.md",
+    "Area/工具/chatGPT.md",
+    "Area/日语/日语单词/基本常识.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
-    "Area/专业知识/专业知识.md",
-    "Area/工具/工具笔记.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md",
-    "Area/麻雀/麻雀绝艺总纲/牌效理论.md",
+    "Area/日语/日语单词/基本常识",
+    "Area/阅读/Get Things Done.md",
+    "Area/日语/日语面试/日语面试.md",
+    "Area/日语/日语单词",
+    "Area/日语/日语.md",
+    "Area/麻雀/麻雀.md",
+    "Area/麻雀/万石集/万石集.md",
+    "Area/麻雀/番风集/防守应对.md",
+    "Area/麻雀/万石集/01.md",
+    "Area/麻雀/番风集/Untitled",
+    "Area/麻雀/番风集",
     "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
-    "Area/麻雀/麻雀绝艺总纲/麻雀心态.md",
-    "Area/前端/javascript/javascript.md",
-    "Area/阅读",
-    "Area/后端/PostgreSQL.md",
-    "Area/工具/必备应用.md",
-    "Area/工具/收藏网站.md",
-    "Area/工具/我的blog工作流.md",
+    "Projects/毕业设计/论文正文.md",
+    "Projects/毕业设计/毕业设计.md",
+    "Projects/毕业设计/chatGPT.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md",
+    "Area/视觉小说/视觉小说.md",
+    "Projects/毕业设计/LSTM学习.md",
+    "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md",
+    "Projects/毕业设计/Long short-term memory.md",
+    "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md",
+    "Projects/毕业设计/Untitled.md",
+    "Projects/毕业设计/prompt.md",
     "database.md",
-    "所有文章.md",
-    "Others/blog模板.md",
-    "Area/专业知识/博弈论.md",
+    "Projects/毕业论文/毕业论文.md",
+    "Projects/毕业设计",
+    "Projects/毕业论文",
+    "Area/数据科学/数据科学.md",
+    "Area/阅读",
     "Area/麻雀/麻雀绝艺总纲",
     "Area/专业知识/偏微分/compoents",
     "Area/专业知识/偏微分",
-    "Area/麻雀/统计学麻将",
-    "Area/日语/日语学习",
-    "Area/ASMR",
-    "Area/专业知识",
-    "script.py",
-    "Area/日语/日语面试",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

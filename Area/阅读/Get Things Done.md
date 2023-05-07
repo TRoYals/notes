@@ -85,9 +85,9 @@ Getting things done requires two basic components: defining
 
 接下来就是重头戏了。
 
-#### Core Process for GTD
+### Core Process for GTD
  
-```ad-info five/ssteps
+```ad-info 
 1. **capture** what has our attention;
 2. **clarify** what each item means and what to do about it;
 3. **organize** the results, which presents the options we have
@@ -95,8 +95,25 @@ Getting things done requires two basic components: defining
 5.  Choose to **engage** with the selected option.
 ```
 
-### Capture
+![image.png](http://oss.naglfar28.com/naglfar28/202305060734365.png)
 
+
+#### calendars
+只有3件事情应该出现在你的日历上：
+1. time-specfic actions
+2. day-specific actions
+3. day-specific informations　
+　
+为什么不用calendar记录todos
+1. it can be difficult to plan ahead and account for shifting priorities, making it demoralizing and a waste of time to constantly re-enter items that don't get done. 
+2. including non-essential tasks on a daily to-do list can dilute the emphasis on truly important tasks, potentially causing critical items to be overlooked or forgotten.
+
+#### The “Next Actions'” List(s)
+#### Nonactionable Items
+Trash
+Incubation: 1. Someday/Maybe ; 2. A tickler system
+
+其实看到这里就可以上手试试GTD了。
 
 ## Practicing Stress-Free Productivity
 

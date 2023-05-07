@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "基本常识",
+      "path": "Area/日语/日语单词/基本常识.md"
+    },
+    {
+      "basename": "chatGPT",
+      "path": "Area/工具/chatGPT.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
       "basename": "Get Things Done",
       "path": "Area/阅读/Get Things Done.md"
     },
     {
-      "basename": "阅读",
-      "path": "Area/阅读/阅读.md"
+      "basename": "日语面试",
+      "path": "Area/日语/日语面试/日语面试.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
     },
     {
       "basename": "麻雀",
       "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "万石集",
+      "path": "Area/麻雀/万石集/万石集.md"
+    },
+    {
+      "basename": "防守应对",
+      "path": "Area/麻雀/番风集/防守应对.md"
+    },
+    {
+      "basename": "01",
+      "path": "Area/麻雀/万石集/01.md"
+    },
+    {
+      "basename": "麻雀绝艺总纲",
+      "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
+    },
+    {
+      "basename": "论文正文",
+      "path": "Projects/毕业设计/论文正文.md"
+    },
+    {
+      "basename": "毕业设计",
+      "path": "Projects/毕业设计/毕业设计.md"
+    },
+    {
+      "basename": "chatGPT",
+      "path": "Projects/毕业设计/chatGPT.md"
+    },
+    {
+      "basename": "kira🌟kira 第二章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+    },
+    {
+      "basename": "kira🌟kira 第一章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "LSTM学习",
+      "path": "Projects/毕业设计/LSTM学习.md"
+    },
+    {
+      "basename": "基于长短时记忆网络（LSTM）的股票收益率预测开题报告",
+      "path": "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md"
+    },
+    {
+      "basename": "翻译Deep learning with long short-term memory networks for financialmarket predictions",
+      "path": "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Projects/毕业设计/Untitled.md"
+    },
+    {
+      "basename": "database",
+      "path": "database.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "Area/阅读/阅读.md"
     },
     {
       "basename": "后端",
@@ -21,28 +105,12 @@
       "path": "Area/ASMR/ASMR.md"
     },
     {
-      "basename": "数据科学",
-      "path": "Area/数据科学/数据科学.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
-    },
-    {
       "basename": "前端",
       "path": "Area/前端/前端.md"
     },
     {
       "basename": "Untitled",
       "path": "Inbox/Untitled.md"
-    },
-    {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
     },
     {
       "basename": "专业知识",
@@ -53,16 +121,8 @@
       "path": "Area/工具/工具笔记.md"
     },
     {
-      "basename": "kira🌟kira 部分文章摘录",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 部分文章摘录.md"
-    },
-    {
       "basename": "牌效理论",
       "path": "Area/麻雀/麻雀绝艺总纲/牌效理论.md"
-    },
-    {
-      "basename": "麻雀绝艺总纲",
-      "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
     },
     {
       "basename": "麻雀心态",
@@ -89,10 +149,6 @@
       "path": "Area/工具/必备应用.md"
     },
     {
-      "basename": "database",
-      "path": "database.md"
-    },
-    {
       "basename": "所有文章",
       "path": "所有文章.md"
     },
@@ -111,18 +167,6 @@
     {
       "basename": "日语面试01",
       "path": "Area/日语/日语面试/日语面试01.md"
-    },
-    {
-      "basename": "日语面试",
-      "path": "Area/日语/日语面试/日语面试.md"
-    },
-    {
-      "basename": "01",
-      "path": "Area/麻雀/万石集/01.md"
-    },
-    {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
     },
     {
       "basename": "kirakiraMusic",
