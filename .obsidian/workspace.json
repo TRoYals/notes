@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82dfd39c1a441837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/毕业设计/毕业设计.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "677442f0856d4d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/日语/日语单词/基本常识.md",
+                "file": "Dairy/2023-05-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "31e9716125398ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/毕业设计/论文正文.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/日语/日语单词/基本常识.md",
+                "file": "Dairy/2023-05-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/日语/日语单词/基本常识.md",
+                "file": "Dairy/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/日语/日语单词/基本常识.md"
+                "file": "Dairy/2023-05-08.md"
               }
             }
           },
@@ -209,6 +182,21 @@
   },
   "active": "677442f0856d4d56",
   "lastOpenFiles": [
+    "Projects/Yonyou/可视化应用构建.md",
+    "Projects/毕业设计/Untitled.md",
+    "Projects/毕业设计/LSTM学习.md",
+    "Projects/Yonyou/工作进度表.md",
+    "Dairy/2023-05-08.md",
+    "Inbox/Untitled.md",
+    "Projects/毕业设计/毕业设计.md",
+    "所有文章.md",
+    "Projects/毕业设计/论文正文.md",
+    "Projects/Yonyou/Yonyou.md",
+    "Projects/Yonyou",
+    "Area/日语/日语.md",
+    "Area/麻雀/麻雀.md",
+    "Area/麻雀/万石集/01.md",
+    "Area/麻雀/万石集/万石集.md",
     "Area/工具/chatGPT.md",
     "Area/日语/日语单词/基本常识.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
@@ -216,35 +204,20 @@
     "Area/阅读/Get Things Done.md",
     "Area/日语/日语面试/日语面试.md",
     "Area/日语/日语单词",
-    "Area/日语/日语.md",
-    "Area/麻雀/麻雀.md",
-    "Area/麻雀/万石集/万石集.md",
     "Area/麻雀/番风集/防守应对.md",
-    "Area/麻雀/万石集/01.md",
     "Area/麻雀/番风集/Untitled",
     "Area/麻雀/番风集",
     "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
-    "Projects/毕业设计/论文正文.md",
-    "Projects/毕业设计/毕业设计.md",
     "Projects/毕业设计/chatGPT.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md",
     "Area/视觉小说/视觉小说.md",
-    "Projects/毕业设计/LSTM学习.md",
     "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md",
-    "Projects/毕业设计/Long short-term memory.md",
-    "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md",
-    "Projects/毕业设计/Untitled.md",
-    "Projects/毕业设计/prompt.md",
-    "database.md",
-    "Projects/毕业论文/毕业论文.md",
     "Projects/毕业设计",
     "Projects/毕业论文",
-    "Area/数据科学/数据科学.md",
     "Area/阅读",
     "Area/麻雀/麻雀绝艺总纲",
     "Area/专业知识/偏微分/compoents",
-    "Area/专业知识/偏微分",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
