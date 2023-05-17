@@ -1,52 +1,180 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-08",
-      "path": "Dairy/2023-05-08.md"
+      "basename": "SQL必知必会",
+      "path": "Area/后端/database/SQL必知必会.md"
     },
     {
-      "basename": "可视化应用构建",
-      "path": "Projects/Yonyou/可视化应用构建.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Projects/毕业设计/Untitled.md"
-    },
-    {
-      "basename": "LSTM学习",
-      "path": "Projects/毕业设计/LSTM学习.md"
-    },
-    {
-      "basename": "工作进度表",
-      "path": "Projects/Yonyou/工作进度表.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Inbox/Untitled.md"
-    },
-    {
-      "basename": "毕业设计",
-      "path": "Projects/毕业设计/毕业设计.md"
-    },
-    {
-      "basename": "所有文章",
-      "path": "所有文章.md"
-    },
-    {
-      "basename": "论文正文",
-      "path": "Projects/毕业设计/论文正文.md"
+      "basename": "sql导入",
+      "path": "Projects/Yonyou/工作项目/杂项/sql导入.md"
     },
     {
       "basename": "Yonyou",
       "path": "Projects/Yonyou/Yonyou.md"
     },
     {
+      "basename": "GTD-OKR.xlsx",
+      "path": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md"
+    },
+    {
+      "basename": "毕业设计",
+      "path": "Projects/毕业设计/毕业设计.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "Area/阅读/阅读.md"
+    },
+    {
+      "basename": "Get Things Done",
+      "path": "Area/阅读/Get Things Done.md"
+    },
+    {
+      "basename": "2023-05-17工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-17工作.md"
+    },
+    {
+      "basename": "2023-05-16工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md"
+    },
+    {
+      "basename": "2023-05-11",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-11.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "工作进度表",
+      "path": "Projects/Yonyou/工作进度表.md"
+    },
+    {
+      "basename": "周会会议纪要1",
+      "path": "Projects/Yonyou/工作汇报/周报/周会会议纪要1.md"
+    },
+    {
+      "basename": "RPA文档",
+      "path": "Projects/Yonyou/工作项目/RPA/RPA文档.md"
+    },
+    {
+      "basename": "PRA实践项目一",
+      "path": "Projects/Yonyou/工作项目/RPA/PRA实践项目一.md"
+    },
+    {
+      "basename": "database",
+      "path": "Area/后端/database/database.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "Area/后端/PostgreSQL.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "可视化应用构建",
+      "path": "Projects/Yonyou/学习/可视化应用构建.md"
+    },
+    {
+      "basename": "工作流相关问题",
+      "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
+    },
+    {
+      "basename": "第1周（05-08至05-13）",
+      "path": "Projects/Yonyou/工作汇报/周报/第1周（05-08至05-13）.md"
+    },
+    {
+      "basename": "Yonyou 业务流操作",
+      "path": "Projects/Yonyou/学习/Yonyou 业务流操作.md"
+    },
+    {
+      "basename": "kira🌟kira 第二章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+    },
+    {
+      "basename": "论文正文",
+      "path": "Projects/毕业设计/论文正文.md"
+    },
+    {
+      "basename": "chatGPT",
+      "path": "Projects/毕业设计/chatGPT.md"
+    },
+    {
+      "basename": "LSTM学习",
+      "path": "Projects/毕业设计/LSTM学习.md"
+    },
+    {
+      "basename": "基于长短时记忆网络（LSTM）的股票收益率预测开题报告",
+      "path": "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md"
+    },
+    {
+      "basename": "翻译Deep learning with long short-term memory networks for financialmarket predictions",
+      "path": "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md"
+    },
+    {
+      "basename": "2023-05-10",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-10.md"
+    },
+    {
+      "basename": "2023-05-08",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-08.md"
+    },
+    {
+      "basename": "2023-05-09",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-09.md"
+    },
+    {
       "basename": "日语",
       "path": "Area/日语/日语.md"
     },
     {
+      "basename": "日常生活",
+      "path": "Area/日语/日语单词/日常生活.md"
+    },
+    {
+      "basename": "基本常识",
+      "path": "Area/日语/日语单词/基本常识.md"
+    },
+    {
+      "basename": "所有文章",
+      "path": "所有文章.md"
+    },
+    {
       "basename": "麻雀",
       "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "居家生活",
+      "path": "Area/日语/日语单词/居家生活.md"
+    },
+    {
+      "basename": "kira🌟kira 第一章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Inbox/Untitled.md"
     },
     {
       "basename": "01",
@@ -61,18 +189,6 @@
       "path": "Area/工具/chatGPT.md"
     },
     {
-      "basename": "基本常识",
-      "path": "Area/日语/日语单词/基本常识.md"
-    },
-    {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
-      "basename": "Get Things Done",
-      "path": "Area/阅读/Get Things Done.md"
-    },
-    {
       "basename": "日语面试",
       "path": "Area/日语/日语面试/日语面试.md"
     },
@@ -83,110 +199,6 @@
     {
       "basename": "麻雀绝艺总纲",
       "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
-    },
-    {
-      "basename": "chatGPT",
-      "path": "Projects/毕业设计/chatGPT.md"
-    },
-    {
-      "basename": "kira🌟kira 第二章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
-    },
-    {
-      "basename": "kira🌟kira 第一章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "基于长短时记忆网络（LSTM）的股票收益率预测开题报告",
-      "path": "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md"
-    },
-    {
-      "basename": "翻译Deep learning with long short-term memory networks for financialmarket predictions",
-      "path": "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md"
-    },
-    {
-      "basename": "database",
-      "path": "database.md"
-    },
-    {
-      "basename": "数据科学",
-      "path": "Area/数据科学/数据科学.md"
-    },
-    {
-      "basename": "阅读",
-      "path": "Area/阅读/阅读.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
-    },
-    {
-      "basename": "ASMR",
-      "path": "Area/ASMR/ASMR.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
-    },
-    {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
-    },
-    {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
-    },
-    {
-      "basename": "牌效理论",
-      "path": "Area/麻雀/麻雀绝艺总纲/牌效理论.md"
-    },
-    {
-      "basename": "麻雀心态",
-      "path": "Area/麻雀/麻雀绝艺总纲/麻雀心态.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "Area/后端/PostgreSQL.md"
-    },
-    {
-      "basename": "收藏网站",
-      "path": "Area/工具/收藏网站.md"
-    },
-    {
-      "basename": "我的blog工作流",
-      "path": "Area/工具/我的blog工作流.md"
-    },
-    {
-      "basename": "必备应用",
-      "path": "Area/工具/必备应用.md"
-    },
-    {
-      "basename": "blog模板",
-      "path": "Others/blog模板.md"
-    },
-    {
-      "basename": "博弈论",
-      "path": "Area/专业知识/博弈论.md"
-    },
-    {
-      "basename": "日语变形",
-      "path": "Area/日语/日语学习/日语变形.md"
-    },
-    {
-      "basename": "日语面试01",
-      "path": "Area/日语/日语面试/日语面试01.md"
-    },
-    {
-      "basename": "kirakiraMusic",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "In",
@@ -16,6 +16,6 @@
   "defaultViewMode": "preview",
   "smartIndentList": false,
   "spellcheck": false,
-  "attachmentFolderPath": "Others/scripts",
+  "attachmentFolderPath": "Projects/Untitled",
   "newLinkFormat": "relative"
 }
