@@ -4,6 +4,7 @@ date: 2023-05-09 15:31
 article: false
 star: false
 check: 0
+cards-deck: Area::后端::database
 ---
 
 ## 前略
@@ -81,6 +82,15 @@ SOUNEX()支持： PostgreSQL 不支持，多数 SQLite 实现不支持
 
 
 ## 汇总数据
-### 聚集函数
+### 聚集函数成一行 #card
 在SQL中，聚合函数（Aggregate Functions）用于对数据进行计算和统计，并返回单个值作为结果。
-一句话概括：把很多数据聚合成一行
+一句话概括：把很多数据根据某一条件聚合成一行
+<img src="http://oss.naglfar28.com/naglfar28/202305171758353.png"/>
+^1684317540616
+### 聚集函数进阶
+聚集不同值 #card 
+```sql
+SELECT AVG (DISTINCT prod_price) As avg_price
+```
+注：DISTINCT不能用于 COUNT（\*）
+
