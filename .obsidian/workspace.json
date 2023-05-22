@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md",
+                "file": "Area/阅读和思考/MBTI.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -86,14 +86,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 398.5
   },
   "right": {
     "id": "69a09433fe412c6c",
     "type": "split",
     "children": [
       {
-        "id": "90b92e3f4d54dd7a",
+        "id": "83410b67c70811d7",
         "type": "tabs",
         "children": [
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md",
+                "file": "Area/阅读和思考/MBTI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +114,27 @@
             }
           },
           {
+            "id": "e87240bbd42bf9d1",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90b92e3f4d54dd7a",
+        "type": "tabs",
+        "children": [
+          {
             "id": "b8415f559c04df36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md",
+                "file": "Area/阅读和思考/MBTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md"
+                "file": "Area/阅读和思考/MBTI.md"
               }
             }
           },
@@ -144,19 +159,23 @@
             }
           },
           {
-            "id": "d7bacf8af5618170",
+            "id": "179c4dae00e85b09",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,34 +198,34 @@
   },
   "active": "68065610275ce062",
   "lastOpenFiles": [
-    "database.md",
-    "Others/个人档案/bank account.md",
-    "Area/阅读和思考/MBTI.md",
-    "Others/个人档案",
     "Area/阅读和思考/Get Things Done.md",
-    "Ava - Getting Started.md",
-    "Area/工具/工具笔记.md",
-    "Area/工具/chatGPT/chatGPT.md",
-    "Area/工具/chatGPT",
     "Area/阅读和思考/阅读和思考.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-18工作.md",
-    "Area/日语/日语单词/基本常识.md",
-    "Area/日语/日语单词/日语单词.md",
-    "Area/后端/database/database.md",
-    "Area/麻雀/万石集/万石集.md",
-    "Area/日语/日语单词/日常生活.md",
-    "Area/日语/日语.md",
-    "Area/后端/python/os模块.md",
-    "Area/后端/后端.md",
-    "Area/后端/python/python配置.md",
+    "Area/专业知识/专业知识.md",
+    "Inbox/Untitled.md",
+    "database.md",
     "Projects/Yonyou/Yonyou.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-17工作.md",
-    "所有文章.md",
-    "Untitled.md",
-    "Meeting 1.md",
     "Projects/Yonyou/工作进度表.md",
-    "Projects/Yonyou/学习/Yonyou 业务流操作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md",
+    "Projects/Yonyou/工作汇报/日报/工作流相关问题.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md",
+    "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md",
+    "Projects/Yonyou/工作项目/学习/开发管理过程.md",
+    "Projects/Yonyou/工作项目/学习/可视化应用构建.md",
+    "Area/日语/日语.md",
+    "Area/日语/日语单词/1 基本常识.md",
+    "Area/日语/日语单词/2 居家生活.md",
+    "Area/日语/日语单词/日语单词.md",
+    "Area/工具/必备应用.md",
+    "Area/工具/chatGPT/chatGPT.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/后端/后端.md",
+    "Projects/Yonyou/工作项目/学习/RPA/RPA ocr+ chatGPT.md",
+    "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md",
+    "Projects/Yonyou/工作项目/学习/RPA/PRA实践项目一.md",
+    "Projects/Yonyou/工作项目/杂项/sql导入.md",
+    "Others/个人档案",
+    "Area/工具/chatGPT",
     "Area/后端/python",
     "Users/fuqixuan/Library/CloudStorage/OneDrive-个人",
     "Users/fuqixuan/Library/CloudStorage",
@@ -214,7 +233,7 @@
     "Users/fuqixuan",
     "Users",
     "Projects/Yonyou/工作项目/杂项",
-    "Projects/Yonyou/工作项目/RPA",
+    "Projects/Yonyou/工作项目/学习/RPA",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

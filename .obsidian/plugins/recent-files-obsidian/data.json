@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "GTD-OKR.xlsx",
-      "path": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md"
-    },
-    {
-      "basename": "database",
-      "path": "database.md"
-    },
-    {
-      "basename": "bank account",
-      "path": "Others/个人档案/bank account.md"
-    },
-    {
       "basename": "MBTI",
       "path": "Area/阅读和思考/MBTI.md"
     },
@@ -21,184 +9,196 @@
       "path": "Area/阅读和思考/Get Things Done.md"
     },
     {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
-    },
-    {
-      "basename": "chatGPT",
-      "path": "Area/工具/chatGPT/chatGPT.md"
-    },
-    {
       "basename": "阅读和思考",
       "path": "Area/阅读和思考/阅读和思考.md"
     },
     {
-      "basename": "2023-05-19工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
     },
     {
-      "basename": "2023-05-18工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-18工作.md"
-    },
-    {
-      "basename": "基本常识",
-      "path": "Area/日语/日语单词/基本常识.md"
-    },
-    {
-      "basename": "日语单词",
-      "path": "Area/日语/日语单词/日语单词.md"
+      "basename": "Untitled",
+      "path": "Inbox/Untitled.md"
     },
     {
       "basename": "database",
-      "path": "Area/后端/database/database.md"
-    },
-    {
-      "basename": "万石集",
-      "path": "Area/麻雀/万石集/万石集.md"
-    },
-    {
-      "basename": "日常生活",
-      "path": "Area/日语/日语单词/日常生活.md"
-    },
-    {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
-    },
-    {
-      "basename": "os模块",
-      "path": "Area/后端/python/os模块.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
-    },
-    {
-      "basename": "python配置",
-      "path": "Area/后端/python/python配置.md"
+      "path": "database.md"
     },
     {
       "basename": "Yonyou",
       "path": "Projects/Yonyou/Yonyou.md"
     },
     {
-      "basename": "2023-05-17工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-17工作.md"
-    },
-    {
-      "basename": "所有文章",
-      "path": "所有文章.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Meeting 1",
-      "path": "Meeting 1.md"
-    },
-    {
       "basename": "工作进度表",
       "path": "Projects/Yonyou/工作进度表.md"
     },
     {
-      "basename": "Yonyou 业务流操作",
-      "path": "Projects/Yonyou/学习/Yonyou 业务流操作.md"
-    },
-    {
-      "basename": "汇报",
-      "path": "Projects/Yonyou/学习/汇报.md"
-    },
-    {
-      "basename": "可视化应用构建",
-      "path": "Projects/Yonyou/学习/可视化应用构建.md"
-    },
-    {
-      "basename": "sql导入",
-      "path": "Projects/Yonyou/工作项目/杂项/sql导入.md"
-    },
-    {
-      "basename": "RPA文档",
-      "path": "Projects/Yonyou/工作项目/RPA/RPA文档.md"
-    },
-    {
-      "basename": "PRA实践项目一",
-      "path": "Projects/Yonyou/工作项目/RPA/PRA实践项目一.md"
-    },
-    {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
-    },
-    {
-      "basename": "SQL必知必会",
-      "path": "Area/后端/database/SQL必知必会.md"
-    },
-    {
-      "basename": "毕业设计",
-      "path": "Projects/毕业设计/毕业设计.md"
-    },
-    {
-      "basename": "2023-05-16工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md"
-    },
-    {
-      "basename": "2023-05-11",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-11.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
-      "basename": "周会会议纪要1",
-      "path": "Projects/Yonyou/工作汇报/周报/周会会议纪要1.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "Area/后端/database/PostgreSQL.md"
+      "basename": "2023-05-22工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
     },
     {
       "basename": "工作流相关问题",
       "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
     },
     {
-      "basename": "第1周（05-08至05-13）",
-      "path": "Projects/Yonyou/工作汇报/周报/第1周（05-08至05-13）.md"
+      "basename": "2023-05-19工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
     },
     {
-      "basename": "kira🌟kira 第二章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+      "basename": "2023-05-16工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md"
     },
     {
-      "basename": "论文正文",
-      "path": "Projects/毕业设计/论文正文.md"
+      "basename": "RPA问题整理",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md"
+    },
+    {
+      "basename": "开发管理过程",
+      "path": "Projects/Yonyou/工作项目/学习/开发管理过程.md"
+    },
+    {
+      "basename": "可视化应用构建",
+      "path": "Projects/Yonyou/工作项目/学习/可视化应用构建.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
+    },
+    {
+      "basename": "1 基本常识",
+      "path": "Area/日语/日语单词/1 基本常识.md"
+    },
+    {
+      "basename": "2 居家生活",
+      "path": "Area/日语/日语单词/2 居家生活.md"
+    },
+    {
+      "basename": "日语单词",
+      "path": "Area/日语/日语单词/日语单词.md"
+    },
+    {
+      "basename": "必备应用",
+      "path": "Area/工具/必备应用.md"
     },
     {
       "basename": "chatGPT",
-      "path": "Projects/毕业设计/chatGPT.md"
+      "path": "Area/工具/chatGPT/chatGPT.md"
     },
     {
-      "basename": "LSTM学习",
-      "path": "Projects/毕业设计/LSTM学习.md"
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
     },
     {
-      "basename": "基于长短时记忆网络（LSTM）的股票收益率预测开题报告",
-      "path": "Projects/毕业设计/基于长短时记忆网络（LSTM）的股票收益率预测开题报告.md"
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
     },
     {
-      "basename": "翻译Deep learning with long short-term memory networks for financialmarket predictions",
-      "path": "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md"
+      "basename": "RPA ocr+ chatGPT",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA ocr+ chatGPT.md"
     },
     {
-      "basename": "2023-05-10",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-10.md"
+      "basename": "RPA文档",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md"
     },
     {
-      "basename": "2023-05-08",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-08.md"
+      "basename": "PRA实践项目一",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/PRA实践项目一.md"
+    },
+    {
+      "basename": "sql导入",
+      "path": "Projects/Yonyou/工作项目/杂项/sql导入.md"
+    },
+    {
+      "basename": "SQL必知必会",
+      "path": "Area/后端/database/SQL必知必会.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "Area/后端/database/PostgreSQL.md"
+    },
+    {
+      "basename": "database",
+      "path": "Area/后端/database/database.md"
+    },
+    {
+      "basename": "毕业设计",
+      "path": "Projects/毕业设计/毕业设计.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "Area/前端/javascript/javascript.md"
+    },
+    {
+      "basename": "12 教育天地",
+      "path": "Area/日语/日语单词/12 教育天地.md"
+    },
+    {
+      "basename": "15 自然天地",
+      "path": "Area/日语/日语单词/15 自然天地.md"
+    },
+    {
+      "basename": "14 旅游观光",
+      "path": "Area/日语/日语单词/14 旅游观光.md"
+    },
+    {
+      "basename": "13 节庆假日",
+      "path": "Area/日语/日语单词/13 节庆假日.md"
+    },
+    {
+      "basename": "11 职场工作",
+      "path": "Area/日语/日语单词/11 职场工作.md"
+    },
+    {
+      "basename": "10 健康养生",
+      "path": "Area/日语/日语单词/10 健康养生.md"
+    },
+    {
+      "basename": "9 运动健身",
+      "path": "Area/日语/日语单词/9 运动健身.md"
+    },
+    {
+      "basename": "8 娱乐休闲",
+      "path": "Area/日语/日语单词/8 娱乐休闲.md"
+    },
+    {
+      "basename": "7 交通出行",
+      "path": "Area/日语/日语单词/7 交通出行.md"
+    },
+    {
+      "basename": "6 外表",
+      "path": "Area/日语/日语单词/6 外表.md"
+    },
+    {
+      "basename": "5 人物",
+      "path": "Area/日语/日语单词/5 人物.md"
+    },
+    {
+      "basename": "4 住房",
+      "path": "Area/日语/日语单词/4 住房.md"
+    },
+    {
+      "basename": "3 日常生活",
+      "path": "Area/日语/日语单词/3 日常生活.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "bank account",
+      "path": "Others/个人档案/bank account.md"
+    },
+    {
+      "basename": "GTD-OKR.xlsx",
+      "path": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md"
+    },
+    {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
     }
   ],
   "omittedPaths": [],
