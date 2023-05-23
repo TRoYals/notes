@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/阅读和思考/MBTI.md",
-                "mode": "preview",
+                "file": "Area/工具/chatGPT/chatGPT部署相关.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/阅读和思考/MBTI.md",
+                "file": "Area/工具/chatGPT/chatGPT部署相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/阅读和思考/MBTI.md",
+                "file": "Area/工具/chatGPT/chatGPT部署相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/阅读和思考/MBTI.md"
+                "file": "Area/工具/chatGPT/chatGPT部署相关.md"
               }
             }
           },
@@ -198,8 +198,21 @@
   },
   "active": "68065610275ce062",
   "lastOpenFiles": [
+    "Area/工具/chatGPT/chatGPT.md",
+    "Area/工具/chatGPT/chatGPT部署相关.md",
+    "Area/麻雀/麻雀.md",
+    "Area/阅读和思考/MBTI.md",
     "Area/阅读和思考/Get Things Done.md",
     "Area/阅读和思考/阅读和思考.md",
+    "Area/前端/前端.md",
+    "Area/日语/日语单词/日语单词.md",
+    "Area/日语/日语单词/1 基本常识.md",
+    "Area/日语/日语.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/工具/我的blog工作流.md",
+    "Area/工具/收藏网站.md",
+    "Area/工具/工具笔记.md",
+    "Area/工具/我的应用.md",
     "Area/专业知识/专业知识.md",
     "Inbox/Untitled.md",
     "database.md",
@@ -211,19 +224,6 @@
     "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md",
     "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md",
     "Projects/Yonyou/工作项目/学习/开发管理过程.md",
-    "Projects/Yonyou/工作项目/学习/可视化应用构建.md",
-    "Area/日语/日语.md",
-    "Area/日语/日语单词/1 基本常识.md",
-    "Area/日语/日语单词/2 居家生活.md",
-    "Area/日语/日语单词/日语单词.md",
-    "Area/工具/必备应用.md",
-    "Area/工具/chatGPT/chatGPT.md",
-    "Area/视觉小说/视觉小说.md",
-    "Area/后端/后端.md",
-    "Projects/Yonyou/工作项目/学习/RPA/RPA ocr+ chatGPT.md",
-    "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md",
-    "Projects/Yonyou/工作项目/学习/RPA/PRA实践项目一.md",
-    "Projects/Yonyou/工作项目/杂项/sql导入.md",
     "Others/个人档案",
     "Area/工具/chatGPT",
     "Area/后端/python",

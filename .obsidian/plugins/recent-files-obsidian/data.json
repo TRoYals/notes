@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "chatGPT部署相关",
+      "path": "Area/工具/chatGPT/chatGPT部署相关.md"
+    },
+    {
+      "basename": "chatGPT",
+      "path": "Area/工具/chatGPT/chatGPT.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
       "basename": "MBTI",
       "path": "Area/阅读和思考/MBTI.md"
     },
@@ -11,6 +23,42 @@
     {
       "basename": "阅读和思考",
       "path": "Area/阅读和思考/阅读和思考.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "日语单词",
+      "path": "Area/日语/日语单词/日语单词.md"
+    },
+    {
+      "basename": "1 基本常识",
+      "path": "Area/日语/日语单词/1 基本常识.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "我的blog工作流",
+      "path": "Area/工具/我的blog工作流.md"
+    },
+    {
+      "basename": "收藏网站",
+      "path": "Area/工具/收藏网站.md"
+    },
+    {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
+    },
+    {
+      "basename": "我的应用",
+      "path": "Area/工具/我的应用.md"
     },
     {
       "basename": "专业知识",
@@ -61,32 +109,8 @@
       "path": "Projects/Yonyou/工作项目/学习/可视化应用构建.md"
     },
     {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
-    },
-    {
-      "basename": "1 基本常识",
-      "path": "Area/日语/日语单词/1 基本常识.md"
-    },
-    {
       "basename": "2 居家生活",
       "path": "Area/日语/日语单词/2 居家生活.md"
-    },
-    {
-      "basename": "日语单词",
-      "path": "Area/日语/日语单词/日语单词.md"
-    },
-    {
-      "basename": "必备应用",
-      "path": "Area/工具/必备应用.md"
-    },
-    {
-      "basename": "chatGPT",
-      "path": "Area/工具/chatGPT/chatGPT.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
     },
     {
       "basename": "后端",
@@ -123,10 +147,6 @@
     {
       "basename": "毕业设计",
       "path": "Projects/毕业设计/毕业设计.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
     },
     {
       "basename": "javascript",
@@ -179,26 +199,6 @@
     {
       "basename": "4 住房",
       "path": "Area/日语/日语单词/4 住房.md"
-    },
-    {
-      "basename": "3 日常生活",
-      "path": "Area/日语/日语单词/3 日常生活.md"
-    },
-    {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
-    },
-    {
-      "basename": "bank account",
-      "path": "Others/个人档案/bank account.md"
-    },
-    {
-      "basename": "GTD-OKR.xlsx",
-      "path": "Users/fuqixuan/Library/CloudStorage/OneDrive-个人/GTD-OKR.xlsx.md"
-    },
-    {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
     }
   ],
   "omittedPaths": [],
