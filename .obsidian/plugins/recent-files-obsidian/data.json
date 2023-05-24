@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Storytelling with Data",
+      "path": "Area/数据科学/Storytelling with Data.md"
+    },
+    {
       "basename": "chatGPT部署相关",
       "path": "Area/工具/chatGPT/chatGPT部署相关.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
+    },
+    {
+      "basename": "阅读和思考",
+      "path": "Area/阅读和思考/阅读和思考.md"
+    },
+    {
+      "basename": "专业知识",
+      "path": "Area/专业知识/专业知识.md"
+    },
+    {
+      "basename": "Yonyou",
+      "path": "Projects/Yonyou/Yonyou.md"
+    },
+    {
+      "basename": "BI",
+      "path": "Projects/Yonyou/工作项目/学习/BI/BI.md"
+    },
+    {
+      "basename": "语义模型",
+      "path": "Projects/Yonyou/工作项目/学习/BI/语义模型.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "Area/后端/database/数据库.md"
+    },
+    {
+      "basename": "database",
+      "path": "Area/后端/database/database.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "Area/后端/database/PostgreSQL.md"
+    },
+    {
+      "basename": "我的应用",
+      "path": "Area/工具/我的应用.md"
+    },
+    {
+      "basename": "开发管理过程",
+      "path": "Projects/Yonyou/工作项目/学习/开发管理过程.md"
+    },
+    {
+      "basename": "聊天记录信息",
+      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
     },
     {
       "basename": "chatGPT",
       "path": "Area/工具/chatGPT/chatGPT.md"
     },
     {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
+      "basename": "2023-05-23工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md"
+    },
+    {
+      "basename": "2023-05-22工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
+    },
+    {
+      "basename": "工作流相关问题",
+      "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
+    },
+    {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
+    },
+    {
+      "basename": "RPA问题整理",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Others/Untitled.md"
+    },
+    {
+      "basename": "blog模板",
+      "path": "Others/blog模板.md"
+    },
+    {
+      "basename": "麻雀绝艺总纲",
+      "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
     },
     {
       "basename": "MBTI",
@@ -21,24 +117,12 @@
       "path": "Area/阅读和思考/Get Things Done.md"
     },
     {
-      "basename": "阅读和思考",
-      "path": "Area/阅读和思考/阅读和思考.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
-    },
-    {
       "basename": "日语单词",
       "path": "Area/日语/日语单词/日语单词.md"
     },
     {
       "basename": "1 基本常识",
       "path": "Area/日语/日语单词/1 基本常识.md"
-    },
-    {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
     },
     {
       "basename": "视觉小说",
@@ -53,18 +137,6 @@
       "path": "Area/工具/收藏网站.md"
     },
     {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
-    },
-    {
-      "basename": "我的应用",
-      "path": "Area/工具/我的应用.md"
-    },
-    {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Inbox/Untitled.md"
     },
@@ -73,20 +145,8 @@
       "path": "database.md"
     },
     {
-      "basename": "Yonyou",
-      "path": "Projects/Yonyou/Yonyou.md"
-    },
-    {
       "basename": "工作进度表",
       "path": "Projects/Yonyou/工作进度表.md"
-    },
-    {
-      "basename": "2023-05-22工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
-    },
-    {
-      "basename": "工作流相关问题",
-      "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
     },
     {
       "basename": "2023-05-19工作",
@@ -97,24 +157,12 @@
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md"
     },
     {
-      "basename": "RPA问题整理",
-      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md"
-    },
-    {
-      "basename": "开发管理过程",
-      "path": "Projects/Yonyou/工作项目/学习/开发管理过程.md"
-    },
-    {
       "basename": "可视化应用构建",
       "path": "Projects/Yonyou/工作项目/学习/可视化应用构建.md"
     },
     {
       "basename": "2 居家生活",
       "path": "Area/日语/日语单词/2 居家生活.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
     },
     {
       "basename": "RPA ocr+ chatGPT",
@@ -137,14 +185,6 @@
       "path": "Area/后端/database/SQL必知必会.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "Area/后端/database/PostgreSQL.md"
-    },
-    {
-      "basename": "database",
-      "path": "Area/后端/database/database.md"
-    },
-    {
       "basename": "毕业设计",
       "path": "Projects/毕业设计/毕业设计.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "15 自然天地",
       "path": "Area/日语/日语单词/15 自然天地.md"
-    },
-    {
-      "basename": "14 旅游观光",
-      "path": "Area/日语/日语单词/14 旅游观光.md"
-    },
-    {
-      "basename": "13 节庆假日",
-      "path": "Area/日语/日语单词/13 节庆假日.md"
-    },
-    {
-      "basename": "11 职场工作",
-      "path": "Area/日语/日语单词/11 职场工作.md"
-    },
-    {
-      "basename": "10 健康养生",
-      "path": "Area/日语/日语单词/10 健康养生.md"
-    },
-    {
-      "basename": "9 运动健身",
-      "path": "Area/日语/日语单词/9 运动健身.md"
-    },
-    {
-      "basename": "8 娱乐休闲",
-      "path": "Area/日语/日语单词/8 娱乐休闲.md"
-    },
-    {
-      "basename": "7 交通出行",
-      "path": "Area/日语/日语单词/7 交通出行.md"
-    },
-    {
-      "basename": "6 外表",
-      "path": "Area/日语/日语单词/6 外表.md"
-    },
-    {
-      "basename": "5 人物",
-      "path": "Area/日语/日语单词/5 人物.md"
-    },
-    {
-      "basename": "4 住房",
-      "path": "Area/日语/日语单词/4 住房.md"
     }
   ],
   "omittedPaths": [],
