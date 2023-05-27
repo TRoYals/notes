@@ -1,16 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Storytelling with Data",
-      "path": "Area/数据科学/Storytelling with Data.md"
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "chapter3",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/Untitled.md"
+    },
+    {
+      "basename": "kira🌟kira 第二章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+    },
+    {
+      "basename": "kira🌟kira 第一章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "2023-05-26工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-26工作.md"
+    },
+    {
+      "basename": "2023-05-19工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
+    },
+    {
+      "basename": "Yonyou",
+      "path": "Projects/Yonyou/Yonyou.md"
+    },
+    {
+      "basename": "工作进度表",
+      "path": "Projects/Yonyou/工作进度表.md"
+    },
+    {
+      "basename": "开发文档",
+      "path": "Projects/Yonyou/工作项目/cas/开发文档.md"
+    },
+    {
+      "basename": "2023-05-25工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-25工作.md"
+    },
+    {
+      "basename": "2023-05-24工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-24工作.md"
+    },
+    {
+      "basename": "聊天记录信息",
+      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
+    },
+    {
+      "basename": "BI",
+      "path": "Projects/Yonyou/工作项目/学习/BI/BI.md"
+    },
+    {
+      "basename": "RPA文档",
+      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Projects/Yonyou/工作项目/学习/BI/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Projects/Yonyou/工作项目/学习/BI/Untitled.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "数据中台-数据工场",
+      "path": "Projects/Yonyou/工作项目/学习/BI/学习资料/数据中台-数据工场.md"
+    },
+    {
+      "basename": "语义模型",
+      "path": "Projects/Yonyou/工作项目/学习/BI/语义模型.md"
     },
     {
       "basename": "chatGPT部署相关",
       "path": "Area/工具/chatGPT/chatGPT部署相关.md"
     },
     {
+      "basename": "2023-05-22工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
+    },
+    {
+      "basename": "2023-05-23工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md"
+    },
+    {
+      "basename": "毕业设计",
+      "path": "Projects/毕业设计/毕业设计.md"
+    },
+    {
+      "basename": "Storytelling with Data",
+      "path": "Area/数据科学/Storytelling with Data.md"
+    },
+    {
       "basename": "数据科学",
       "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "blog模板",
+      "path": "Others/blog模板.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Others/Untitled.md"
     },
     {
       "basename": "后端",
@@ -37,18 +145,6 @@
       "path": "Area/专业知识/专业知识.md"
     },
     {
-      "basename": "Yonyou",
-      "path": "Projects/Yonyou/Yonyou.md"
-    },
-    {
-      "basename": "BI",
-      "path": "Projects/Yonyou/工作项目/学习/BI/BI.md"
-    },
-    {
-      "basename": "语义模型",
-      "path": "Projects/Yonyou/工作项目/学习/BI/语义模型.md"
-    },
-    {
       "basename": "数据库",
       "path": "Area/后端/database/数据库.md"
     },
@@ -69,20 +165,8 @@
       "path": "Projects/Yonyou/工作项目/学习/开发管理过程.md"
     },
     {
-      "basename": "聊天记录信息",
-      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
-    },
-    {
       "basename": "chatGPT",
       "path": "Area/工具/chatGPT/chatGPT.md"
-    },
-    {
-      "basename": "2023-05-23工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md"
-    },
-    {
-      "basename": "2023-05-22工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
     },
     {
       "basename": "工作流相关问题",
@@ -95,14 +179,6 @@
     {
       "basename": "RPA问题整理",
       "path": "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Others/Untitled.md"
-    },
-    {
-      "basename": "blog模板",
-      "path": "Others/blog模板.md"
     },
     {
       "basename": "麻雀绝艺总纲",
@@ -123,82 +199,6 @@
     {
       "basename": "1 基本常识",
       "path": "Area/日语/日语单词/1 基本常识.md"
-    },
-    {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
-    },
-    {
-      "basename": "我的blog工作流",
-      "path": "Area/工具/我的blog工作流.md"
-    },
-    {
-      "basename": "收藏网站",
-      "path": "Area/工具/收藏网站.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Inbox/Untitled.md"
-    },
-    {
-      "basename": "database",
-      "path": "database.md"
-    },
-    {
-      "basename": "工作进度表",
-      "path": "Projects/Yonyou/工作进度表.md"
-    },
-    {
-      "basename": "2023-05-19工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
-    },
-    {
-      "basename": "2023-05-16工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-16工作.md"
-    },
-    {
-      "basename": "可视化应用构建",
-      "path": "Projects/Yonyou/工作项目/学习/可视化应用构建.md"
-    },
-    {
-      "basename": "2 居家生活",
-      "path": "Area/日语/日语单词/2 居家生活.md"
-    },
-    {
-      "basename": "RPA ocr+ chatGPT",
-      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA ocr+ chatGPT.md"
-    },
-    {
-      "basename": "RPA文档",
-      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md"
-    },
-    {
-      "basename": "PRA实践项目一",
-      "path": "Projects/Yonyou/工作项目/学习/RPA/PRA实践项目一.md"
-    },
-    {
-      "basename": "sql导入",
-      "path": "Projects/Yonyou/工作项目/杂项/sql导入.md"
-    },
-    {
-      "basename": "SQL必知必会",
-      "path": "Area/后端/database/SQL必知必会.md"
-    },
-    {
-      "basename": "毕业设计",
-      "path": "Projects/毕业设计/毕业设计.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "Area/前端/javascript/javascript.md"
-    },
-    {
-      "basename": "12 教育天地",
-      "path": "Area/日语/日语单词/12 教育天地.md"
-    },
-    {
-      "basename": "15 自然天地",
-      "path": "Area/日语/日语单词/15 自然天地.md"
     }
   ],
   "omittedPaths": [],

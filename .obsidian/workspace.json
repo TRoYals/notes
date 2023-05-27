@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc552971c4ee3dd",
+        "id": "cf34d9d1117a732f",
         "type": "tabs",
         "children": [
           {
-            "id": "68065610275ce062",
+            "id": "62b0e7cf536e3b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/工具/chatGPT/chatGPT部署相关.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c378b63fcc2280eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/数据科学/Storytelling with Data.md",
+                "file": "Area/视觉小说/视觉小说.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -117,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/数据科学/Storytelling with Data.md",
+                "file": "Area/视觉小说/视觉小说.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/数据科学/Storytelling with Data.md",
+                "file": "Area/视觉小说/视觉小说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/数据科学/Storytelling with Data.md"
+                "file": "Area/视觉小说/视觉小说.md"
               }
             }
           }
@@ -174,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,44 +181,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c378b63fcc2280eb",
+  "active": "62b0e7cf536e3b99",
   "lastOpenFiles": [
-    "Area/工具/chatGPT/chatGPT部署相关.md",
-    "Area/数据科学/Storytelling with Data.md",
-    "Area/数据科学/数据科学.md",
-    "Area/后端/后端.md",
-    "Area/麻雀/麻雀.md",
-    "Area/前端/前端.md",
-    "Area/日语/日语.md",
-    "Area/阅读和思考/阅读和思考.md",
-    "Area/专业知识/专业知识.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/Untitled.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-26工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md",
     "Projects/Yonyou/Yonyou.md",
-    "Projects/Yonyou/工作项目/学习/BI/BI.md",
-    "Projects/Yonyou/工作项目/学习/BI/语义模型.md",
-    "Area/后端/database/数据库.md",
-    "Area/后端/database/database.md",
-    "Area/后端/database/PostgreSQL.md",
-    "Area/工具/我的应用.md",
-    "Projects/Yonyou/工作项目/学习/开发管理过程.md",
+    "Projects/Yonyou/工作进度表.md",
+    "Projects/Yonyou/工作项目/cas/开发文档.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-25工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-24工作.md",
     "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
+    "Projects/Yonyou/工作项目/cas/Untitled",
+    "Projects/Yonyou/工作项目/cas",
+    "Projects/Yonyou/工作项目/学习/BI/BI.md",
+    "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md",
+    "Projects/Yonyou/工作项目/学习/BI/Untitled 1.md",
+    "Projects/Yonyou/工作项目/学习/BI/Untitled.md",
+    "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled.md",
+    "Untitled 1.md",
+    "Projects/Yonyou/工作项目/学习/BI/语义模型.md",
+    "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled",
+    "Projects/Yonyou/工作项目/学习/BI/学习资料/数据中台-数据工场.md",
+    "Projects/Yonyou/工作项目/学习/BI/学习资料",
+    "Area/工具/chatGPT/chatGPT部署相关.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md",
+    "Projects/毕业设计/毕业设计.md",
     "Projects/Yonyou/工作项目/学习/BI",
     "Projects/Yonyou/工作伙伴/zoe",
     "Projects/Yonyou/工作伙伴",
-    "Area/工具/chatGPT/chatGPT.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md",
-    "Projects/Yonyou/工作汇报/日报/工作流相关问题.md",
-    "Area/工具/工具笔记.md",
-    "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md",
-    "Others/Untitled.md",
-    "Others/blog模板.md",
     "Others/个人档案",
     "Area/工具/chatGPT",
     "Area/后端/python",
-    "Users/fuqixuan/Library/CloudStorage/OneDrive-个人",
-    "Users/fuqixuan/Library/CloudStorage",
-    "Users/fuqixuan/Library",
-    "Users/fuqixuan",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",
