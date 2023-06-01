@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md",
+                "file": "Area/后端/git/分支与合并相关命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md",
+                "file": "Area/后端/git/分支与合并相关命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,20 +115,12 @@
             }
           },
           {
-            "id": "2c741ed8cce682f9",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b39e929812a88564",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md",
+                "file": "Area/后端/git/分支与合并相关命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,16 +143,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md"
+                "file": "Area/后端/git/分支与合并相关命令.md"
               }
+            }
+          },
+          {
+            "id": "50073ffe838daee6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
+    "width": 330.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,42 +184,42 @@
   },
   "active": "62b0e7cf536e3b99",
   "lastOpenFiles": [
-    "Area/视觉小说/视觉小说.md",
-    "Area/麻雀/麻雀.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/Untitled.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Area/后端/git/git.md",
+    "Area/后端/git/分支与合并相关命令.md",
+    "Area/后端/git/git命令/git命令.md",
+    "Area/后端/database/database.md",
+    "Area/后端/后端.md",
+    "Area/后端/git",
+    "Projects/Yonyou/工作汇报/日报/2023-05-31 工作.md",
+    "Projects/Yonyou/工作汇报/日报/工作流相关问题.md",
     "Projects/Yonyou/工作汇报/日报/2023-05-26工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-29工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-30 工作.md",
+    "Projects/毕业设计/答辩.md",
+    "Area/工具/chatGPT/chatGPT部署相关.md",
+    "Area/工具/chatGPT/chatGPT.md",
+    "Projects/毕业设计/毕业设计.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 紗理奈.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/前端/前端.md",
+    "Area/日语/日语.md",
+    "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
     "Projects/Yonyou/Yonyou.md",
-    "Projects/Yonyou/工作进度表.md",
-    "Projects/Yonyou/工作项目/cas/开发文档.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-25工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-24工作.md",
     "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
+    "Area/后端/git/git命令",
+    "Projects/Yonyou/工作进度表.md",
+    "Others/Untitled.md",
+    "Others/个人档案/bank account.md",
+    "Meeting 1.md",
     "Projects/Yonyou/工作项目/cas/Untitled",
     "Projects/Yonyou/工作项目/cas",
-    "Projects/Yonyou/工作项目/学习/BI/BI.md",
-    "Projects/Yonyou/工作项目/学习/RPA/RPA文档.md",
-    "Projects/Yonyou/工作项目/学习/BI/Untitled 1.md",
-    "Projects/Yonyou/工作项目/学习/BI/Untitled.md",
-    "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled.md",
-    "Untitled 1.md",
-    "Projects/Yonyou/工作项目/学习/BI/语义模型.md",
     "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled",
-    "Projects/Yonyou/工作项目/学习/BI/学习资料/数据中台-数据工场.md",
     "Projects/Yonyou/工作项目/学习/BI/学习资料",
-    "Area/工具/chatGPT/chatGPT部署相关.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md",
     "Projects/Yonyou/工作项目/学习/BI",
     "Projects/Yonyou/工作伙伴/zoe",
     "Projects/Yonyou/工作伙伴",
     "Others/个人档案",
-    "Area/工具/chatGPT",
-    "Area/后端/python",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

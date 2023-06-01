@@ -1,48 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "chapter3",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/chapter3.md"
+      "basename": "分支与合并相关命令",
+      "path": "Area/后端/git/分支与合并相关命令.md"
     },
     {
-      "basename": "视觉小说",
-      "path": "Area/视觉小说/视觉小说.md"
+      "basename": "git",
+      "path": "Area/后端/git/git.md"
     },
     {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
+      "basename": "git命令",
+      "path": "Area/后端/git/git命令/git命令.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/Untitled.md"
+      "basename": "database",
+      "path": "Area/后端/database/database.md"
     },
     {
-      "basename": "kira🌟kira 第二章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
     },
     {
-      "basename": "kira🌟kira 第一章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
+      "basename": "2023-05-31 工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-31 工作.md"
     },
     {
-      "basename": "kira🌟kira 煌煌舞台",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+      "basename": "工作流相关问题",
+      "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
     },
     {
       "basename": "2023-05-26工作",
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-26工作.md"
     },
     {
-      "basename": "2023-05-19工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
+      "basename": "2023-05-29工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-29工作.md"
+    },
+    {
+      "basename": "2023-05-30 工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-30 工作.md"
+    },
+    {
+      "basename": "答辩",
+      "path": "Projects/毕业设计/答辩.md"
+    },
+    {
+      "basename": "chatGPT部署相关",
+      "path": "Area/工具/chatGPT/chatGPT部署相关.md"
+    },
+    {
+      "basename": "chatGPT",
+      "path": "Area/工具/chatGPT/chatGPT.md"
+    },
+    {
+      "basename": "毕业设计",
+      "path": "Projects/毕业设计/毕业设计.md"
+    },
+    {
+      "basename": "kira🌟kira 紗理奈",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 紗理奈.md"
+    },
+    {
+      "basename": "kira🌟kira 第二章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md"
+    },
+    {
+      "basename": "视觉小说",
+      "path": "Area/视觉小说/视觉小说.md"
+    },
+    {
+      "basename": "前端",
+      "path": "Area/前端/前端.md"
+    },
+    {
+      "basename": "日语",
+      "path": "Area/日语/日语.md"
+    },
+    {
+      "basename": "麻雀绝艺总纲",
+      "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
     },
     {
       "basename": "Yonyou",
       "path": "Projects/Yonyou/Yonyou.md"
     },
     {
+      "basename": "聊天记录信息",
+      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
+    },
+    {
       "basename": "工作进度表",
       "path": "Projects/Yonyou/工作进度表.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Others/Untitled.md"
+    },
+    {
+      "basename": "bank account",
+      "path": "Others/个人档案/bank account.md"
+    },
+    {
+      "basename": "Meeting 1",
+      "path": "Meeting 1.md"
+    },
+    {
+      "basename": "所有文章",
+      "path": "所有文章.md"
+    },
+    {
+      "basename": "阅读和思考",
+      "path": "Area/阅读和思考/阅读和思考.md"
+    },
+    {
+      "basename": "数据科学",
+      "path": "Area/数据科学/数据科学.md"
+    },
+    {
+      "basename": "kira🌟kira 千絵",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 千絵.md"
+    },
+    {
+      "basename": "kira🌟kira 煌煌舞台",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
+    },
+    {
+      "basename": "kira🌟kira 第一章",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
+    },
+    {
+      "basename": "kirakiraMusic",
+      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
+    },
+    {
+      "basename": "我的应用",
+      "path": "Area/工具/我的应用.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
+      "basename": "2023-05-19工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
     },
     {
       "basename": "开发文档",
@@ -55,10 +155,6 @@
     {
       "basename": "2023-05-24工作",
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-24工作.md"
-    },
-    {
-      "basename": "聊天记录信息",
-      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
     },
     {
       "basename": "BI",
@@ -93,10 +189,6 @@
       "path": "Projects/Yonyou/工作项目/学习/BI/语义模型.md"
     },
     {
-      "basename": "chatGPT部署相关",
-      "path": "Area/工具/chatGPT/chatGPT部署相关.md"
-    },
-    {
       "basename": "2023-05-22工作",
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-22工作.md"
     },
@@ -105,100 +197,8 @@
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-23工作.md"
     },
     {
-      "basename": "毕业设计",
-      "path": "Projects/毕业设计/毕业设计.md"
-    },
-    {
       "basename": "Storytelling with Data",
       "path": "Area/数据科学/Storytelling with Data.md"
-    },
-    {
-      "basename": "数据科学",
-      "path": "Area/数据科学/数据科学.md"
-    },
-    {
-      "basename": "blog模板",
-      "path": "Others/blog模板.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Others/Untitled.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
-    },
-    {
-      "basename": "前端",
-      "path": "Area/前端/前端.md"
-    },
-    {
-      "basename": "日语",
-      "path": "Area/日语/日语.md"
-    },
-    {
-      "basename": "阅读和思考",
-      "path": "Area/阅读和思考/阅读和思考.md"
-    },
-    {
-      "basename": "专业知识",
-      "path": "Area/专业知识/专业知识.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "Area/后端/database/数据库.md"
-    },
-    {
-      "basename": "database",
-      "path": "Area/后端/database/database.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "Area/后端/database/PostgreSQL.md"
-    },
-    {
-      "basename": "我的应用",
-      "path": "Area/工具/我的应用.md"
-    },
-    {
-      "basename": "开发管理过程",
-      "path": "Projects/Yonyou/工作项目/学习/开发管理过程.md"
-    },
-    {
-      "basename": "chatGPT",
-      "path": "Area/工具/chatGPT/chatGPT.md"
-    },
-    {
-      "basename": "工作流相关问题",
-      "path": "Projects/Yonyou/工作汇报/日报/工作流相关问题.md"
-    },
-    {
-      "basename": "工具笔记",
-      "path": "Area/工具/工具笔记.md"
-    },
-    {
-      "basename": "RPA问题整理",
-      "path": "Projects/Yonyou/工作项目/学习/RPA/RPA问题整理.md"
-    },
-    {
-      "basename": "麻雀绝艺总纲",
-      "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
-    },
-    {
-      "basename": "MBTI",
-      "path": "Area/阅读和思考/MBTI.md"
-    },
-    {
-      "basename": "Get Things Done",
-      "path": "Area/阅读和思考/Get Things Done.md"
-    },
-    {
-      "basename": "日语单词",
-      "path": "Area/日语/日语单词/日语单词.md"
-    },
-    {
-      "basename": "1 基本常识",
-      "path": "Area/日语/日语单词/1 基本常识.md"
     }
   ],
   "omittedPaths": [],
