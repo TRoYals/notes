@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -184,9 +183,10 @@
   },
   "active": "62b0e7cf536e3b99",
   "lastOpenFiles": [
-    "Area/后端/git/git.md",
-    "Area/后端/git/分支与合并相关命令.md",
     "Area/后端/git/git命令/git命令.md",
+    "Area/后端/git/分支与合并相关命令.md",
+    "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
+    "Area/后端/git/git.md",
     "Area/后端/database/database.md",
     "Area/后端/后端.md",
     "Area/后端/git",
@@ -206,7 +206,6 @@
     "Area/日语/日语.md",
     "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
     "Projects/Yonyou/Yonyou.md",
-    "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
     "Area/后端/git/git命令",
     "Projects/Yonyou/工作进度表.md",
     "Others/Untitled.md",

@@ -5,12 +5,16 @@
       "path": "Area/后端/git/分支与合并相关命令.md"
     },
     {
-      "basename": "git",
-      "path": "Area/后端/git/git.md"
-    },
-    {
       "basename": "git命令",
       "path": "Area/后端/git/git命令/git命令.md"
+    },
+    {
+      "basename": "聊天记录信息",
+      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
+    },
+    {
+      "basename": "git",
+      "path": "Area/后端/git/git.md"
     },
     {
       "basename": "database",
@@ -83,10 +87,6 @@
     {
       "basename": "Yonyou",
       "path": "Projects/Yonyou/Yonyou.md"
-    },
-    {
-      "basename": "聊天记录信息",
-      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
     },
     {
       "basename": "工作进度表",
