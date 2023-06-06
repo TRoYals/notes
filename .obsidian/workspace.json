@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/后端/git/分支与合并相关命令.md",
+                "file": "Area/源码/Auto-GPT源码解析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12a6508087065c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/源码/Auto-GPT源码解析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#工作流",
+                "query": "tag:#save",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/后端/git/分支与合并相关命令.md",
+                "file": "Area/源码/Auto-GPT源码解析.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/后端/git/分支与合并相关命令.md",
+                "file": "Area/源码/Auto-GPT源码解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/后端/git/分支与合并相关命令.md"
+                "file": "Area/源码/Auto-GPT源码解析.md"
               }
             }
           },
@@ -181,44 +195,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62b0e7cf536e3b99",
+  "active": "12a6508087065c67",
   "lastOpenFiles": [
-    "Area/后端/git/git命令/git命令.md",
-    "Area/后端/git/分支与合并相关命令.md",
-    "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
+    "Area/后端/Docker/Docker.md",
     "Area/后端/git/git.md",
-    "Area/后端/database/database.md",
+    "Area/后端/Docker",
     "Area/后端/后端.md",
-    "Area/后端/git",
-    "Projects/Yonyou/工作汇报/日报/2023-05-31 工作.md",
-    "Projects/Yonyou/工作汇报/日报/工作流相关问题.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-26工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-29工作.md",
-    "Projects/Yonyou/工作汇报/日报/2023-05-30 工作.md",
-    "Projects/毕业设计/答辩.md",
-    "Area/工具/chatGPT/chatGPT部署相关.md",
-    "Area/工具/chatGPT/chatGPT.md",
-    "Projects/毕业设计/毕业设计.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 紗理奈.md",
-    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
+    "Area/源码/Auto-GPT源码解析.md",
+    "Area/源码/Pandas-AI.md",
+    "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
+    "Area/数据科学/数据科学.md",
     "Area/视觉小说/视觉小说.md",
+    "Area/源码",
     "Area/前端/前端.md",
-    "Area/日语/日语.md",
-    "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md",
-    "Projects/Yonyou/Yonyou.md",
-    "Area/后端/git/git命令",
-    "Projects/Yonyou/工作进度表.md",
-    "Others/Untitled.md",
+    "Area/麻雀/麻雀.md",
+    "Area/工具/chatGPT/chatGPT.md",
+    "Area/工具/chatGPT/chatGPT部署相关.md",
+    "Area/工具/chatGPT/ChatGPT 学习赋能/AI tutor.md",
     "Others/个人档案/bank account.md",
-    "Meeting 1.md",
+    "database.md",
+    "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md",
+    "Projects/Yonyou/工作进度表.md",
+    "Projects/Yonyou/工作项目/cas/开发文档.md",
+    "Projects/Yonyou/Yonyou.md",
+    "Area/工具/chatGPT/Prompt Engineering.md",
+    "Area/工具/chatGPT/ChatGPT 学习赋能/语言学习.md",
+    "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md",
+    "Area/工具/chatGPT/ChatGPT 学习赋能",
+    "Area/视觉小说/rance/rance攻略.md",
+    "Area/视觉小说/rance",
+    "Projects/Yonyou/工作汇报/日报/2023-06-01 工作.md",
+    "Projects/Yonyou/工作汇报/日报/2023-05-31 工作.md",
+    "Area/日语/日语.md",
+    "Area/后端/git",
+    "Area/后端/git/git命令",
     "Projects/Yonyou/工作项目/cas/Untitled",
     "Projects/Yonyou/工作项目/cas",
     "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled",
     "Projects/Yonyou/工作项目/学习/BI/学习资料",
-    "Projects/Yonyou/工作项目/学习/BI",
-    "Projects/Yonyou/工作伙伴/zoe",
-    "Projects/Yonyou/工作伙伴",
-    "Others/个人档案",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

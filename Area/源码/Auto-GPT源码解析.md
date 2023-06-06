@@ -1,7 +1,7 @@
 ---
-title: Auto-GPT
+title: Auto-GPT 源码解析
 date: 2023-06-06 14:07
-article: false
+article: true
 star: false
 check: 0
 ---
@@ -50,7 +50,8 @@ check: 0
 
 ```python
 current_context = [create_chat_message("system", prompt), create_chat_message("system", f"Permanent memory: {permanent_memory}")]
-current_context.extend(full_message_history[-(token_limit - len(prompt) - len(permanent_memory) - 10):]) current_context.extend([create_chat_message("user", user_input)])
+current_context.extend(full_message_history[-(token_limit - len(prompt) - len(permanent_memory) - 10):]) 
+current_context.extend([create_chat_message("user", user_input)])
 ```
 
 简单来说, 就是把长时记忆和现有的prompt合并, 并进行访问.
@@ -61,7 +62,7 @@ current_context.extend(full_message_history[-(token_limit - len(prompt) - len(pe
 这个commit中基本对整个autoGPT的底层逻辑进行了定义.
 简单来说就是, 定义一个 `permant_memory`来存取 ChatGPT返回的认为值得放入长时记忆的内容, 并讲长时记忆每次都加入到prompt中.
 
-## 自动运行 Commit 0268bb 
+## 自动运行 - Commit 0268bb 
 <0268bb0b7bfe4a2ffd83d6cd909ff0cd926eac75>
 
 [Commits · TRoYals/Auto-GPT](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1896&branch=master&qualified_name=refs%2Fheads%2Fmaster)
@@ -96,14 +97,15 @@ Runs auto-gpt without user authorisation for each turn.
 - 增加了 assitant thoughts的展示　
 简单来说, 都是一些用户体验上的东西. 但是作者的这种通过增加continuous mode的方式来减少风险的方式是很值得借鉴的.
 
-## autoagent Commit 2c6338
+## autoagent - Commit 2c6338
 \<2c6338fd3b8926cc6f6984ebf4cdc89b4bea8f30>
 
 [file - commit 2c6338](https://github.com/TRoYals/Auto-GPT/tree/2c6338fd3b8926cc6f6984ebf4cdc89b4bea8f30)
 
 [Commits Lists - 2c6338](https://github.com/TRoYals/Auto-GPT/commits/master?after=59d31b021d80513d01e2c9a24d523dade671a8d6+1860&branch=master&qualified_name=refs%2Fheads%2Fmaster)
 
-主要是对从上次commit到这一次commit的全部总结
+主要是对从上次commit到这一次commit的全部总结, 首先是加了一个speaker的功能, 对于本次学习没有什么帮助, 跳过.
+然后是加了一个ai_agent的功能, 值得研究.
 
 ```
 scripts
@@ -124,4 +126,33 @@ scripts
     ├── speak.py
     └── spinner.py
 ```
+
+
+- commands.py　
+先说说command.py, 因为着你定义了所有对ChatGPT返回的commands的操作, 所以本质上是函数运行的直接窗口.
+增添了以下的新的commands
+
+1. start_agent 
+  字面理解就是开启一个新的gpt
+2. message_agent
+3. list_agents
+4. delete_agents
+5. ai.evalutate_code
+6. ai.improve_code
+7. ai.write_tests
+
+- agent_manager.py　
+定义了一些与agent相关的操作函数
+
+- ai_functions.py　
+感觉还是蛮有意思的, 作者专卖写了个函数专门来处理函数的测试, 生成和提升, 这个思路可以保持. #save[Auto-GPT/ai\_functions.py](https://github.com/TRoYals/Auto-GPT/blob/2c6338fd3b8926cc6f6984ebf4cdc89b4bea8f30/scripts/ai_functions.py)
+
+- execute_code.py　
+一个函数, 来执行python代码. 专门开了一个docker来运行代码, 这是一个好思路. 真得去学学[[docker]]了!!! 
+2023-06-06 17:46
+
+
+
+
+
 
