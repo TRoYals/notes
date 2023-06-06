@@ -34,9 +34,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b55a95c4031ecdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/工具/chatGPT/chatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "85077840ea5c1782",
@@ -112,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -221,7 +233,18 @@
   },
   "active": "a915c2cfb01964b1",
   "lastOpenFiles": [
+    "Area/工具/chatGPT/chatGPT.md",
+    "Area/工具/chatGPT/ChatGPT 学习赋能/AI tutor.md",
+    "Area/视觉小说/视觉小说.md",
+    "Area/前端/前端.md",
     "Area/源码/Auto-GPT源码解析.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 千絵.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 紗理奈.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
+    "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
+    "Area/源码/Pandas-AI.md",
     "Area/后端/Docker/Docker.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-06 工作.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md",
@@ -235,20 +258,9 @@
     "Area/后端/python/os模块.md",
     "Area/后端/git/git.md",
     "Area/后端/Docker",
-    "Area/源码/Pandas-AI.md",
     "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
     "Area/数据科学/数据科学.md",
-    "Area/视觉小说/视觉小说.md",
     "Area/源码",
-    "Area/前端/前端.md",
-    "Area/麻雀/麻雀.md",
-    "Area/工具/chatGPT/chatGPT.md",
-    "Area/工具/chatGPT/chatGPT部署相关.md",
-    "Area/工具/chatGPT/ChatGPT 学习赋能/AI tutor.md",
-    "Others/个人档案/bank account.md",
-    "database.md",
-    "Projects/毕业设计/翻译Deep learning with long short-term memory networks for financialmarket predictions.md",
-    "Projects/Yonyou/工作进度表.md",
     "Area/工具/chatGPT/ChatGPT 学习赋能",
     "Area/视觉小说/rance",
     "Area/后端/git",
