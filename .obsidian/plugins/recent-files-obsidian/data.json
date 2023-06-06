@@ -5,16 +5,52 @@
       "path": "Area/源码/Auto-GPT源码解析.md"
     },
     {
-      "basename": "Docker",
-      "path": "Area/后端/Docker/Docker.md"
+      "basename": "2023-06-06 工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-06-06 工作.md"
     },
     {
-      "basename": "git",
-      "path": "Area/后端/git/git.md"
+      "basename": "2023-06-05 工作",
+      "path": "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md"
+    },
+    {
+      "basename": "BI",
+      "path": "Projects/Yonyou/工作项目/学习/BI/BI.md"
     },
     {
       "basename": "后端",
       "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Area/后端/Docker/Docker.md"
+    },
+    {
+      "basename": "工具笔记",
+      "path": "Area/工具/工具笔记.md"
+    },
+    {
+      "basename": "我的应用",
+      "path": "Area/工具/我的应用.md"
+    },
+    {
+      "basename": "git命令",
+      "path": "Area/后端/git/git命令/git命令.md"
+    },
+    {
+      "basename": "分支与合并相关命令",
+      "path": "Area/后端/git/分支与合并相关命令.md"
+    },
+    {
+      "basename": "python配置",
+      "path": "Area/后端/python/python配置.md"
+    },
+    {
+      "basename": "os模块",
+      "path": "Area/后端/python/os模块.md"
+    },
+    {
+      "basename": "git",
+      "path": "Area/后端/git/git.md"
     },
     {
       "basename": "Pandas-AI",
@@ -85,10 +121,6 @@
       "path": "Area/工具/chatGPT/ChatGPT 学习赋能/语言学习.md"
     },
     {
-      "basename": "2023-06-05 工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md"
-    },
-    {
       "basename": "rance攻略",
       "path": "Area/视觉小说/rance/rance攻略.md"
     },
@@ -107,14 +139,6 @@
     {
       "basename": "kira🌟kira 煌煌舞台",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md"
-    },
-    {
-      "basename": "分支与合并相关命令",
-      "path": "Area/后端/git/分支与合并相关命令.md"
-    },
-    {
-      "basename": "git命令",
-      "path": "Area/后端/git/git命令/git命令.md"
     },
     {
       "basename": "database",
@@ -175,30 +199,6 @@
     {
       "basename": "kira🌟kira 千絵",
       "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 千絵.md"
-    },
-    {
-      "basename": "kira🌟kira 第一章",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第一章.md"
-    },
-    {
-      "basename": "kirakiraMusic",
-      "path": "Area/视觉小说/kira🌟kira 煌煌舞台/kirakiraMusic.md"
-    },
-    {
-      "basename": "我的应用",
-      "path": "Area/工具/我的应用.md"
-    },
-    {
-      "basename": "2023-05-19工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-19工作.md"
-    },
-    {
-      "basename": "2023-05-25工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-25工作.md"
-    },
-    {
-      "basename": "2023-05-24工作",
-      "path": "Projects/Yonyou/工作汇报/日报/2023-05-24工作.md"
     }
   ],
   "omittedPaths": [],
