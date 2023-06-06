@@ -140,6 +140,7 @@ scripts
 5. ai.evalutate_code
 6. ai.improve_code
 7. ai.write_tests
+8. excute_python_file (什么重量级)
 
 - agent_manager.py　
 定义了一些与agent相关的操作函数
@@ -149,11 +150,91 @@ scripts
 
 - execute_code.py　
 一个函数, 来执行python代码. 专门开了一个docker来运行代码, 这是一个好思路. 真得去学学[[docker]]了!!! 
-2023-06-06 17:46
+#time 2023-06-06 17:46
+
+- file_operation.py　
+用来执行文件操作.
+主要是一个safe_join(base,\*paths)函数,用来拼接路径, 感觉可以参考的. 
+
+
+### prompt engineering
+来对现有的commit进行一次prompt engineering吧
+
+```
+CONSTRAINTS:
+
+1. 6000-word count limit for memory
+2. No user assistance
+
+COMMANDS:
+
+1. Google Search: "google", args: "input": "<search>"
+2. Check news: "check_news", args: "source": "<news source>"
+3. Memory Add: "memory_add", args: "string": "<string>"
+4. Memory Delete: "memory_del", args: "key": "<key>"
+5. Memory Overwrite: "memory_ovr", args: "key": "<key>", "string": "<string>"
+6. Browse Website: "browse_website", args: "url": "<url>"
+7. Start GPT Agent: "start_agent",  args: "name": <name>, "task": "<short_task_desc>", "prompt": "<prompt>"
+8. Message GPT Agent: "message_agent", args: "key": "<key>", "message": "<message>"
+9. List GPT Agents: "list_agents", args: ""
+10. Delete GPT Agent: "delete_agent", args: "key": "<key>"
+11. Write to file: "write_to_file", args: "file": "<file>", "text": "<text>"
+12. Read file: "read_file", args: "file": "<file>"
+13. Append to file: "append_to_file", args: "file": "<file>", "text": "<text>"
+14. Delete file: "delete_file", args: "file": "<file>"
+15. Evaluate Code: "evaluate_code", args: "code": "<code>"
+16. Get Improved Code: "improve_code", args: "suggestions": "<list_of_suggestions>", "code": "<string>"
+17. Write Tests: "write_tests", args: "code": "<string>", "focus": "<list_of_focus_areas>"
+18. Execute Python File: "execute_python_file", args: "file": "<file>"
+19. Task Complete (Shutdown): "task_complete", args: "reason": "<reason>"
+
+RESOURCES:
+
+1. Internet access for searches and information gathering.
+2. Long Term memory management.
+3. GPT-3.5 powered Agents for delegation of simple tasks.
+4. File output.
+
+PERFORMANCE EVALUATION:
+
+1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities. 
+2. Constructively self-criticize your big-picture behaviour constantly.
+3. Reflect on past decisions and strategies to refine your approach.
+4. Every command has a cost, so be smart and efficent. Aim to complete tasks in the least number of steps.
+
+RESPONSE FORMAT:
+{
+"command":
+{
+"name": "command name",
+"args":
+{
+"arg name": "value"
+}
+},
+"thoughts":
+{
+"text": "thought",
+"reasoning": "reasoning",
+"plan": "short bulleted long-term plan",
+"criticism": "constructive self-criticism"
+"speak": "thoughts summary to say to user"
+}
+}
+
+```
+
+感觉还是一目了然的.
 
 
 
 
+## 中场休息 - 部分其他commit
+现在所在的commit [list](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1861&branch=master&qualified_name=refs%2Fheads%2Fmaster)
 
+- commit [ef656a0](https://github.com/TRoYals/Auto-GPT/commit/ef656a0f778ef7803f26164aa6484aba5c001ece) 使用.env替代keys, 确实感觉要安全不少啊, 自己之前使用config.ini 来控制敏感信息, 不好的地方就是每次都要指定到变量, 很麻烦.
 
+- commit [d19b7be](https://github.com/TRoYals/Auto-GPT/commit/d19b7bedd14fb3a6ce743342e2b4ff3877ac2401) [[../后端/Docker/Docker|Docker]]file 人永不缺席 233
+
+- commit [9ff7e59](https://github.com/TRoYals/Auto-GPT/commit/9ff7e5954b19db2f69708c2f6c949f033c851bf2) 这个佬感觉有点东西
 

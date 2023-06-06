@@ -23,6 +23,7 @@
           {
             "id": "12a6508087065c67",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -30,11 +31,30 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "85077840ea5c1782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a915c2cfb01964b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/TRoYals/Auto-GPT/commit/9ff7e5954b19db2f69708c2f6c949f033c851bf2"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#save",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,20 +107,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "e0beafda3cb673cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -116,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,14 +176,29 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "e0beafda3cb673cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c85cd48206af80d5",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12a6508087065c67",
+  "active": "a915c2cfb01964b1",
   "lastOpenFiles": [
+    "Area/源码/Auto-GPT源码解析.md",
+    "Area/后端/Docker/Docker.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-06 工作.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md",
     "Projects/Yonyou/工作项目/学习/BI/BI.md",
     "Area/后端/后端.md",
-    "Area/后端/Docker/Docker.md",
-    "Area/源码/Auto-GPT源码解析.md",
     "Area/工具/工具笔记.md",
     "Area/工具/我的应用.md",
     "Area/后端/git/git命令/git命令.md",
