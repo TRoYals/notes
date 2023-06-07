@@ -10,6 +10,7 @@ check: 0
 ## 一句话概况
 对于不同的选择时间点选择了对应Commit的SHA值, 比较建议的是直接拿着SHA去访问原代码的git文件. 自身的水平有限, 也不知道怎么分析源码是高效的, 但是顺着时间线一条一条的看commit确实就像追剧一样十分有意思. 各位不妨把这条blog看作一部剧情概览. 
 
+My Source Code Journey #time 2023-06-06 14:07
 
 ## 对不同的时间的源码进行选择
 本文会选取Auto-GPT的不同的时间点的SHA来进行源码分析，之所以要从之前的commit来分析源码，是因为你可以看到整个项目是如何从第一次[commit]()到最后落地的，整个过程十分有趣。
@@ -274,7 +275,27 @@ RESPONSE FORMAT:
 　简单来说, 增加了一些url的验证, 之后自己也要做爬虫项目, 大概率是要用上的. #time 2023-06-07 14:27
 
 - commit [1e47328](https://github.com/TRoYals/Auto-GPT/commit/1e4732807931f815feb3f6dfab22b5f7c4d0ce15) 　　
-　俄国
+　俄国老哥继续发力, 增加了一个Search_file的功能, 能查找本地文件了! 一个小tips 　　
+```python
+def search_files(dir):
+founr_files = []
+serarch_dir = safe_join(working_dir, dir)
+for root,_,files in os.walk(search_dir):
+    for file in files:
+		if file.startwith("."):
+			continue
+		relative_path =  os.path.relpath(os.path.join(root,file),working_dir) 
+		founr_files.append(relative_path)
 
+return found_files
+```
+　其实 遍历文件 的操作操作过很多次了, 但看别人的代码还是能学到不少东西,
+ 1. 处理 .file 文件, 确实这个应该考虑
+ 2. os.walk() 操作, 自己都是用os.listdir() 来操作的,os.walk可以操作整个文件夹, 包括子列表. 要注意的是其返回的是一个三元组! 对于返回元组类型的文档都要特别关注一下.
+ 3. os.path.relpath() 的使用, 看看别人是怎么用的. 但好像没什么特别要注意的地方.
+
+不想看了!!! 休息片刻, 去看看[[LangChain 源码解析]] #time 2023-06-07 14:45
+
+ 
 
   

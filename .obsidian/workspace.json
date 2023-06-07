@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md",
+                "file": "Area/后端/python/library/Lib Pydantic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,13 +103,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "69a09433fe412c6c",
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md",
+                "file": "Area/后端/python/library/Lib Pydantic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md",
+                "file": "Area/后端/python/library/Lib Pydantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/源码/Auto-GPT源码解析.md"
+                "file": "Area/后端/python/library/Lib Pydantic.md"
               }
             }
           },
@@ -214,9 +212,22 @@
   },
   "active": "a2459f6158158d62",
   "lastOpenFiles": [
+    "Area/源码/LangChain 源码解析.md",
+    "Projects/Yonyou/工作项目/Satsaco/Satsaco 开发演示.md",
     "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md",
-    "Area/源码/Auto-GPT源码解析.md",
+    "Projects/毕业设计/chatGPT.md",
+    "Area/后端/python/library/Lib Pydantic.md",
+    "Area/后端/git/git.md",
+    "Area/后端/python/library",
+    "Area/后端/Docker/Docker.md",
+    "Area/后端/后端.md",
+    "Area/麻雀/麻雀.md",
     "Area/工具/chatGPT/chatGPT.md",
+    "Projects/Yonyou/工作项目/cas/开发文档.md",
+    "Projects/Yonyou/工作项目/Satsaco",
+    "Projects/Yonyou/Yonyou.md",
+    "Projects/毕业设计/答辩.md",
+    "Area/源码/Auto-GPT源码解析.md",
     "Area/工具/chatGPT/ChatGPT 学习赋能/AI tutor.md",
     "Area/视觉小说/视觉小说.md",
     "Area/前端/前端.md",
@@ -227,20 +238,9 @@
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 第二章.md",
     "Area/视觉小说/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.md",
     "Area/源码/Pandas-AI.md",
-    "Area/后端/Docker/Docker.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-06 工作.md",
     "Projects/Yonyou/工作汇报/日报/2023-06-05 工作.md",
-    "Projects/Yonyou/工作项目/学习/BI/BI.md",
-    "Area/后端/后端.md",
-    "Area/工具/工具笔记.md",
-    "Area/工具/我的应用.md",
-    "Area/后端/git/git命令/git命令.md",
-    "Area/后端/git/分支与合并相关命令.md",
-    "Area/后端/python/python配置.md",
-    "Area/后端/python/os模块.md",
-    "Area/后端/git/git.md",
     "Area/后端/Docker",
-    "Area/数据科学/数据科学.md",
     "Area/源码",
     "Area/工具/chatGPT/ChatGPT 学习赋能",
     "Area/视觉小说/rance",
@@ -248,8 +248,6 @@
     "Area/后端/git/git命令",
     "Projects/Yonyou/工作项目/cas/Untitled",
     "Projects/Yonyou/工作项目/cas",
-    "Projects/Yonyou/工作项目/学习/BI/学习资料/Untitled",
-    "Projects/Yonyou/工作项目/学习/BI/学习资料",
     "Naglfar28+Web/Untitled.canvas",
     "Others/scripts/Pasted image 20230103114811.png",
     "Others/scripts/Pasted image 20230101135526.png",

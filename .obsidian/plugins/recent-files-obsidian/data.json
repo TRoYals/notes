@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Auto-GPT源码解析",
-      "path": "Area/源码/Auto-GPT源码解析.md"
+      "basename": "Lib Pydantic",
+      "path": "Area/后端/python/library/Lib Pydantic.md"
+    },
+    {
+      "basename": "LangChain 源码解析",
+      "path": "Area/源码/LangChain 源码解析.md"
+    },
+    {
+      "basename": "Satsaco 开发演示",
+      "path": "Projects/Yonyou/工作项目/Satsaco/Satsaco 开发演示.md"
     },
     {
       "basename": "聊天记录信息",
       "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
     },
     {
+      "basename": "git",
+      "path": "Area/后端/git/git.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Area/后端/Docker/Docker.md"
+    },
+    {
+      "basename": "后端",
+      "path": "Area/后端/后端.md"
+    },
+    {
+      "basename": "麻雀",
+      "path": "Area/麻雀/麻雀.md"
+    },
+    {
       "basename": "chatGPT",
       "path": "Area/工具/chatGPT/chatGPT.md"
+    },
+    {
+      "basename": "开发文档",
+      "path": "Projects/Yonyou/工作项目/cas/开发文档.md"
+    },
+    {
+      "basename": "Yonyou",
+      "path": "Projects/Yonyou/Yonyou.md"
+    },
+    {
+      "basename": "答辩",
+      "path": "Projects/毕业设计/答辩.md"
+    },
+    {
+      "basename": "Auto-GPT源码解析",
+      "path": "Area/源码/Auto-GPT源码解析.md"
     },
     {
       "basename": "视觉小说",
@@ -49,10 +89,6 @@
       "path": "Area/源码/Pandas-AI.md"
     },
     {
-      "basename": "Docker",
-      "path": "Area/后端/Docker/Docker.md"
-    },
-    {
       "basename": "2023-06-06 工作",
       "path": "Projects/Yonyou/工作汇报/日报/2023-06-06 工作.md"
     },
@@ -63,10 +99,6 @@
     {
       "basename": "BI",
       "path": "Projects/Yonyou/工作项目/学习/BI/BI.md"
-    },
-    {
-      "basename": "后端",
-      "path": "Area/后端/后端.md"
     },
     {
       "basename": "工具笔记",
@@ -90,19 +122,11 @@
     },
     {
       "basename": "os模块",
-      "path": "Area/后端/python/os模块.md"
-    },
-    {
-      "basename": "git",
-      "path": "Area/后端/git/git.md"
+      "path": "Area/后端/python/library/os模块.md"
     },
     {
       "basename": "数据科学",
       "path": "Area/数据科学/数据科学.md"
-    },
-    {
-      "basename": "麻雀",
-      "path": "Area/麻雀/麻雀.md"
     },
     {
       "basename": "chatGPT部署相关",
@@ -123,14 +147,6 @@
     {
       "basename": "工作进度表",
       "path": "Projects/Yonyou/工作进度表.md"
-    },
-    {
-      "basename": "开发文档",
-      "path": "Projects/Yonyou/工作项目/cas/开发文档.md"
-    },
-    {
-      "basename": "Yonyou",
-      "path": "Projects/Yonyou/Yonyou.md"
     },
     {
       "basename": "Prompt Engineering",
@@ -177,24 +193,12 @@
       "path": "Projects/Yonyou/工作汇报/日报/2023-05-30 工作.md"
     },
     {
-      "basename": "答辩",
-      "path": "Projects/毕业设计/答辩.md"
-    },
-    {
       "basename": "毕业设计",
       "path": "Projects/毕业设计/毕业设计.md"
     },
     {
       "basename": "麻雀绝艺总纲",
       "path": "Area/麻雀/麻雀绝艺总纲/麻雀绝艺总纲.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Others/Untitled.md"
-    },
-    {
-      "basename": "Meeting 1",
-      "path": "Meeting 1.md"
     }
   ],
   "omittedPaths": [],
