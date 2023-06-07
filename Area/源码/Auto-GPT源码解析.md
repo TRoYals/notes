@@ -248,16 +248,16 @@ RESPONSE FORMAT:
 
 - commit [ea91201](https://github.com/TRoYals/Auto-GPT/commit/ea9120180e704d7b8b7b4385116b676ce4b2ae77)
 
-merge了Taytay的commits. 主要是新加了一些[[测试用例]], 感觉自己对测试用例方面的知识一直都不是很够, 这些内容还是很有参考价值的. 
+　merge了Taytay的commits. 主要是新加了一些[[测试用例]], 感觉自己对测试用例方面的知识一直都不是很够, 这些内容还是很有参考价值的. 
 
-感觉可以基于这个版本做一些简单的测试了, 到目前为止的代码还是很快迁移部署的.
+　感觉可以基于这个版本做一些简单的测试了, 到目前为止的代码还是很快迁移部署的.
 
 - commit [f20d6f3](https://github.com/TRoYals/Auto-GPT/commit/f20d6f3fdb731c43910ba49916a7c8e2e1fd9eb5) Prompt Engineering 　
 
   这个老哥, 做了一些prompt改进, 主要是处理了JSON文件中单双引号的问题, 还有就是把None和NaN的Value变成 null的问题. 这是一个好思路. AI可能会认为这些是str, 实际上并不是　
 　
 - commit [f2ba7f2+](https://github.com/TRoYals/Auto-GPT/commit/f2ba7f21c510fabe226fac661df0e9112674708a) 　
-这个老哥把谷歌search method 变成了 Google Custom Search API, 如果以后需要实现online search功能的话感觉可以参考.　
+　这个老哥把谷歌search method 变成了 Google Custom Search API, 如果以后需要实现online search功能的话感觉可以参考.　
 
 现在所在的 [commit-lists](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1756&branch=master&qualified_name=refs%2Fheads%2Fmaster)
  
@@ -270,9 +270,11 @@ merge了Taytay的commits. 主要是新加了一些[[测试用例]], 感觉自己
 看到这里了 [commit-list+1721](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1721) 还有1k多条, 但感觉后面会快很多.
 
 - commit [a4f130f](https://github.com/TRoYals/Auto-GPT/commit/a4f130ff602b89e1dac571362b34db5b8cb41429) 　
+　看着像是俄国老哥(Slavakurilyak), 更新了`browse.py`的[[代码安全性|安全性]]和鲁棒性! 重点关注!
+　简单来说, 增加了一些url的验证, 之后自己也要做爬虫项目, 大概率是要用上的. #time 2023-06-07 14:27
 
-看着像是俄国老哥(Slavakurilyak), 更新了`browse.py`的安全性和鲁棒性! 好更新!
-
+- commit [1e47328](https://github.com/TRoYals/Auto-GPT/commit/1e4732807931f815feb3f6dfab22b5f7c4d0ce15) 　　
+　俄国
 
 
   
