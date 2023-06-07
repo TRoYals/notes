@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Auto-GPT源码解析",
+      "path": "Area/源码/Auto-GPT源码解析.md"
+    },
+    {
+      "basename": "聊天记录信息",
+      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
+    },
+    {
       "basename": "chatGPT",
       "path": "Area/工具/chatGPT/chatGPT.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "前端",
       "path": "Area/前端/前端.md"
-    },
-    {
-      "basename": "Auto-GPT源码解析",
-      "path": "Area/源码/Auto-GPT源码解析.md"
     },
     {
       "basename": "kira🌟kira 第一章",
@@ -91,10 +95,6 @@
     {
       "basename": "git",
       "path": "Area/后端/git/git.md"
-    },
-    {
-      "basename": "聊天记录信息",
-      "path": "Projects/Yonyou/工作伙伴/zoe/聊天记录信息.md"
     },
     {
       "basename": "数据科学",

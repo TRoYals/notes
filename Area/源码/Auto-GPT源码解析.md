@@ -230,11 +230,49 @@ RESPONSE FORMAT:
 
 
 ## 中场休息 - 部分其他commit
-现在所在的commit [list](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1861&branch=master&qualified_name=refs%2Fheads%2Fmaster)
+现在所在的commit [list+1861](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1861&branch=master&qualified_name=refs%2Fheads%2Fmaster)
 
 - commit [ef656a0](https://github.com/TRoYals/Auto-GPT/commit/ef656a0f778ef7803f26164aa6484aba5c001ece) 使用.env替代keys, 确实感觉要安全不少啊, 自己之前使用config.ini 来控制敏感信息, 不好的地方就是每次都要指定到变量, 很麻烦.
 
 - commit [d19b7be](https://github.com/TRoYals/Auto-GPT/commit/d19b7bedd14fb3a6ce743342e2b4ff3877ac2401) [[../后端/Docker/Docker|Docker]]file 人永不缺席 233
 
-- commit [9ff7e59](https://github.com/TRoYals/Auto-GPT/commit/9ff7e5954b19db2f69708c2f6c949f033c851bf2) 这个佬感觉有点东西
+- commit [9ff7e59](https://github.com/TRoYals/Auto-GPT/commit/9ff7e5954b19db2f69708c2f6c949f033c851bf2) 这个佬(**Taytay**)感觉很厉害, 他在这个commit中更新了一个config类来管理 选择的模型状态, 同时, 他在TODO: 中说明了未来可以用LangChain训练的模型, 这个佬对LangChain也有研究! 后续将会一直关注他. 　
 
+- commit [tree/7fd2ce2](https://github.com/TRoYals/Auto-GPT/tree/7fd2ce2bc647f7502f6b39ea08cf8dda892ea1d9) 　　
+
+对Taytay的更新做一次简单的总结, Taytay意识到了对模型的选择上不能只局限在 ChatGPT-4 上, 他设定了一个[config.py](https://github.com/TRoYals/Auto-GPT/blob/7fd2ce2bc647f7502f6b39ea08cf8dda892ea1d9/scripts/config.py) 来装各种模型的信息以及需要导入的env. 并且他在这个模型中使用了 一个 class Singleton(type) 来确保只有一个instance.
+
+还定义了一个[AIConfig.py](https://github.com/TRoYals/Auto-GPT/blob/7fd2ce2bc647f7502f6b39ea08cf8dda892ea1d9/scripts/ai_config.py), 来记录ai保存的结果, 类似于一个中间件吧. 在[main.py](https://github.com/TRoYals/Auto-GPT/blob/7fd2ce2bc647f7502f6b39ea08cf8dda892ea1d9/scripts/main.py) 中定义了fn: construct_prompt 来快速生成ai对话prompt.
+
+## From Merge pull Taytay Commit ea91201 　
+
+- commit [ea91201](https://github.com/TRoYals/Auto-GPT/commit/ea9120180e704d7b8b7b4385116b676ce4b2ae77)
+
+merge了Taytay的commits. 主要是新加了一些[[测试用例]], 感觉自己对测试用例方面的知识一直都不是很够, 这些内容还是很有参考价值的. 
+
+感觉可以基于这个版本做一些简单的测试了, 到目前为止的代码还是很快迁移部署的.
+
+- commit [f20d6f3](https://github.com/TRoYals/Auto-GPT/commit/f20d6f3fdb731c43910ba49916a7c8e2e1fd9eb5) Prompt Engineering 　
+
+  这个老哥, 做了一些prompt改进, 主要是处理了JSON文件中单双引号的问题, 还有就是把None和NaN的Value变成 null的问题. 这是一个好思路. AI可能会认为这些是str, 实际上并不是　
+　
+- commit [f2ba7f2+](https://github.com/TRoYals/Auto-GPT/commit/f2ba7f21c510fabe226fac661df0e9112674708a) 　
+这个老哥把谷歌search method 变成了 Google Custom Search API, 如果以后需要实现online search功能的话感觉可以参考.　
+
+现在所在的 [commit-lists](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1756&branch=master&qualified_name=refs%2Fheads%2Fmaster)
+ 
+- commit [1b7b367+-](https://github.com/TRoYals/Auto-GPT/commit/1b7b367ce9e0455caf7ec2efbb0b5f4701bd2a51) 　
+
+  这个老哥我受不了了!!! AndresCdo 老哥, 一直在那里修改coding style, 就是加空行之类的... 这也行(我也能上@\_@)　(我怀疑这个老哥是个完美主义者...收回前面的评价)
+　
+进入垃圾时间了....不过话虽这么说, 才到04/04/23, 才过了几天啊, 有点恐怖.
+
+看到这里了 [commit-list+1721](https://github.com/TRoYals/Auto-GPT/commits/master?before=59d31b021d80513d01e2c9a24d523dade671a8d6+1721) 还有1k多条, 但感觉后面会快很多.
+
+- commit [a4f130f](https://github.com/TRoYals/Auto-GPT/commit/a4f130ff602b89e1dac571362b34db5b8cb41429) 　
+
+看着像是俄国老哥(Slavakurilyak), 更新了`browse.py`的安全性和鲁棒性! 好更新!
+
+
+
+  
