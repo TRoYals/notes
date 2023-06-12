@@ -165,3 +165,4 @@ class OpenAI(BaseModel, LLM):
 因此，即使没有显式调用 `validate_environment` 方法，也可以保证它的验证逻辑能够生效。
 ```
 
+2. 

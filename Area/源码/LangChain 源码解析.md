@@ -25,6 +25,8 @@ commit数 2384条 ,[ initail commit](https://github.com/TRoYals/langchain/commit
 
 从文件开始慢慢看吧. 这个initial commit可能要看很久
 
+
+
 - commit [tree/18aeb72](https://github.com/TRoYals/langchain/tree/18aeb720126a68201c7e3b5a617139c27c779496)　
 这个人的代码明显就比[[Auto-GPT源码解析|auto-gpt]]的要成熟的多...我直接狂学!
 
@@ -140,17 +142,26 @@ commit数 2384条 ,[ initail commit](https://github.com/TRoYals/langchain/commit
 
 - [langchain/__init__.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/__init__.py)　　　
   作者把__init__.py当作了一个 entrypoint, 感觉是个好思路, 有学到　
-　
-- [langchain/formatting.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/formatting.py)
+
   
-- [langchain/prompt.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/prompt.py)　
-  
-- [langchain/llms/openai.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/llms/openai.py)　
-　一来就是我不会的根验证器,  [[../后端/python/library/Lib Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.
-　
-　
+- [langchain/llms/openai.py+base.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/llms/openai.py)　
+　一来就是我不会的根验证器,  [[../后端/python/library/Lib Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.同时还用到了[[../后端/python/library/Lib ABC| ABC]]抽象基类, 并将二者结合来保证数据类型的一致性!看的出来, 作者很喜欢类型体操, 一眼大佬!
 
+- langchain/chains　　
+ 这个Chains文件夹里装的都是啥??? 感觉很有意思(大概), llms里基本就是一些语言模型的交互, 这里的才是重点!　
+- langchain/chains/base.py
+	这里是所有 chains的abc. 
 
-　
+- langchain/chains/python.py
+  作者定义了一条**Chain** 去run pycode! 和autogpt的思路几乎一样, 但是autogpt是用Docker实现的.
 
+## Version 0032 -commit 180
+时间来到08/12/22. 选择这个版本来分析源码
+\<e2e501aa06163a1cbd22efa8890b0b586db6e059>
 
+这个版本决定完全钻研透. 从单元测试到整体测试什么的都得学!
+
+其实学到这里 #time 
+2023-06-09 17:06, 基本上就可以写一份python项目指南了.
+
+python项目搭建
