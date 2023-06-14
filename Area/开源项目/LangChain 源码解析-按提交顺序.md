@@ -11,28 +11,30 @@ check: 0
 需求导向读源码, good Luck
 
 # 源码概览
+
 [fork](https://github.com/TRoYals/langchain)时间 #time 2023-06-07 14:47
 
-commit数 2384条 ,[ initail commit](https://github.com/TRoYals/langchain/commits/master?after=b3ae6bcd3f42ec85ee65eb29c922ab22a17a0210+2380&branch=master&qualified_name=refs%2Fheads%2Fmaster)时间 2022-10-25 
+commit 数 2384 条 ,[ initail commit](https://github.com/TRoYals/langchain/commits/master?after=b3ae6bcd3f42ec85ee65eb29c922ab22a17a0210+2380&branch=master&qualified_name=refs%2Fheads%2Fmaster)时间 2022-10-25
 
-一般贴了SHA的地方就表示在vscode中运行了当前版本
+一般贴了 SHA 的地方就表示在 vscode 中运行了当前版本
 
 # 开搞
+
 ## initial commit 18aeb72
+
 ### 基本描述
 
-其实第一次commit的时候就是一个很完整的项目了...
+其实第一次 commit 的时候就是一个很完整的项目了...
 
-从文件开始慢慢看吧. 这个initial commit可能要看很久
-
-
+从文件开始慢慢看吧. 这个 initial commit 可能要看很久
 
 - commit [tree/18aeb72](https://github.com/TRoYals/langchain/tree/18aeb720126a68201c7e3b5a617139c27c779496)　
-这个人的代码明显就比[[Auto-GPT源码解析|auto-gpt]]的要成熟的多...我直接狂学!
+  这个人的代码明显就比[[Auto-GPT源码解析|auto-gpt]]的要成熟的多...我直接狂学!
 
-贴个SHA\<18aeb720126a68201c7e3b5a617139c27c779496>
+贴个 SHA\<18aeb720126a68201c7e3b5a617139c27c779496>
 
-代码结构: 
+代码结构:
+
 ```
 .
 ├── docs
@@ -113,6 +115,7 @@ commit数 2384条 ,[ initail commit](https://github.com/TRoYals/langchain/commit
 ```
 
 ### 从 /langchain/ 开始　　
+
 ```
 ├── langchain
 │   ├── VERSION
@@ -140,28 +143,25 @@ commit数 2384条 ,[ initail commit](https://github.com/TRoYals/langchain/commit
 │   └── prompt.py
 ```
 
-- [langchain/__init__.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/__init__.py)　　　
-  作者把__init__.py当作了一个 entrypoint, 感觉是个好思路, 有学到　
-
-  
+- [langchain/**init**.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/__init__.py)　　　
+  作者把**init**.py 当作了一个 entrypoint, 感觉是个好思路, 有学到
 - [langchain/llms/openai.py+base.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/llms/openai.py)　
-　一来就是我不会的根验证器,  [[../后端/python/library/Lib Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.同时还用到了[[../后端/python/library/Lib ABC| ABC]]抽象基类, 并将二者结合来保证数据类型的一致性!看的出来, 作者很喜欢类型体操, 一眼大佬!
+  　一来就是我不会的根验证器, [[../后端/python/library/Lib Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.同时还用到了[[../后端/python/library/Lib ABC| ABC]]抽象基类, 并将二者结合来保证数据类型的一致性!看的出来, 作者很喜欢类型体操, 一眼大佬!
 
-- langchain/chains　　
- 这个Chains文件夹里装的都是啥??? 感觉很有意思(大概), llms里基本就是一些语言模型的交互, 这里的才是重点!　
+- langchain/chains 　　
+  这个 Chains 文件夹里装的都是啥??? 感觉很有意思(大概), llms 里基本就是一些语言模型的交互, 这里的才是重点!
 - langchain/chains/base.py
-	这里是所有 chains的abc. 
+  这里是所有 chains 的 abc.
 
 - langchain/chains/python.py
-  作者定义了一条**Chain** 去run pycode! 和autogpt的思路几乎一样, 但是autogpt是用Docker实现的.
+  作者定义了一条**Chain** 去 run pycode! 和 autogpt 的思路几乎一样, 但是 autogpt 是用 Docker 实现的.
 
-## Version 0032 -commit 180
-时间来到08/12/22. 选择这个版本来分析源码
+## Version 0.0.32 -commit 180
+
+时间来到 08/12/22. 选择这个版本来分析源码
 \<e2e501aa06163a1cbd22efa8890b0b586db6e059>
 
 这个版本决定完全钻研透. 从单元测试到整体测试什么的都得学!
 
-其实学到这里 #time 
-2023-06-09 17:06, 基本上就可以写一份python项目指南了.
-
-python项目搭建
+其实学到这里 #time
+2023-06-09 17:06, 基本上就可以写一份 python 项目指南了.[[../后端/python/python环境配置相关/python项目搭建|python项目搭建]]
