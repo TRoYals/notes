@@ -3,14 +3,15 @@ title: Langchain 个人使用指南
 article: true
 date: 2023-06-18 15:54
 ---
+
 ## modules
 
 ### Prompts
 
 #### output_parsers
 
-output_parsers 是一个 ABC, 主要的方法有这些:
-`<class:output_parsers>.get_format_instructions()`
+output_parsers 是一个 ABC, 主要的方法有这些:  
+`<class:output_parsers>.get_format_instructions()`  
 会返回所实用的 Output parser 的 Instructions.
 
 `<class:output_parsers>.dict()`会返回一个类似如下的语句
@@ -170,7 +171,7 @@ Actor(name='Tom Hanks', film_names=['Forrest Gump', 'Saving Private Ryan', 'The 
 
 ##### OutputFixingParser()
 
-挺抽象的,包装一个 parser 并修改它的错误.
+挺抽象的,包装一个 parser 并修改它的错误.  
 觉得挺好玩的,直接放源码了
 
 ```python
@@ -233,23 +234,22 @@ Please try again. Please only respond with an answer that satisfies the constrai
 
 #save 这个 OutputFixingParser 的调用方法还蛮有意思的感觉以后可以看源码来学习.
 
-
-
-
 ##### RetryOutputParser()
+
 不想总结了 有时间在做吧
-- [ ] 总结这一章 📅 2023-06-25🛫 2023-06-19 
+
+- [ ] 总结这一章 📅 2023-06-25🛫 2023-06-19
+
 ##### StructuredOutputParser()
+
 弃用
-
-
-
-
 
 ### Memory
 
 #### ChatMessageHistory()
+
 串起来了
+
 ```python
 from langchain.memory import ChatMessageHistory
 history = ChatMessageHistory()
@@ -259,8 +259,11 @@ history.add_ai_message("whats up?")
 print(history.messages)
 # [HumanMessage(content='hi!', additional_kwargs={}, example=False), AIMessage(content='whats up?', additional_kwargs={}, example=False)]
 ```
+
 #### ConversationBufferMemory()
-另一种Memory. 感觉不如ChatMessageHistory.
+
+另一种 Memory. 感觉不如 ChatMessageHistory.
+
 ```python
 from langchain.memory import ConversationBufferMemory
 memory = ConversationBufferMemory()
@@ -274,12 +277,17 @@ memory.chat_memory.add_ai_message("whats up?")
 memory.load_memory_variables({})
 # {'history': [HumanMessage(content='hi!', additional_kwargs={}, example=False), AIMessage(content='whats up?', additional_kwargs={}, example=False)]}
 ```
-只有history一个属性?,我不信. 好吧, 还真是....
+
+只有 history 一个属性?,我不信. 好吧, 还真是....
 
 #### 在[[#Chains]]中使用 Memory
+
 [[#ConversationChain()]]
+
 ##### adding_memory
+
 ... 难崩
+
 ```python
 template = """You are a chatbot having a conversation with a human.
 
@@ -288,21 +296,22 @@ Human: {human_input}
 Chatbot:"""
 
 prompt = PromptTemplate(
-    input_variables=["chat_history", "human_input"], 
+    input_variables=["chat_history", "human_input"],
     template=template
 )
 memory = ConversationBufferMemory(memory_key="chat_history")
 ```
-通过 memory类型名:
-类型名: <class 'langchain.memory.buffer.ConversationBufferMemory'> 
-可选参数:\['lc_kwargs', 'chat_memory', 'output_key', 'input_key', 'return_messages', 'human_prefix', 'ai_prefix', 'memory_key'] 
+
+通过 memory 类型名:  
+类型名: <class 'langchain.memory.buffer.ConversationBufferMemory'>  
+可选参数:\['lc_kwargs', 'chat_memory', 'output_key', 'input_key', 'return_messages', 'human_prefix', 'ai_prefix', 'memory_key']  
 必须参数:\[]
 
 ```python
 llm_chain = LLMChain(
-    llm=OpenAI(), 
-    prompt=prompt, 
-    verbose=True, 
+    llm=OpenAI(),
+    prompt=prompt,
+    verbose=True,
     memory=memory,
 )
 llm_chain.predict(human_input="Hi there my friend")
@@ -311,13 +320,12 @@ llm_chain.predict(human_input="Not too bad - how are you?")
 # " I'm doing great, thank you for asking!"
 ```
 
-
-
-
 ##### adding_memory_with_doc_and_memory
+
 ```ad-info
 可能从不止一个地方导入 memory
 ```
+
 ```python
 template = """You are a chatbot having a conversation with a human.
 
@@ -330,30 +338,36 @@ Human: {human_input}
 Chatbot:"""
 
 prompt = PromptTemplate(
-    input_variables=["chat_history", "human_input", "context"], 
+    input_variables=["chat_history", "human_input", "context"],
     template=template
 )
 memory = ConversationBufferMemory(memory_key="chat_history", input_key="human_input")
 chain = load_qa_chain(OpenAI(temperature=0), chain_type="stuff", memory=memory, prompt=prompt)
 
 ```
+
 然后就可以不停的问了
+
 ```python
 query = "What did the president say about Justice Breyer"
 chain({"input_documents": docs, "human_input": query}, return_only_outputs=True)
 print(chain.memory.buffer)
 ```
 
-注意这个时候,可以不断的重复query和chain的步骤,这个时候会同时更新doc和memory.
+注意这个时候,可以不断的重复 query 和 chain 的步骤,这个时候会同时更新 doc 和 memory.
 
-但是这样也同时存在3个问题
+但是这样也同时存在 3 个问题
+
 - [ ] memory 超出怎么办(过长)?
-- [ ] doc过长怎么办?
-- [ ] 超出4096怎么办?
+- [ ] doc 过长怎么办?
+- [ ] 超出 4096 怎么办?
+
 ##### agent_with_memory
+
 ##### agent_with_memory_in_db
 
-#### 保存memory history
+#### 保存 memory history
+
 ```python
 from langchain.schema import messages_from_dict, messages_to_dict
 dicts = messages_to_dict(history.messages)
@@ -361,18 +375,19 @@ dicts = messages_to_dict(history.messages)
 new_messages = messages_from_dict(dicts)
 ```
 
-
 ### Chains
+
 #### Intro
-什么是 chains?
+
+什么是 chains?  
 一连串的 call api(笑).
 
-还是老方法,看一下 一个 chain的属性.
-可选参数: \['lc_kwargs', 'memory', 'callbacks', 'callback_manager', 'verbose', 'output_key'] 
+还是老方法,看一下 一个 chain 的属性.  
+可选参数: \['lc_kwargs', 'memory', 'callbacks', 'callback_manager', 'verbose', 'output_key']  
 必须参数: \['prompt', 'llm']
 
-
 <class: langchain.chains.llm.LLMChain>
+
 ```python
 chain = LLMChain(llm=llm, prompt=prompt)
 non_hidden_attrs = [attr for attr in dir(chain) if not attr.startswith("_")]
@@ -381,13 +396,15 @@ print(non_hidden_attrs)
 # ['Config', 'aapply', 'aapply_and_parse', 'acall', 'agenerate', 'apply', 'apply_and_parse', 'apredict', 'apredict_and_parse', 'aprep_prompts', 'arun', 'callback_manager', 'callbacks', 'construct', 'copy', 'create_outputs', 'dict', 'from_orm', 'from_string', 'generate', 'input_keys', 'json', 'lc_attributes', 'lc_kwargs', 'lc_namespace', 'lc_secrets', 'lc_serializable', 'llm', 'memory', 'output_key', 'output_keys', 'parse_file', 'parse_obj', 'parse_raw', 'predict', 'predict_and_parse', 'prep_inputs', 'prep_outputs', 'prep_prompts', 'prompt', 'raise_deprecation', 'run', 'save', 'schema', 'schema_json', 'set_verbose', 'to_json', 'to_json_not_implemented', 'update_forward_refs', 'validate', 'verbose']
 ```
 
-先看下 [chain.run() ](https://github.com/TRoYals/langchain/blob/b3ae6bcd3f42ec85ee65eb29c922ab22a17a0210/langchain/chains/base.py#L245) 
-其只能接受一个参数args,也就是说普通使用需要kwargs.get.
+先看下 [chain.run() ](https://github.com/TRoYals/langchain/blob/b3ae6bcd3f42ec85ee65eb29c922ab22a17a0210/langchain/chains/base.py#L245)  
+其只能接受一个参数 args,也就是说普通使用需要 kwargs.get.
 
-大概就是这样 `print(llm_chain.run(adjective="funny", punctuation="!"))`或者是`print(llm_chain.run({"adjective": "funny", "punctuation": "!"}))`
+    大概就是这样 `print(llm_chain.run(adjective="funny", punctuation="!"))`或者是`print(llm_chain.run({"adjective": "funny", "punctuation": "!"}))`
 
 #### Add Memory to Chains
-就是看怎么把message保存
+
+就是看怎么把 message 保存
+
 ```python
 
 ```

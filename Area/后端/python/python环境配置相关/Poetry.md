@@ -25,13 +25,13 @@ Poetry 安裝需要在 Python 版本 2.7 or 3.5+ 以上
 
 |   |   |
 |---|---|
-|1|$ curl -sSL https://install.python-poetry.org \| python3 -|
+|1|$ curl -sSL <https://install.python-poetry.org> \| python3 -|
 
 ### 2. Poetry 在 Windows 安裝的朋友：
 
 |   |   |
 |---|---|
-|1|$ (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content \| py -|
+|1|$ (Invoke-WebRequest -Uri <https://install.python-poetry.org> -UseBasicParsing).Content \| py -|
 
 ### 3. 查看 Poetry 安裝版本
 
@@ -116,5 +116,4 @@ Poetry 安裝需要在 Python 版本 2.7 or 3.5+ 以上
 ### 6. 開啟 poetry 環境
 
 輸入 `poetry shell` 開啟虛擬環境，要關閉的話輸入 `exit` 即可離開
-
 

@@ -21,6 +21,17 @@ history.add_user_message("hi!")
 history.add_ai_message("whats up?")
 ```
 
+history.messages
+
+[HumanMessage(content='hi!', additional_kwargs={}, example=False),
+AIMessage(content='whats up?', additional_kwargs={}, example=False)]
+
+### ConversationBufferMemory
+
+将对话记录保存为 Buffer 流
+
+### Use memories in Chain
+
 ## Indexes
 
 ## Chain
