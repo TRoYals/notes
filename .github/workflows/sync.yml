@@ -27,7 +27,7 @@ jobs:
         run: |
           cd website/docs/
           find . -type f -not -path './.git/*' -not -name '.*' | while read file; do
-            if [ ! -e "../static_resources/$file" ]; thengi
+            if [ ! -e "../static_resources/$file" ]; then
               rm "$file"
             fi
           done
