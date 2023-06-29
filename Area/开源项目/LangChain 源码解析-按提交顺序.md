@@ -146,7 +146,7 @@ commit 数 2384 条 ,[ initail commit](https://github.com/TRoYals/langchain/comm
 - [langchain/**init**.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/__init__.py)　　　
   作者把**init**.py 当作了一个 entrypoint, 感觉是个好思路, 有学到
 - [langchain/llms/openai.py+base.py](https://github.com/TRoYals/langchain/blob/18aeb720126a68201c7e3b5a617139c27c779496/langchain/llms/openai.py)　
-  　一来就是我不会的根验证器, [[../后端/python/library/Lib Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.同时还用到了[[../后端/python/library/Lib ABC| ABC]]抽象基类, 并将二者结合来保证数据类型的一致性!看的出来, 作者很喜欢类型体操, 一眼大佬!
+  　一来就是我不会的根验证器, [[../后端/python/library/Pydantic| Pydantic]]库, 用来验证数据等. 感觉很强, 很强. 学就完事了.同时还用到了[[../后端/python/library/Lib ABC| ABC]]抽象基类, 并将二者结合来保证数据类型的一致性!看的出来, 作者很喜欢类型体操, 一眼大佬!
 
 - langchain/chains 　　
   这个 Chains 文件夹里装的都是啥??? 感觉很有意思(大概), llms 里基本就是一些语言模型的交互, 这里的才是重点!

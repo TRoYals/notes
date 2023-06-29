@@ -3,98 +3,94 @@ name: Sync Static Resources
 on:
   push:
     branches:
-      - main  
+      - main
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout static resources repository
-      uses: actions/checkout@v2
-      with:
-        repository: TRoYals/notes
-        path: static_resources
+      - name: Checkout static resources repository
+        uses: actions/checkout@v2
+        with:
+          repository: TRoYals/notes
+          path: static_resources
 
-    - name: Checkout website repository
-      uses: actions/checkout@v2
-      with:
-        repository: TRoYals/Naglfar28
-        path: website
-        token: ${{ secrets.GH_PAT}}
-    
-    - name: Delete files not present in static resources
-      run: |
-        cd website/docs/
-        find . -type f -not -path './.git/*' -not -name '.*' | while read file; do
-          if [ ! -e "../static_resources/$file" ]; then
-            rm "$file"
-          fi
-        done
-        find . -type d -not -path './.git' -empty -delete
+      - name: Checkout website repository
+        uses: actions/checkout@v2
+        with:
+          repository: TRoYals/Naglfar28
+          path: website
+          token: ${{ secrets.GH_PAT}}
 
+      - name: Delete files not present in static resources
+        run: |
+          cd website/docs/
+          find . -type f -not -path './.git/*' -not -name '.*' | while read file; do
+            if [ ! -e "../static_resources/$file" ]; thengi
+              rm "$file"
+            fi
+          done
+          find . -type d -not -path './.git' -empty -delete
 
+      - name: Install Python
+        run: sudo apt-get install python3
 
-    - name: Install Python
-      run: sudo apt-get install python3
+      - name: Install rsync
+        run: sudo apt-get install rsync
 
-    - name: Install rsync
-      run: sudo apt-get install rsync
-      
-    - name: Process static resource files
-      run: |
-        python3 -c '
-        import os
-        import re
-        def process_ad_blocks(file_path):
-            with open(file_path, "r") as f:
-                content = f.read()
-            ad_pattern = re.compile(r"```ad-(\w+)\n([\s\S]*?)\n```")
-            content = ad_pattern.sub(lambda m: f"::: {m.group(1)}\n{m.group(2)}\n:::", content)
-            with open(file_path, "w") as f:
-                f.write(content)
-        def process_links(file_path):
-            with open(file_path, "r") as f:
-                content = f.read()
-            link_pattern = re.compile(r"\[\[(.+?)(\|(.+?))?\]\]")
-            content = link_pattern.sub(lambda m: "[" + (m.group(3) or m.group(1)) + "](" + m.group(1).replace(" ", "%20").replace("#", ".md#") + ")", content)
-            with open(file_path, "w") as f:
-                f.write(content)
-        def remove_tags(file_path):
-            with open(file_path, "r") as f:
-                content = f.read()
-            card_pattern = re.compile(r"#card")
-            content = card_pattern.sub("", content)
-            caret_pattern = re.compile(r"\^[\w]+")
-            content = caret_pattern.sub("", content)
-            with open(file_path, "w") as f:
-                f.write(content)
-        def process_ad_blocks1(file_path):
-            with open(file_path, "r") as f:
-                content = f.read()
-            ad_pattern = re.compile(r"```ad-(\w+) ([\w-]+)\n([\s\S]*?)\n```")
-            content = ad_pattern.sub(lambda m: f"::: {m.group(1)} {m.group(2)}\n{m.group(3)}\n:::", content)
-            with open(file_path, "w") as f:
-                f.write(content)
+      - name: Process static resource files
+        run: |
+          python3 -c '
+          import os
+          import re
+          def process_ad_blocks(file_path):
+              with open(file_path, "r") as f:
+                  content = f.read()
+              ad_pattern = re.compile(r"```ad-(\w+)\n([\s\S]*?)\n```")
+              content = ad_pattern.sub(lambda m: f"::: {m.group(1)}\n{m.group(2)}\n:::", content)
+              with open(file_path, "w") as f:
+                  f.write(content)
+          def process_links(file_path):
+              with open(file_path, "r") as f:
+                  content = f.read()
+              link_pattern = re.compile(r"\[\[(.+?)(\|(.+?))?\]\]")
+              content = link_pattern.sub(lambda m: "[" + (m.group(3) or m.group(1)) + "](" + m.group(1).replace(" ", "%20").replace("#", ".md#") + ")", content)
+              with open(file_path, "w") as f:
+                  f.write(content)
+          def remove_tags(file_path):
+              with open(file_path, "r") as f:
+                  content = f.read()
+              card_pattern = re.compile(r"#card")
+              content = card_pattern.sub("", content)
+              caret_pattern = re.compile(r"\^[\w]+")
+              content = caret_pattern.sub("", content)
+              with open(file_path, "w") as f:
+                  f.write(content)
+          def process_ad_blocks1(file_path):
+              with open(file_path, "r") as f:
+                  content = f.read()
+              ad_pattern = re.compile(r"```ad-(\w+) ([\w-]+)\n([\s\S]*?)\n```")
+              content = ad_pattern.sub(lambda m: f"::: {m.group(1)} {m.group(2)}\n{m.group(3)}\n:::", content)
+              with open(file_path, "w") as f:
+                  f.write(content)
 
-        for root, dirs, files in os.walk("static_resources"):
-            for file in files:
-                if file.endswith(".md"):
-                    file_path = os.path.join(root, file)
-                    process_ad_blocks1(file_path)
-                    process_ad_blocks(file_path)
-                    process_links(file_path)
-                    remove_tags(file_path)
-        '
+          for root, dirs, files in os.walk("static_resources"):
+              for file in files:
+                  if file.endswith(".md"):
+                      file_path = os.path.join(root, file)
+                      process_ad_blocks1(file_path)
+                      process_ad_blocks(file_path)
+                      process_links(file_path)
+                      remove_tags(file_path)
+          '
 
-
-
-    - name: Copy all contents from static resources to website repository (excluding .git folder)
-      run: |
-        rsync -av --exclude='.git' static_resources/ website/docs/
-        cd website
-        git config user.name "GitHub Actions Bot"
-        git config user.email "actions@github.com"
-        git add docs/
-        git commit -m "Auto sync all static resources (excluding .git folder)" || true
-        git push
+      - name: Copy all contents from static resources to website repository (excluding .git folder)
+        run: |
+          rsync -av --exclude='.git' static_resources/ website/docs/
+          cd website
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add docs/
+          git commit -m "Auto sync all static resources " || true
+          git push
