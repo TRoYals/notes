@@ -3,7 +3,7 @@ name: Sync Static Resources
 on:
   push:
     branches:
-      - main  # 修改为您的默认分支名称，如果不是 main
+      - main  
 
 jobs:
   sync:
@@ -22,6 +22,18 @@ jobs:
         repository: TRoYals/Naglfar28
         path: website
         token: ${{ secrets.GH_PAT}}
+    
+    - name: Delete files not present in static resources
+      run: |
+        cd website/docs/
+        find . -type f -not -path './.git/*' -not -name '.*' | while read file; do
+          if [ ! -e "../static_resources/$file" ]; then
+            rm "$file"
+          fi
+        done
+        find . -type d -not -path './.git' -empty -delete
+
+
 
     - name: Install Python
       run: sudo apt-get install python3
