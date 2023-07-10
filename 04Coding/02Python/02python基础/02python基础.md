@@ -1,5 +1,5 @@
 ---
-title: python基础
+title: python基础子目录
 date: 2023-06-25 10:46
 article: false
 tags: topic

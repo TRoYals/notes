@@ -1,5 +1,5 @@
 ---
-title: 03Python Type
+title: python 类型规范
 date: 2023-06-27 10:12
 article: false
 tags:

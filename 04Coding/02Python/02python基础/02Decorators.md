@@ -1,5 +1,5 @@
 ---
-title: 02Decorators
+title: Decorators
 date: 2023-07-10 10:04
 article: false
 tag:
