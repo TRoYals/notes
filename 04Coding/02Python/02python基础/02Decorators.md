@@ -11,9 +11,11 @@ tag:
 
 ## 相关知识
 
-[[../../../09Tasks/函数式编程/01|函数式编程]]
+[[../../../09Thoughts/code thoughts/函数式编程/01|函数式编程]]
 
 ### Source
+
+[Python装饰器高级版—Python类内定义装饰器并传递self参数\_51CTO博客\_python 类装饰器](https://blog.51cto.com/yishi/2354752)
 
 [PEP 318 – Decorators for Functions and Methods | peps.python.org](https://peps.python.org/pep-0318/)
 
@@ -58,3 +60,6 @@ Result: 8
 在上述示例中，我们定义了一个名为 `logger` 的装饰器函数，它接受一个函数作为参数，并返回一个包装函数 `wrapper`。在 `wrapper` 函数中，我们添加了额外的日志记录逻辑。通过在 `add` 函数定义前添加 `@logger` 装饰器，我们将 `add` 函数传递给 `logger` 装饰器进行包装。当我们调用 `add` 函数时，实际上是调用了经过装饰器修改后的 `wrapper` 函数，从而实现了日志记录的功能。
 
 总之，装饰器是一种强大的语法构造，用于修改或扩展函数或类的行为。它们使得我们可以在不修改原始代码的情况下，通过添加额外的逻辑或功能来改变函数或类的行为。
+
+## 在类中使用 Decorators
+
