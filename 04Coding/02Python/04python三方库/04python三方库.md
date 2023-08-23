@@ -5,4 +5,5 @@ article: false
 tags: topic
 ---
 
-[[01pydantic]]
+[[01 pydantic]]
+[[../../03 Database/04 sqlalchemy/04 sqlalchemy|02 sqlalchemy]]
