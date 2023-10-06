@@ -24,3 +24,4 @@ with engine.connect() as conn:
 在这样的情形下, 虽然 会关闭链接, 但不会 commit 内容  
 需要通过, conn.commit() 来提交内容更改
 
+提交失败信息记得 rollback()
