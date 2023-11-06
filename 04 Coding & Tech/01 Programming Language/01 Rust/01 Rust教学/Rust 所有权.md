@@ -3,6 +3,7 @@ title: Rust 所有权相关
 date: 2023-10-12 17:04
 article: false
 tags:
+cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::01 Rust教学
 ---
 
 ## Rust 所有权规则 #card 
@@ -30,7 +31,6 @@ Rust 中处理内存的策略:
 ### 移动
 
 二次污染 (double free) #card 
-
 ```
 fn main() {
     let s1 = String::from("hello");
@@ -41,6 +41,7 @@ fn main() {
 ![image.png](http://oss.naglfar28.com/naglfar28/202310121739203.png)  
 s1 和 s2 指向同一个位置.  
 当 s2 和 s1 离开作用域后, 他们会释放相同的内存. 这是一个叫做**二次释放**的问题, 两次释放同一个内存会导致内存污染.
+^1697705718366
 
 为了解决这个问题, 当在 rust 中使用栈复制时, 原理的那个会被移动掉. 简单来说
 
@@ -100,3 +101,17 @@ fn makes_copy(some_integer: i32) { // some_integer 进入作用域
     println!("{}", some_integer);
 } // 这里，some_integer 移出作用域。没有特殊之处
 ```
+
+## Copy 属性
+Rust 有一个叫做 `Copy` 的特征，可以用在类似整型这样在栈中存储的类型。如果一个类型拥有 `Copy` 特征，一个旧的变量在被赋值给其他变量后仍然可用。  
+那么什么类型是可 `Copy` 的呢？可以查看给定类型的文档来确认，不过作为一个通用的规则： **任何基本类型的组合可以 `Copy` ，不需要分配内存或某种形式资源的类型是可以 `Copy` 的**。如下是一些 `Copy` 的类型：  
+#card 
+- 所有整数类型，比如 `u32`
+- 布尔类型，`bool`，它的值是 `true` 和 `false`
+- 所有浮点数类型，比如 `f64`
+- 字符类型，`char`
+- 元组，当且仅当其包含的类型也都是 `Copy` 的时候。比如，`(i32, i32)` 是 `Copy` 的，但 `(i32, String)` 就不是
+- 不可变引用 `&T` ，例如 [转移所有权](https://course.rs/basic/ownership/ownership.html#%E8%BD%AC%E7%A7%BB%E6%89%80%E6%9C%89%E6%9D%83) 中的最后一个例子，**但是注意: 可变引用 `&mut T` 是不可以 Copy 的**  
+^1697705718373
+
+[函数传值与返回](https://course.rs/basic/ownership/ownership.html#%E5%87%BD%E6%95%B0%E4%BC%A0%E5%80%BC%E4%B8%8E%E8%BF%94%E5%9B%9E)
