@@ -14,6 +14,9 @@ tags:
 [Introduction - The Rust Reference](https://doc.rust-lang.org/stable/reference/introduction.html) 
 
 ## 目录
+Rust 学习计划  
+[[Comprehensive Rust]]
+
 整个目录按照 Rust 语言圣经 编写  
 [[Rust 安装]]  
 [[Rust 数据类型]]  
