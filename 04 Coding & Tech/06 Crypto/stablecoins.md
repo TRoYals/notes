@@ -5,3 +5,4 @@ article: false
 tags: 
 ---
 
+[GHO: A Decentralized Multi-Collateral Stablecoin by Aave | CoinGecko](https://www.coingecko.com/learn/gho-decentralized-stablecoin-aave)
