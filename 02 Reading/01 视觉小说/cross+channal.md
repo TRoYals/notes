@@ -4,7 +4,6 @@ end: 2022-05-12
 tags:
 excerpt: 晚安†太一
 article: false
-status: done
 rating: ⭐⭐⭐ 
 ---
 
