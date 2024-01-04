@@ -4,7 +4,7 @@ date: 2023-11-06 01:13
 article: false
 tags: 
 cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::01 Rust教学
-cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::01 Rust教学
+
 ---
 
 一个基本的错误处理案例  
@@ -56,5 +56,5 @@ fn read_username_from_file() -> Result<String, io::Error> {
 ```
 #card  
  [传播界的大明星: ?](https://course.rs/basic/result-error/result.html#%E4%BC%A0%E6%92%AD%E7%95%8C%E7%9A%84%E5%A4%A7%E6%98%8E%E6%98%9F-)
- 1. 使用 `？` 来链式传播 Result
+ 1. 使用 `？` 来链式传播 Result  
 ^1699205338958
