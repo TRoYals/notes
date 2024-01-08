@@ -10,6 +10,7 @@ tags:
 *超越不可能* 读书笔记 更新中
 <!-- more -->
 
+![](http://oss.naglfar28.com/naglfar28/202401081443619.png)
 ## 前言
 不可能的背后是有公式的  
 其生物学公式是 心流
@@ -31,10 +32,10 @@ This  is  another  reason  why  peak  performance  is  an  infinite  game.  But 
 
 > 准备好开始这场无限的游戏了吗, 把棋盘翻转过来吧!
 
-## 动机 (DRIVE)
+## 动机 (motivation)
 motivation = drive+ goals+grit
 
-### 激情 (motivation)
+### 驱动力 (drive)
 
 燃料来源: 体能燃料和心理燃料  
 体能燃料故名思意, 就是吃好睡好, 心理健康.  
@@ -133,4 +134,126 @@ Think  of  it  this  way:  intrinsic  motivation launches you down the path of p
   神经科学方面介绍 Grit:  
   The prefrontal cortex (前脑额叶皮层) - 负责 "goal-directed behavior" 和 "self-regluation"
 
-  
+**Embrace the SUCK**
+
+three levels of well-being
+1. moment to moment happiness
+2. engagement: high-flow life style
+3. purpose?. blends the high-flow lifestyle of level two with the desire to impact lives beyond our own.
+
+Persistence = willpower + mindset + passion
+
+ willpower  
+will power 会随着时间下降, 所以你需要 "eat your ugly frog first"  
+有哪些能补充 willpower 的方法?:
+- 午睡
+- 喝咖啡
+- 简单锻炼
+
+> 之前在 X 上看到了一篇关于意志力对坚持习惯是无效的书, 现在找不到了. 找到链接了的话记得贴在这里
+
+Mindset (思维方式)  
+思维方式这个词太笼统抽象了, 用作者的引用应该是 " If you think you can, or you think you can't, well, you're right"-- Our Attitude toward learning 
+
+看了作者的描述, 我是一个坚定的 Growth Mindset 的人.
+
+Passion  
+啥都没说,.., 对了, 好奇是一切的开始, 咱们的这次旅程也是从对心流的好奇开始的.
+
+#### The grit to control your thoughts
+
+[This Is Water - Wikipedia](https://en.wikipedia.org/wiki/This_Is_Water)
+
+> And I submit that this is what the real, no bullshit value of your liberal arts education is supposed to be about: how to keep from going through your comfortable, prosperous, respectable adult life dead, unconscious, a slave to your head and to your natural default setting of being uniquely, completely, imperially alone day in and day out. That may sound like hyperbole, or abstract nonsense. Let’s get concrete. . .
+
+ChatGPT:  
+这段话似乎来自美国作家大卫·福斯特·华莱士（David Foster Wallace）的一篇演讲，尽管没有明确提到出处。在这段话中，华莱士讨论了自由艺术教育的真正价值，即超越了传统意义上的知识和技能教育。  
+他提出，自由艺术教育的核心价值在于教会人们如何保持清醒和自觉，防止自己在舒适、富裕、体面的成年生活中变得麻木不仁，不自觉地成为自己内心和本能反应的奴隶。这种本能反应使人感到孤独，固守在自己的世界里，与他人隔绝。  
+华莱士认为，这种教育的价值可能听起来夸张或抽象，但他强调，这是非常具体和实际的。自由艺术教育应该帮助人们学会怎样活得有意识、有目的，而不是仅仅按照默认的生活模式度日，这种模式往往是孤立和自我中心的。换句话说，这种教育的价值在于培养能够批判性思考、同情他人和理解复杂世界的能力，而不是仅仅追求物质上的成功和社会地位。
+
+emmm, 有时间可以看看 This is water. 但不是现在.
+
+感激练习 (是否要开一个感激练习的 subtask 呢>?)  
+好吧, 试一个月看看效果
+
+#### Mindfulness(正念练习)
+为什么要正念 A: To control the **GAP**  
+为了控制一个念头和大脑赋予这个念头情绪的这个短暂时刻进行干预. (这个短暂的时刻作者成为 GAP)
+
+正念就是为了察觉到这个 GAP, 以及这个 GAP 后的情绪.  
+(这个当然是可以练习的! 就和你打 maimai 一样)
+
+如何练习:
+1. 冥想, 啥事都不做, 在那坐五分钟, 然后不停的察觉到涌出来的念头以及情绪 (其实念头不重要! 重要的是念头引起的情绪, woc! 我这里不知道尝试过多少次冥想练习却从来没有注意到这一点),在察觉到后, 把念头拉回来, 这又被称为单点练习 (single-point mindfulness)
+2. 开放练习, 就是只关注思维的涌动, 不对他们做任何干涉.
+
+这么看 正念还是很有用的啊.
+
+#### The Grit to fear
+它来了!
+
+很多时候, 我们都没有意识到我们的情绪是恐惧, 他们被错误的编译和重定向 (misinterpreted and redirected:-)), 输出为 blame, anger, sadness 和一些不理性的行为和想法.
+
+为了克服这些, 你需要意识到恐惧.  
+
+"Do it despite the fear" -> "Do it because of the fear"
+
+意识到想像比现实更难, 你就不会在恐惧了 (因为恐惧本身就是很消耗能量 的行为)
+
+恐惧是心流路上的好帮手: 朝着你最害怕的方向前进会提高你的专注力并将其转换为心流.
+
+#### The Grit To Be your Best when you're at your worst  
+这一节在讲,当你在最糟糕的时候做最好的自己可以最大程度的体现你的坚毅力 (grit)  
+看着似乎有些云里雾里, 但是我觉得, 用 [[原子习惯]] 中的 " 意于阑珊 " 就能很好解释这个问题  
+[[原子习惯#第十六章]]
+
+作者用了一个词 "second wind" 来形容, 可以参考.
+
+#### The grit to recover
+恢复的 Grit, 这个好难, 确实, 有时候即使是抱着这样的念头:  
+" 学的太累了, 我要去附近的植物园逛逛休息下 " 也是需要 Grit 的 (因为懒?)
+
+Ferocity  
+勇于精进, 养成习惯, 习惯影响性格, 性格影响命运. 
+
+## Learning
+If you're hunting high achievements,motivation is what gets you into the game, but learning is what keeps you there.
+
+专家的八种能力
+- patterns that novices don't notice
+- Anomalies or events didn't happen or events that violate expectations
+- The big picture
+- The way things work
+- Opportunities and improvisations
+- Events that already happened or will happen
+- Difference that are too small for novices to detect
+- Their own limitations
+
+Truth filter 和 第一性原理  
+这里我没有看太明白, 作者举了马斯克的例子,在 space-X 中第一性原理在马斯克的例子里指定的是, 火箭的实际成本是市场价的 2%,基于这个第一性原理, 马斯克开始了 space-x, 其中发现造价低的事实就是马斯克基于 Truth filter 发现的.(大致是这个意思,只是记录)
+
+### ROI
+作者这里想介绍 ROI on reading, 读书的回报率
+
+Blogs: 阅读三分钟,获得作者 3 天的工作成果  
+Articles: 阅读二十分钟, 获得作者几个月的工作成果  
+Books: 阅读几个小时, 获得作者几年的工作成果  
+(这么一想, 读书确实要划算)
+
+但是作者可以把书的内容浓缩到 blogs 里啊>? 作者认为这不好, 因为你没有获知细节.
+
+我想要用动漫和 [[../../Area/视觉小说/视觉小说|galgame]] 来谈谈自己的理解, 动漫确实把动则 100 个小时的 gal 浓缩到了十几个小时, 但丢失了多少细节? 丢失了多少自己思考的时间? 丢失了多少自己暂停的机会?  
+这也是我为什么开始玩 gal 后就不看动漫的原因, 好的作品是需要投入时间的, 没有心的作品只会让人觉得无味.
+
+![image.png](http://oss.naglfar28.com/naglfar28/202401081635934.png)  
+
+很有爱的一个故事.
+
+### Five not-so-easy steps for Learning almost Anything
+#### Step 1: The five books of stupid
+通读五本书  
+在自己一无所知的时候 (stupid), 通读五本书
+
+> 这一章值得反复看!!!!!!!!!!!!!!!!!
+
+阅读这五本书的主要目的是识别术语
