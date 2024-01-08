@@ -6,4 +6,5 @@ tags:
   - group
 ---
 [[01 Rust教学/01 Rust教学|01 Rust教学]] Rust 学习的资料在这里.  
-[[02 Rust练习/02 Rust练习]]
+[[02 Rust练习/02 Rust练习]]  
+[[03 Rust项目/03 Rust项目]]
