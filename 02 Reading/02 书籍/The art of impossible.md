@@ -11,6 +11,9 @@ tags:
 <!-- more -->
 
 ![](http://oss.naglfar28.com/naglfar28/202401081443619.png)
+
+如果对这本书感兴趣的话, 请务必确保 读的是英文原版的, 很多词汇无法被中文准确的表达出 (尤其是术语).
+
 ## 前言
 不可能的背后是有公式的  
 其生物学公式是 心流
@@ -177,6 +180,9 @@ emmm, 有时间可以看看 This is water. 但不是现在.
 好吧, 试一个月看看效果
 
 #### Mindfulness(正念练习)
+
+^5506d5
+
 为什么要正念 A: To control the **GAP**  
 为了控制一个念头和大脑赋予这个念头情绪的这个短暂时刻进行干预. (这个短暂的时刻作者成为 GAP)
 
@@ -278,4 +284,219 @@ Books: 阅读几个小时, 获得作者几年的工作成果
 #### Step2-5: 
 看不懂 算了
 
+#### 情商
+情绪是 恐惧, 欲望, 关怀,游戏, 愤怒, 寻求和恐慌/悲伤 的共同的作用结果.  
+(: fear, lust, care, play, rage, seeking, and panic/grief.)
 
+从神经生物学的角度来看 情商可以被认为是有效 " 管理 " 这个奇怪个网络中每一个网络所需要需要的认知能力.
+
+训练情商就是, 训练识别这些区域发出的信号, 并相应的学习对他们采取行动或不采取行动.
+
+情商的四个方面: 自我意识, 自我管理, 社会意识和关系管理.
+
+> 不知道这几章都在讲什么.... 感觉有点云里雾里的
+
+### 训练 - The Rise of Superman
+
+> " 要想在某一领域达到精通掌握, 需要一万个小时的 ' 刻意练习 ' "
+
+更好地因素:  
+母亲, 音乐家 和棉花糖 (marshmallows: delayed gratification)
+
+对 " 一万小时 " 定律的质疑:
+1. 一万小时定律本人的质疑 (很多人的训练超过 1w 小时)
+2. 作者 Rise of Superman 中对运动员 的研究, 他们的训练不设计 1w 小时提出的三要素,却依然成功
+3. Discovery: the zigzag path to peak performance
+
+#### Match Quality
+匹配质量: which is the term economists use to describe a very tight fit among skills, interests, and the work that you do.
+
+Sampling Period
+
+早教的一个缺点: "fadeout effect" 
+
+从大的角度求看，匹配质量是好奇心、激情、目栐、掌控力、自权 -- 被适当堆叠的标志
+
+#### More Flow
+如何获得成就: start with match Quality, it most definitely ends with flow.
+
+Amplify learning and memory.
+
+> When flow is the reward, learning shifts from something done consciously, with energy and effort, to something done automatically, out of habit and joy.. It’s the habit of ferocity applied to learning. If we can automate this whole instinct, from the first spark of curiosity that ignites the adventure through the rush of mastery that is its never-ending conclusion, then we’re constantly feeding our passion and purpose. This is what allows us to play the infinite game. If you keep learning, you keep playing. And if you keep playing for years on end, one day you might notice that the stakes involved not only exceed your expectations, they exceed your imagination —which is, after all, one reason they call it the “infinite game.”
+
+心流就是一种奖励.
+
+## Creativity
+
+> 有点搞不懂啊, 为什么需要创造力..
+
+Reading + Writing + Arithmetic => Creativity + Critical thinking + collaboration +cooperation
+
+发散性思维.  
+![](http://oss.naglfar28.com/naglfar28/202401111636347.png)
+
+> 啊, 我好难受 啊, 真心看不懂啊.
+
+### 神经网络的交互作用
+#### 注意力网络 (attention)
+subthalamic nucleus. [Subthalamic nucleus - Wikipedia](https://en.wikipedia.org/wiki/Subthalamic_nucleus)  
+![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basal_ganglia_circuits.svg/640px-Basal_ganglia_circuits.svg.png)
+
+信息通过感官进入, 同过丘脑被路由到丘脑下核. 在这里, 神经元进行两个行为:
+1. 帮助调节本能行为 (Regulate instinctive behaviors)
+2. 这个区域还提供了聚光灯注意力中的“聚光灯”，只不过不是你想象的那种方式。  
+什么意思?  
+丘脑下核并不是那种强调重点的, 而是把其他的吸引注意力的东西 dim 掉.
+
+woc!  
+确实啊, 聚光灯每次使用都需要伴随着暗幕 (dim).  
+
+```ad-info
+
+> 前扣带皮质（anterior cingulate cortex，简称 ACC）是大脑中的一个区域，位于大脑两半球的内侧表面，正上方是扣带回（cingulate gyrus）的前部。它是边缘系统的一部分，与情绪形成、决策、奖励预期、同理心、冲动控制、情绪调节和错误检测等多种认知和情感功能相关联。
+```
+![](http://oss.naglfar28.com/naglfar28/202401111726488.webp)
+
+```ad-info
+顶叶皮质（parietal cortex）是大脑顶叶的一部分，位于大脑的上部和侧面，大致位于两耳之间。顶叶皮质在处理感官信息、空间定位、身体感知、运动协调以及注意力等方面起着关键作用。
+
+在顶叶皮质中，有两个特别重要的区域：
+
+1. 体感觉皮质（somatosensory cortex）：它位于顶叶的前部，紧邻中央沟（central sulcus），是主要的感觉输入区域。体感觉皮质负责处理身体各部位传来的触觉、压力、温度和疼痛等感觉信息。
+
+2. 顶顶叶（superior parietal lobule）和下顶叶（inferior parietal lobule）：这些区域在处理复杂的空间任务和注意力集中方面特别重要。例如，下顶叶包括了安杰利娜区（angular gyrus）和苏普拉玛金纳区（supramarginal gyrus），这些区域与语言理解、数学能力、空间感知和身体定位有关。
+
+顶叶皮质通过与大脑的其他区域，如前额叶、颞叶和枕叶等相连，参与到多种认知过程中。例如，它与前额叶皮质的连接有助于执行功能的发挥，而与枕叶皮质的连接则与视觉空间信息的处理有关。
+
+顶叶皮质也与注意力的定向和维持有直接关系。它帮助确定注意力的焦点，以及当环境中出现新的刺激时如何重新分配注意力。此外，顶叶皮质还参与处理触觉和视觉输入的整合，以及身体感觉与运动控制之间的协调。
+```
+![](https://www.simplypsychology.org/wp-content/uploads/parietal-lobe-structure.jpg)
+
+**error correction**:  
+前扣带皮层负责错误纠正，如当实际情况与大脑预测不符时，它会被激活。
+> 在执行前, 信息会被 ACC 进行错误纠正
+
+executive attention:  
+parietal lobe functions:
+1. help our eyes stay locked on the target.
+2. allow goals to be integrated with attention
+3. help us meet the goals  
+parietal lobe 帮助我们对外界作出反应.
+
+ prefrontal cortex  
+![](https://upload.wikimedia.org/wikipedia/commons/a/ae/Prefrontal1.png)
+
+dorsolateral prefrontal cortex
+- where working memory lives 
+
+orbitofrontal cortex:  
+当面对困难问题时，独自尝试解决可能存在风险，但如果有朋友帮助，风险就会降低。眶额皮层帮助进行这种社会性的评估。此外，它还能抑制本能行为，使我们能够做出更有创造性的选择。
+
+#### Imagination Network
+Spontaneous thoughts  
+the system is active when we're awake but not focused on anything in particular--about 30% about the time.
+
+> When we’re training the brain to be more creative, a part of what we’re training is this capacity for network co-activation.
+
+bend break blend
+
+> These are the skills beneath creativity, allowing us to bend what we see, break apart what we sense, and blend it all back together in a brand-new way.
+
+#### the salience network
+Salience(显著性) => noticeability
+
+> when you noticed the feeling of that loose ladder step, the insula used that looseness to catch your attention, while the anterior cingulate turned that salience into an error signal—don’t take that step, something’s wobbly in Denmark.
+
+insula catches attention, anterior cingulate turned salience into an error signal.
+
+> But creative brains don’t have this tendency. Their repetition suppression reflex isn’t on the job. What this translates to in the real world is the ability to notice the new in the old.
+
+### 如何训练 creativity
+Hacking Creativity=> “figuring out how to get your neurobiology to work for you rather than against you."
+
+#### Step1: Befriend your ACC
+
+Remote association problems: (远程联想问题)  
+. Subjects are given three words—pine/crab/sauce—and one goal: find a fourth word that complements each. In this case, the answer is “apple,” as in: pineapple, crab apple, and applesauce.
+
+一个远程联想问题训练:  
+给定三个词 — "star"（星星）, "blue"（蓝色）, "house"（房子）。你的任务是找到一个与这三个词都能形成某种联系的第四个词。  
+我的第一答案 (1s 内):earth  
+因为 earth 同时拥有以上的三个属性  
+后来想到了一个答案 - light, 因为三者同时可以与之产生联系. 注意两个答案的不同之处. 一个是聚焦的, earth 同时有三个属性, 一个是发散的,三者都能与 light 产生联系.
+
+the ACC lights up when we are considering those off-the-wall ideas.
+> 当我们在做一些有趣的事情的时候,ACC 会由默认模式切换到 executive attention network.
+
+what lights up the ACC?  
+a good mood.
+
+if an active ACC is the ready condition for insight, then a good mood is the ready condition for an active ACC.
+
+A daily gratitude practice, a daily mindfulness practice, regular exercise, and a good night’s rest.
+
+好的休息能让我们拥有好的心情, 从而能更好的激活 ACC, 发现那些**微かな印**.  
+(对我来说听 ASMR 也可以)
+
+Gratitude trains the brain to focus on the positive, altering its normally negatively biased information filtering tendencies.
+
+Mindfulness. gives the ACC more time to consider those alternative, far-flung possibilities.  
+(这里的 mindfulness 应该是前面介绍的两种中的发散性的 [[#Mindfulness(正念练习)]])
+
+Exercise. 锻炼降低了压力水平，将皮质醇从我们的体系中清除，同时增加了让人感觉良好的神经化学物质.  
+Plus, the time-out from normal life that exercise provides works as an incubation period, the second stage of Poincaré’s creative cycle.  
+[Poincare’s Creativity. The scientist does not study nature… | by Vladimir Kuzmenkov | Medium](https://medium.com/@vovakuzmenkov/poincares-creativity-8e31d5031529)
+> 这里提到了 Poincaré’s creative cycle, 我在网上查找后发现了这个和 [[禅和摩托车维修技术]] 有关,而这本书就是我计划中读的下本书 (我的 acc 已经察觉到了这些,已经在 fire on all cylidenrs)
+
+Sleep. 最重要的. 不解释了.
+
+#### Step2: Broaden your Horizons
+左右脑的划分, 左脑细节, 右脑创造 (有点像 S 和 N)
+
+从桌子下面爬出来，走到户外，环顾四周，必要时重复这个过程。 广大的空间让人思考更多的可能. 
+
+说白了, 就是教人锻炼右脑???
+
+#### Step3: the importance of non-time and no one
+
+non-time: that vast stretch of emptiness between 4:00 A.M., when I start my morning writing session, and 7:30 A.M., when the rest of the world wakes up. This is non-time, a pitch blackness that belongs to no one.
+
+作者介绍了 **non-time** 的概念, 这个概念太重要了.
+
+作者在这里也简单介绍了 deadlines 的概念, 为什么 deadline 会很高效? 因为我们的关注点主要在细节, 我们主要用左脑思考.
+
+non-time: 我的 non-time trigger:  
+卧室的大灯全关, 只保留我的床头灯, 睡前会进入一段 non-time, 早上醒后也会进入一段 non-time, 老实说, 在看到这章之前, 我就的的确确的有使用 non-time 习惯, 算是不谋而合了. (甚至,这篇 blog,我觉得我的 blog 里很多都是创造性的 -- 他们的可读性很差, 因为很多是由创造力的联想编制而成的)
+
+#### Step4: Pattern recognition, search parameters and three-martini lunches
+酒精能帮我们更有创造性.
+
+如果你想在生活中拥有更多的创造力，那么你需要从一个不会立即与你已知的东西联系起来的想法开始。从不熟悉的东西开始，我们迫使大脑扩大搜索参数并启动其远程联想技能。
+
+成为神棍
+
+#### Step5: Think inside the box
+我现在一看到 inside the box 就会想到海猫的猫箱...
+
+Limits drive creativity. 六轩岛大爆炸是一切事件的开始.
+
+#### Step6: Load the pattern recognition system
+Creativity requires pattern recognition, but what does pattern recognition require? Ammunition.
+
+“chance favors the prepared mind,”though, by chance, what we really mean is dopamine.
+
+这句话的意思是, 但我们触发模式识别时,我们会触发多巴胺. 这在心流中是十分关键的行为.
+
+在专业化时, 这样的模式识别来分泌多巴胺继续促进模式识别的行为可能会被弱化.
+
+Cast a wide net 可以帮我们解决这个问题, 以自己举例, 玩个 galgame 却能在看书的时候不断想起书中的内容, 算是 best practice 了.
+
+#### the MacGyver method
+conscious => subconscious
+1. Problem identification  
+Writing down the problem: the relationship between tactile experience and memory, is key.
+
+2. Incubation
+step away from the problem a little while.
+
+3. Free writing

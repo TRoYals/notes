@@ -62,4 +62,47 @@ Pagination
 异步日志 (Asynchronous Logging)  
 **异步日志记录**则采用了不同的策略。当应用程序产生日志时，它首先将日志信息发送到一个内存中的缓冲区，通常是一个无锁的队列。这个操作相比磁盘 I/O 要快得多，因此应用程序几乎可以立即返回继续执行。然后，一个单独的后台进程或线程会负责定期地将缓冲区中的日志数据批量写入磁盘。这种方法大大减少了 I/O 开销，因为它减少了磁盘操作的次数，并且可以利用批处理和其他优化技术来提高效率。
 
-缓存 (Caching)
+缓存 (Caching)  
+Redis
+
+Payload Compression  
+负载压缩:  
+使用如 gzip、Brotli、Deflate 等压缩算法对文本数据压缩
+
+Connection Pool  
+链接池
+
+### HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/http3.jpg)
+
+- HTTP 1.0: 1996. 每一个对于服务器的访问需要一个单独的 TCP Connection
+- HTTP 1.1: 引入 持久链接 (keep-alive)，这意味着在同一个 TCP 连接上可以发送和接收多个 HTTP 请求和响应，而不需要每次交换数据时都打开一个新的连接. 但是仍然没有解决 **HOL** (head of line 头部阻塞) 的问题 (意思就是在一个 TCP 连接中，所有的 HTTP 请求和响应都是按顺序进行的。这意味着第一个请求必须完成（包括发送请求和接收响应），第二个请求才能开始。)
+- HTTP 2.0: 2015. 允许一个 TCP connections 上复用 (multiplexing) 但是仍然存在 TCP 层面上的头部阻塞问题
+- HTTP 3.0: 2020(first draft) 使用 QUIC 来替代 TCP.  
+QUIC（Quick UDP Internet Connections）是一种基于 UDP（User Datagram Protocol）的传输协议，它在传输层引入了流（streams）的概念。在 QUIC 协议中，流被视为一等公民，这意味着它们是协议设计的核心部分，而不是像 HTTP/2 中那样在应用层上实现的抽象概念。
+
+### SOAP vs REST vs GraphQL vs RPC
+
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/SOAP%20vs%20REST%20vs%20GraphQL%20vs%20RPC.jpeg)
+
+### Code First vs. API First
+
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/api_first.jpg)
+
+can have TDD when using API first development.
+
+### HTTP Status codes
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/http-status-code.jpg)
+
+补充一个 418 - I'm a teapot. 之前在用友实习的时候有这个返回码笑死.
+
+### What does API gateway do?
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/api_gateway.jpg)
+
+之前看过部分 Treafik 的东西,最后没有上手用有点可惜了.
+
+### 如何设计有效且安全的 API
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/safe-apis.jpg)
+
+### TCP/IP 概述
+![](https://github.com/ByteByteGoHq/system-design-101/raw/main/images/osi%20model.jpeg)
