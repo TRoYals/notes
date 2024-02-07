@@ -17,5 +17,5 @@ tags:
 每天至少增加 1 张卡片, 复习不问
 
 #### leetcode
-leetcode 项目里有 commit 或者 [这里](https://github.com/TRoYals/notes/commits/main/04%20Coding%20%26%20Tech/04%20Coding%20Ability) commit 记录
+[leetcode](https://github.com/TRoYals/leetcode/commits/main/) 项目里有 commit 或者 [这里](https://github.com/TRoYals/notes/commits/main/04%20Coding%20%26%20Tech/04%20Coding%20Ability) commit 记录
 
