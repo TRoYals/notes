@@ -6,3 +6,4 @@ tags:
 ---
 
 [[尚硅谷大数据6.0]]
+[[Hadoop/Hadoop|Hadoop]]
