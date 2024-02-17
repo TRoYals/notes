@@ -19,3 +19,6 @@ tags:
 #### leetcode
 [leetcode](https://github.com/TRoYals/leetcode/commits/main/) 项目里有 commit 或者 [这里](https://github.com/TRoYals/notes/commits/main/04%20Coding%20%26%20Tech/04%20Coding%20Ability) commit 记录
 
+## 习惯 Trigger
+1. 三餐饭后  
+三餐饭后是非常不错的 trigger 点, 在三餐期间, 需要做正念 (目的是为了下一步) 并且打开 obsidian 的每日计划, 以及更新 jinbu 
