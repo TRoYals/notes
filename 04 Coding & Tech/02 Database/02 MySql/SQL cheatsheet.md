@@ -26,8 +26,11 @@ tags:
 ## Join
 ### select Join
 [SQL | Join (Inner, Left, Right and Full Joins) - GeeksforGeeks](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)
+### cross join
+[1280. 学生们参加各科测试的次数 - 力扣（LeetCode）](https://leetcode.cn/problems/students-and-examinations/description/?envType=study-plan-v2&envId=sql-free-50)
 
 ## sql 常见函数
 `length`: 取长度  
-`datediff()`: 取日期差
-
+`datediff()`: 取日期差  
+`if`:  
+	`ROUND(SUM(IF(sign.action='confirmed',1,0))/count(*),2) AS confirmation_rate,`
