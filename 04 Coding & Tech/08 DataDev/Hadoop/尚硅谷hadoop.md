@@ -7,3 +7,6 @@ hadoop 优势 #card
 4. 高容错性： 能够自动将失败的任务自动分配
 
 ### HDFS 介绍
+![image.png](http://oss.naglfar28.com/naglfar28/20240220230848.png)
+
+主要学习 `hdfs`,`yarn`,`hadoop`
