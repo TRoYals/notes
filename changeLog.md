@@ -1,3 +1,6 @@
+- 2024-03-07 at 11h18 · [[Softem intern]]
+- 2024-03-07 at 11h12 · [[Untitled]]
+- 2024-03-07 at 11h11 · [[2024-03-07]]
 - 2024-03-01 at 00h32 · [[Distinct descending motor cortex pathways and their roles in movement]]
 - 2024-03-01 at 00h27 · [[Middle East Crisis In Chaotic Gaza Scene, Many Are Killed and Wounded as Israelis Open Fire]]
 - 2024-03-01 at 00h22 · [[IJR368147 1661..1683]]
@@ -15,6 +18,3 @@
 - 2024-02-23 at 12h29 · [[The%20Food%20at%20Inga%E2%80%99s%20Bar%20Is%20Far%20From%20Bar%20Food.pdf]]
 - 2024-02-23 at 12h29 · [[Teacher leadership and teachers’ learning actualizing the connection from day one]]
 - 2024-02-23 at 12h29 · [[349281EN-A, Dust Suppression Report Summary,349281EN-A, Dust Suppression Report Summary]]
-- 2024-02-23 at 12h29 · [[16.1. Crowdsourcing Definition — Social Media, Ethics, and Automation]]
-- 2024-02-23 at 12h29 · [[16.2. Planned Crowdsourcing Examples — Social Media, Ethics, and Automation]]
-- 2024-02-23 at 12h29 · [[[PDF] BigVGAN A Universal Neural Vocoder with Large-Scale Training  Semantic Scholar]]
