@@ -1,3 +1,4 @@
+- 2024-03-14 at 09h13 · [[2024-03-14]]
 - 2024-03-12 at 05h10 · [[魔法使之夜]]
 - 2024-03-08 at 13h32 · [[Relief：献给亲爱的你]]
 - 2024-03-08 at 13h32 · [[尚硅谷hadoop]]
@@ -17,4 +18,3 @@
 - 2024-02-29 at 23h38 · [[Why is the 2024 F1 season starting on a Saturday]]
 - 2024-02-29 at 23h32 · [[Aristotle The Complete Works. Electronic Edition.  The Complete Works of Aristotle. BOLLINGEN SERIES LXXI - 2 Volume I  The Complete Works of Aristotle (Volume 1)]]
 - 2024-02-29 at 23h32 · [[Quick Tip 001—Inline Minified CSS]]
-- 2024-02-29 at 23h27 · [[Why People “Don’t Trust the Evidence”  Motivated Reasoning and Scientific Beliefs - Patrick W. Kraft, Milton Lodge, Charles S. Taber, 2015]]
